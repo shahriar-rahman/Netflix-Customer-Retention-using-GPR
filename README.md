@@ -2,6 +2,10 @@
 # Netflix Customer Retention using GPR
 Forecasting Netflix Customer Retention based on Gaussian Process Regression.
 
+<div align="center">
+    <img width="100%" src="img/netflix (4).gif" alt="Netflix1.gif" >
+</div>
+
 ### Introduction
 The detailed activity of customers can be monitored to predict the rate of retention to stay subscribed for an extended duration of time, also known as Customer lifetime value (CLV), which can be applied as a metric that represents the total net profit a company can expect to generate from a customer throughout their entire relationship. It takes into account the customer's initial purchase, repeat purchases, and the average duration of their relationship with the company. There are two ways of inspecting customer lifetime value: historic customer lifetime value (how much each existing customer has already spent with the specified brand) and predictive customer lifetime value (how much customers could spend with the brand). Both measurements of customer lifetime value are useful for tracking business success.
 
@@ -9,9 +13,6 @@ Therefore, by leveraging the power of data analysis and engineering tools such a
 
 <br/><br/>
 
-<div align="center">
-    <img width="100%" src="img/netflix (4).gif" alt="Netflix1.gif" >
-</div>
 
 <br/><br/>
 
