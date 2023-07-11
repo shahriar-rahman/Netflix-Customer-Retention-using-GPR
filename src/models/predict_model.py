@@ -5,7 +5,6 @@ import pandas as pd
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error as mse
 from sklearn.metrics import mean_absolute_error as mae
-
 sys.path.append(os.path.abspath('../visualization'))
 import visualize
 

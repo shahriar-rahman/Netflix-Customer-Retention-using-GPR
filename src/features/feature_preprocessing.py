@@ -1,9 +1,6 @@
 import os
 import sys
 import pandas as pd
-import seaborn as sns
-import missingno as msn
-import matplotlib.pyplot as plt
 df_path = '../../dataset/raw/netflix_userbase.csv'
 sys.path.append(os.path.abspath('../visualization'))
 import visualize
@@ -121,4 +118,3 @@ class FeatureProcessing:
 if __name__ == "__main__":
     main = FeatureProcessing()
     main.feature_processing()
-

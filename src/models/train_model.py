@@ -9,7 +9,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error as mse
 from sklearn.metrics import mean_absolute_error as mae
 from sklearn.gaussian_process import GaussianProcessRegressor as Gpr
-
 sys.path.append(os.path.abspath('../visualization'))
 import visualize
 

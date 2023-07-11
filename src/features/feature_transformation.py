@@ -1,7 +1,6 @@
 import os
 import sys
 import pandas as pd
-import matplotlib
 from sklearn import preprocessing
 path = '../../dataset/processed/netflix_processed.csv'
 sys.path.append(os.path.abspath('../visualization'))

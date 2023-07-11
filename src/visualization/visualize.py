@@ -1,12 +1,10 @@
-import pandas as pd
 import math
-import missingno as msn
 import numpy as np
-from matplotlib import pyplot as plt
+import pandas as pd
 import seaborn as sb
+import missingno as msn
+from matplotlib import pyplot as plt
 from matplotlib.font_manager import FontProperties
-import plotly.express as px
-import plotly.graph_objects as go
 
 
 class Visualize:
@@ -263,4 +261,3 @@ class Visualize:
 
 if __name__ == "__main__":
     main = Visualize()
-

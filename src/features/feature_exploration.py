@@ -1,9 +1,6 @@
 import os
 import sys
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import missingno as msn
 path = '../../dataset/processed/netflix_processed.csv'
 sys.path.append(os.path.abspath('../visualization'))
 import visualize
@@ -44,7 +41,7 @@ class FeatureExploration:
         self.visualize.plot_hist(self.df_netflix, 'monthly_revenue', text)
 
         # Gender Distribution
-        text = "Countplot: Distribution of Genders"
+        text = "Count Plot: Distribution of Genders"
         self.visualize.plot_count(self.df_netflix, 'gender', text)
 
         # Age Groups
@@ -52,7 +49,7 @@ class FeatureExploration:
         self.action_listener(self.df_netflix['age'].median(), "Median Age: ")
         self.action_listener(self.df_netflix['age'].std(), "Age Deviation: ")
 
-        text = "Countplot: Distribution of Age"
+        text = "Count Plot: Distribution of Age"
         self.visualize.plot_count(self.df_netflix, 'age', text)
 
         text = "KDE: Age Distribution"
@@ -106,25 +103,25 @@ class FeatureExploration:
         action = self.df_netflix['device'].value_counts()
         self.action_listener(action, "Most used Devices: ")
 
-        text = "Countplot: Most used Devices "
+        text = "Count Plot: Most used Devices "
         self.visualize.plot_count(self.df_netflix, 'device', text)
 
         # Monthly Revenue vs Subscription Types
         text = "Boxplot: Revenues by Subscription Types  "
         self.visualize.plot_box(self.df_netflix, 'monthly_revenue', 'subscription_type', text)
 
-        text = "Scatterplot: Monthly Revenue vs Subscription Types  "
+        text = "Scatter Plot: Monthly Revenue vs Subscription Types  "
         self.visualize.plot_scatter(self.df_netflix, 'monthly_revenue', 'subscription_type', text)
 
         # Subscription Type vs Plan Duration
-        text = "Scatterplot: Subscription Type vs. Plan Duration  "
+        text = "Scatter Plot: Subscription Type vs. Plan Duration  "
         self.visualize.plot_scatter(self.df_netflix, 'plan_duration', 'subscription_type', text)
 
         # Plan Duration vs Monthly Revenues
         text = "Boxplot: Monthly Revenues by User Plans  "
         self.visualize.plot_box(self.df_netflix, 'monthly_revenue', 'plan_duration', text)
 
-        text = "Scatterplot: Monthly Revenue vs Subscription Types  "
+        text = "Scatter Plot: Monthly Revenue vs Subscription Types  "
         self.visualize.plot_scatter(self.df_netflix, 'plan_duration', 'monthly_revenue', text)
 
         # Feature Correlation for all the continuous Features
