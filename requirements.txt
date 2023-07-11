@@ -1,0 +1,10 @@
+pandas~=2.0.0
+sklearn~=0.0.post1
+scikit-learn~=1.2.2
+seaborn~=0.12.2
+matplotlib~=3.7.1
+missingno~=0.5.2
+numpy~=1.24.2
+plotly~=5.15.0
+joblib~=1.2.0
+setuptools~=65.5.1

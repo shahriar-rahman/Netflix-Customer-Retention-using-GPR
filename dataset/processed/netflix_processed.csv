@@ -1,0 +1,2501 @@
+user_id,subscription_type,monthly_revenue,country,age,gender,device,plan_duration,subscribed_duration,start_month,clv
+1,Basic,10,United States,28,Male,Smartphone,1 Month,629,1,6290
+2,Premium,15,Canada,35,Female,Tablet,1 Month,774,5,11610
+3,Standard,12,United Kingdom,42,Male,Smart TV,1 Month,119,2,1428
+4,Standard,12,Australia,51,Female,Laptop,1 Month,262,10,3144
+5,Basic,10,Germany,33,Male,Smartphone,1 Month,174,1,1740
+6,Premium,15,France,29,Female,Smart TV,1 Month,466,3,6990
+7,Standard,12,Brazil,46,Male,Tablet,1 Month,651,9,7812
+8,Basic,10,Mexico,39,Female,Laptop,1 Month,140,2,1400
+9,Standard,12,Spain,37,Male,Smartphone,1 Month,246,10,2952
+10,Premium,15,Italy,44,Female,Smart TV,1 Month,-9,7,-135
+11,Basic,10,United States,31,Female,Smartphone,1 Month,402,5,4020
+12,Premium,15,Canada,45,Male,Tablet,1 Month,97,3,1455
+13,Standard,12,United Kingdom,48,Female,Laptop,1 Month,574,11,6888
+14,Basic,10,Australia,27,Male,Smartphone,1 Month,534,1,5340
+15,Standard,12,Germany,38,Female,Smart TV,1 Month,-69,9,-828
+16,Premium,15,France,36,Male,Tablet,1 Month,358,7,5370
+17,Basic,10,Brazil,30,Female,Laptop,1 Month,517,1,5170
+18,Standard,12,Mexico,43,Male,Smartphone,1 Month,614,10,7368
+19,Premium,15,Spain,32,Female,Smart TV,1 Month,128,2,1920
+20,Basic,10,Italy,41,Male,Tablet,1 Month,26,5,260
+21,Premium,15,United States,26,Female,Laptop,1 Month,-106,10,-1590
+22,Basic,10,Canada,34,Male,Smartphone,1 Month,341,7,3410
+23,Standard,12,United Kingdom,49,Female,Smart TV,1 Month,776,5,9312
+24,Standard,12,Australia,31,Male,Tablet,1 Month,479,3,5748
+25,Basic,10,Germany,40,Female,Laptop,1 Month,106,3,1060
+26,Premium,15,France,29,Male,Smartphone,1 Month,208,12,3120
+27,Basic,10,Brazil,47,Female,Smart TV,1 Month,300,8,3000
+28,Standard,12,Mexico,33,Male,Tablet,1 Month,635,9,7620
+29,Premium,15,Spain,36,Female,Laptop,1 Month,186,12,2790
+30,Basic,10,Italy,42,Male,Smartphone,1 Month,36,5,360
+31,Premium,15,United States,28,Female,Smart TV,1 Month,112,3,1680
+32,Basic,10,Canada,37,Male,Tablet,1 Month,356,7,3560
+33,Standard,12,United Kingdom,41,Female,Laptop,1 Month,522,1,6264
+34,Standard,12,Australia,29,Male,Smartphone,1 Month,397,5,4764
+35,Basic,10,Germany,39,Female,Smart TV,1 Month,-129,11,-1290
+36,Premium,15,France,35,Male,Tablet,1 Month,540,1,8100
+37,Basic,10,Brazil,45,Female,Laptop,1 Month,284,9,2840
+38,Standard,12,Mexico,32,Male,Smartphone,1 Month,774,5,9288
+39,Premium,15,Spain,27,Female,Smart TV,1 Month,177,12,2655
+40,Basic,10,Italy,48,Male,Tablet,1 Month,-11,7,-110
+41,Premium,15,United States,31,Female,Laptop,1 Month,153,1,2295
+42,Basic,10,Canada,40,Male,Smartphone,1 Month,378,6,3780
+43,Standard,12,United Kingdom,36,Female,Smart TV,1 Month,360,7,4320
+44,Standard,12,Australia,29,Male,Tablet,1 Month,426,4,5112
+45,Basic,10,Germany,43,Female,Laptop,1 Month,151,1,1510
+46,Premium,15,France,34,Male,Smartphone,1 Month,489,2,7335
+47,Basic,10,Brazil,39,Female,Smart TV,1 Month,411,5,4110
+48,Standard,12,Mexico,32,Male,Tablet,1 Month,647,9,7764
+49,Premium,15,Spain,28,Female,Laptop,1 Month,255,10,3825
+50,Basic,10,Italy,45,Male,Smartphone,1 Month,136,2,1360
+51,Premium,15,United States,30,Female,Smart TV,1 Month,115,2,1725
+52,Basic,10,Canada,37,Male,Tablet,1 Month,303,8,3030
+53,Standard,12,United Kingdom,41,Female,Laptop,1 Month,530,1,6360
+54,Standard,12,Australia,29,Male,Smartphone,1 Month,361,6,4332
+55,Basic,10,Germany,39,Female,Smart TV,1 Month,69,4,690
+56,Premium,15,France,36,Male,Tablet,1 Month,469,3,7035
+57,Basic,10,Brazil,46,Female,Laptop,1 Month,531,1,5310
+58,Standard,12,Mexico,34,Male,Smartphone,1 Month,683,8,8196
+59,Premium,15,Spain,27,Female,Smart TV,1 Month,468,3,7020
+60,Basic,10,Italy,42,Male,Tablet,1 Month,8,6,80
+61,Premium,15,United States,28,Female,Laptop,1 Month,-41,8,-615
+62,Basic,10,Canada,37,Male,Smartphone,1 Month,477,3,4770
+63,Standard,12,United Kingdom,41,Female,Smart TV,1 Month,489,2,5868
+64,Standard,12,Australia,29,Male,Tablet,1 Month,371,6,4452
+65,Basic,10,Germany,40,Female,Laptop,1 Month,91,3,910
+66,Premium,15,France,29,Male,Smartphone,1 Month,513,1,7695
+67,Basic,10,Brazil,47,Female,Smart TV,1 Month,280,9,2800
+68,Standard,12,Mexico,33,Male,Tablet,1 Month,651,9,7812
+69,Premium,15,Spain,36,Female,Laptop,1 Month,182,12,2730
+70,Basic,10,Italy,41,Male,Smartphone,1 Month,-44,8,-440
+71,Basic,10,United States,27,Male,Smartphone,1 Month,510,1,5100
+72,Basic,10,Canada,31,Female,Smartphone,1 Month,224,11,2240
+73,Standard,12,United Kingdom,28,Female,Laptop,1 Month,272,9,3264
+74,Premium,13,Australia,41,Female,Smartphone,1 Month,193,12,2509
+75,Basic,13,Germany,28,Female,Laptop,1 Month,394,5,5122
+76,Basic,13,France,51,Female,Laptop,1 Month,544,12,7072
+77,Premium,15,Brazil,45,Female,Smartphone,1 Month,180,12,2700
+78,Standard,15,Mexico,49,Male,Tablet,1 Month,222,11,3330
+79,Standard,15,Spain,43,Female,Laptop,1 Month,470,3,7050
+80,Basic,12,Italy,43,Male,Tablet,1 Month,315,8,3780
+81,Premium,10,United States,37,Male,Tablet,1 Month,-130,11,-1300
+82,Standard,12,Canada,35,Male,Laptop,1 Month,351,7,4212
+83,Basic,10,United Kingdom,46,Female,Smartphone,1 Month,249,10,2490
+84,Standard,12,Australia,32,Male,Smartphone,1 Month,73,4,876
+85,Premium,10,Germany,37,Female,Laptop,1 Month,23,6,230
+86,Basic,11,France,29,Female,Smartphone,1 Month,448,4,4928
+87,Premium,15,Brazil,45,Male,Smart TV,1 Month,542,12,8130
+88,Standard,12,Mexico,47,Male,Tablet,1 Month,274,9,3288
+89,Basic,15,Spain,39,Male,Smartphone,1 Month,249,10,3735
+90,Standard,13,Italy,49,Female,Smartphone,1 Month,113,3,1469
+91,Premium,11,United States,39,Male,Tablet,1 Month,470,3,5170
+92,Basic,14,Canada,39,Male,Smart TV,1 Month,423,5,5922
+93,Standard,12,United Kingdom,35,Male,Smartphone,1 Month,420,5,5040
+94,Premium,12,Australia,44,Male,Smartphone,1 Month,463,3,5556
+95,Basic,11,Germany,34,Male,Laptop,1 Month,482,2,5302
+96,Premium,14,France,32,Male,Laptop,1 Month,333,7,4662
+97,Basic,10,Brazil,29,Female,Tablet,1 Month,417,5,4170
+98,Standard,13,Mexico,31,Female,Tablet,1 Month,360,7,4680
+99,Standard,12,Spain,29,Female,Tablet,1 Month,162,1,1944
+100,Basic,12,Italy,35,Male,Laptop,1 Month,154,1,1848
+101,Premium,11,United States,46,Female,Tablet,1 Month,250,10,2750
+102,Basic,12,Canada,31,Male,Tablet,1 Month,456,3,5472
+103,Standard,13,United Kingdom,36,Male,Laptop,1 Month,448,4,5824
+104,Premium,10,Australia,38,Male,Laptop,1 Month,323,8,3230
+105,Basic,11,Germany,46,Female,Laptop,1 Month,450,4,4950
+106,Premium,10,France,49,Female,Tablet,1 Month,463,3,4630
+107,Basic,14,Brazil,29,Female,Smart TV,1 Month,356,7,4984
+108,Standard,12,Mexico,27,Female,Smart TV,1 Month,397,5,4764
+109,Standard,13,Spain,35,Female,Tablet,1 Month,-38,8,-494
+110,Basic,13,Italy,37,Female,Laptop,1 Month,149,1,1937
+111,Premium,14,United States,40,Male,Tablet,1 Month,348,7,4872
+112,Basic,10,Canada,33,Female,Laptop,1 Month,538,1,5380
+113,Standard,15,United Kingdom,37,Male,Tablet,1 Month,356,7,5340
+114,Premium,10,Australia,48,Male,Smartphone,1 Month,219,11,2190
+115,Basic,11,Germany,50,Female,Laptop,1 Month,417,5,4587
+116,Premium,14,France,45,Female,Smart TV,1 Month,400,5,5600
+117,Basic,15,Brazil,40,Female,Tablet,1 Month,601,10,9015
+118,Standard,12,Mexico,33,Male,Smartphone,1 Month,354,7,4248
+119,Standard,11,Spain,44,Female,Smartphone,1 Month,278,9,3058
+120,Basic,10,Italy,30,Female,Smart TV,1 Month,250,10,2500
+121,Premium,15,United States,27,Male,Smart TV,1 Month,471,3,7065
+122,Basic,11,Canada,51,Male,Smart TV,1 Month,480,3,5280
+123,Standard,13,United Kingdom,49,Female,Smartphone,1 Month,397,5,5161
+124,Premium,15,Australia,43,Male,Laptop,1 Month,410,5,6150
+125,Basic,12,Germany,42,Male,Smartphone,1 Month,307,8,3684
+126,Premium,13,France,45,Male,Laptop,1 Month,275,9,3575
+127,Basic,10,Brazil,36,Male,Smartphone,1 Month,577,11,5770
+128,Standard,12,Mexico,48,Male,Smartphone,1 Month,382,6,4584
+129,Standard,13,Spain,38,Male,Smart TV,1 Month,408,5,5304
+130,Basic,14,Italy,43,Female,Tablet,1 Month,-8,7,-112
+131,Premium,15,United States,47,Male,Laptop,1 Month,378,6,5670
+132,Basic,15,Canada,48,Female,Smart TV,1 Month,369,6,5535
+133,Standard,13,United Kingdom,47,Male,Smart TV,1 Month,367,6,4771
+134,Premium,15,Australia,32,Male,Tablet,1 Month,410,5,6150
+135,Basic,13,Germany,47,Female,Smart TV,1 Month,343,7,4459
+136,Premium,12,France,41,Female,Smart TV,1 Month,286,9,3432
+137,Basic,12,Brazil,49,Male,Laptop,1 Month,257,10,3084
+138,Standard,15,Mexico,28,Male,Laptop,1 Month,275,9,4125
+139,Standard,13,Spain,40,Male,Smartphone,1 Month,91,3,1183
+140,Basic,12,Italy,43,Female,Smartphone,1 Month,503,2,6036
+141,Premium,12,United States,42,Male,Smartphone,1 Month,234,11,2808
+142,Basic,14,Canada,28,Male,Smart TV,1 Month,259,10,3626
+143,Standard,14,United Kingdom,30,Female,Tablet,1 Month,297,8,4158
+144,Premium,10,Australia,33,Male,Smart TV,1 Month,313,8,3130
+145,Basic,11,Germany,35,Female,Laptop,1 Month,417,5,4587
+146,Basic,10,France,38,Male,Tablet,1 Month,380,6,3800
+147,Basic,12,Brazil,49,Female,Laptop,1 Month,317,8,3804
+148,Standard,15,Mexico,39,Female,Smartphone,1 Month,213,11,3195
+149,Premium,13,Spain,46,Female,Smart TV,1 Month,222,11,2886
+150,Basic,10,Italy,47,Female,Laptop,1 Month,190,12,1900
+151,Basic,15,United States,30,Female,Laptop,1 Month,195,12,2925
+152,Premium,14,Canada,33,Female,Tablet,1 Month,216,11,3024
+153,Standard,11,United Kingdom,47,Male,Smartphone,1 Month,181,12,1991
+154,Standard,11,Australia,27,Male,Laptop,1 Month,-129,11,-1419
+155,Basic,14,Germany,28,Male,Tablet,1 Month,221,11,3094
+156,Premium,15,France,47,Male,Smartphone,1 Month,310,8,4650
+157,Standard,14,Brazil,30,Male,Laptop,1 Month,270,9,3780
+158,Basic,13,Mexico,47,Female,Smartphone,1 Month,252,10,3276
+159,Standard,10,Spain,51,Female,Smart TV,1 Month,187,12,1870
+160,Premium,15,Italy,39,Male,Smartphone,1 Month,241,10,3615
+161,Basic,10,United States,45,Male,Tablet,1 Month,244,10,2440
+162,Premium,15,Canada,31,Male,Laptop,1 Month,432,4,6480
+163,Standard,11,United Kingdom,29,Male,Laptop,1 Month,418,5,4598
+164,Basic,11,Australia,42,Female,Tablet,1 Month,235,11,2585
+165,Standard,14,Germany,49,Male,Tablet,1 Month,396,5,5544
+166,Premium,13,France,42,Male,Laptop,1 Month,436,4,5668
+167,Basic,13,Brazil,29,Male,Smartphone,1 Month,355,7,4615
+168,Standard,10,Mexico,29,Male,Tablet,1 Month,228,11,2280
+169,Premium,12,Spain,49,Male,Tablet,1 Month,157,1,1884
+170,Basic,14,Italy,32,Male,Laptop,1 Month,-159,12,-2226
+171,Premium,11,United States,35,Female,Tablet,1 Month,421,4,4631
+172,Basic,12,Canada,39,Female,Smartphone,1 Month,425,4,5100
+173,Standard,15,United Kingdom,40,Male,Smartphone,1 Month,476,3,7140
+174,Standard,14,Australia,39,Female,Tablet,1 Month,428,4,5992
+175,Basic,10,Germany,47,Female,Laptop,1 Month,430,4,4300
+176,Premium,13,France,37,Female,Smart TV,1 Month,203,12,2639
+177,Basic,15,Brazil,27,Female,Smartphone,1 Month,399,5,5985
+178,Standard,13,Mexico,49,Female,Laptop,1 Month,250,10,3250
+179,Premium,10,Spain,30,Female,Tablet,1 Month,471,3,4710
+180,Basic,14,Italy,36,Male,Laptop,1 Month,272,9,3808
+181,Premium,15,United States,33,Male,Smartphone,1 Month,376,6,5640
+182,Basic,13,Canada,30,Female,Laptop,1 Month,405,5,5265
+183,Standard,15,United Kingdom,36,Female,Tablet,1 Month,396,5,5940
+184,Standard,13,Australia,28,Female,Laptop,1 Month,425,4,5525
+185,Basic,11,Germany,47,Female,Tablet,1 Month,202,12,2222
+186,Premium,12,France,33,Female,Smart TV,1 Month,538,1,6456
+187,Basic,13,Brazil,49,Female,Laptop,1 Month,260,10,3380
+188,Standard,15,Mexico,44,Female,Smart TV,1 Month,346,7,5190
+189,Premium,13,Spain,47,Male,Smart TV,1 Month,502,2,6526
+190,Basic,11,Italy,37,Female,Tablet,1 Month,281,9,3091
+191,Premium,10,United States,46,Male,Laptop,1 Month,322,8,3220
+192,Basic,14,Canada,50,Female,Smartphone,1 Month,366,6,5124
+193,Standard,11,United Kingdom,50,Male,Laptop,1 Month,413,5,4543
+194,Standard,14,Australia,37,Male,Laptop,1 Month,312,8,4368
+195,Basic,11,Germany,50,Female,Smartphone,1 Month,302,8,3322
+196,Premium,13,France,45,Female,Smart TV,1 Month,291,9,3783
+197,Basic,14,Brazil,45,Male,Tablet,1 Month,269,9,3766
+198,Standard,10,Mexico,49,Female,Laptop,1 Month,252,10,2520
+199,Premium,14,Spain,39,Female,Tablet,1 Month,237,10,3318
+200,Basic,11,Italy,45,Female,Tablet,1 Month,255,10,2805
+201,Premium,11,United States,49,Female,Smart TV,1 Month,446,4,4906
+202,Basic,12,Canada,31,Female,Tablet,1 Month,366,6,4392
+203,Standard,13,United Kingdom,42,Female,Smart TV,1 Month,328,7,4264
+204,Standard,12,Australia,37,Male,Smartphone,1 Month,332,7,3984
+205,Basic,12,Germany,30,Male,Smart TV,1 Month,330,7,3960
+206,Premium,11,France,40,Male,Smartphone,1 Month,382,6,4202
+207,Basic,15,Brazil,45,Female,Smartphone,1 Month,281,9,4215
+208,Standard,15,Mexico,36,Female,Tablet,1 Month,53,5,795
+209,Premium,11,Spain,41,Male,Laptop,1 Month,255,10,2805
+210,Basic,14,Italy,49,Female,Laptop,1 Month,216,11,3024
+211,Premium,15,United States,40,Male,Tablet,1 Month,224,11,3360
+212,Basic,11,Canada,36,Male,Smart TV,1 Month,241,10,2651
+213,Standard,12,United Kingdom,49,Female,Smart TV,1 Month,319,8,3828
+214,Standard,13,Australia,43,Female,Laptop,1 Month,363,6,4719
+215,Basic,13,Germany,50,Female,Smartphone,1 Month,503,2,6539
+216,Premium,14,France,51,Female,Smart TV,1 Month,318,8,4452
+217,Basic,15,Brazil,44,Male,Smart TV,1 Month,224,11,3360
+218,Standard,12,Mexico,27,Male,Tablet,1 Month,225,11,2700
+219,Premium,12,Spain,46,Female,Smartphone,1 Month,221,11,2652
+220,Basic,12,Italy,29,Male,Tablet,1 Month,213,11,2556
+221,Basic,12,United States,47,Male,Smartphone,1 Month,211,11,2532
+222,Basic,10,Canada,48,Female,Smartphone,1 Month,196,12,1960
+223,Standard,12,United Kingdom,34,Female,Smartphone,1 Month,-37,8,-444
+224,Premium,15,Australia,40,Female,Smartphone,1 Month,214,11,3210
+225,Basic,14,Germany,48,Female,Smartphone,1 Month,229,11,3206
+226,Basic,10,France,35,Male,Smartphone,1 Month,272,9,2720
+227,Premium,12,Brazil,51,Female,Smartphone,1 Month,267,9,3204
+228,Standard,10,Mexico,39,Male,Smart TV,1 Month,442,4,4420
+229,Standard,13,Spain,29,Male,Smartphone,1 Month,442,4,5746
+230,Basic,12,Italy,51,Male,Laptop,1 Month,239,10,2868
+231,Premium,11,United States,43,Male,Smartphone,1 Month,238,10,2618
+232,Standard,11,Canada,28,Male,Smartphone,1 Month,301,8,3311
+233,Basic,15,United Kingdom,50,Female,Smart TV,1 Month,354,7,5310
+234,Standard,14,Australia,44,Female,Laptop,1 Month,397,5,5558
+235,Premium,11,Germany,50,Male,Laptop,1 Month,404,5,4444
+236,Basic,11,France,39,Female,Smartphone,1 Month,325,8,3575
+237,Premium,13,Brazil,46,Female,Tablet,1 Month,353,7,4589
+238,Standard,15,Mexico,48,Male,Smartphone,1 Month,346,7,5190
+239,Basic,15,Spain,38,Male,Smart TV,1 Month,185,12,2775
+240,Standard,13,Italy,38,Male,Smartphone,1 Month,364,6,4732
+241,Premium,13,United States,47,Male,Laptop,1 Month,392,5,5096
+242,Basic,12,Canada,37,Male,Laptop,1 Month,505,2,6060
+243,Standard,11,United Kingdom,33,Male,Laptop,1 Month,398,5,4378
+244,Premium,15,Australia,28,Male,Smartphone,1 Month,426,4,6390
+245,Basic,13,Germany,47,Male,Smart TV,1 Month,432,4,5616
+246,Premium,11,France,38,Female,Smartphone,1 Month,477,3,5247
+247,Basic,12,Brazil,27,Male,Smart TV,1 Month,355,7,4260
+248,Standard,13,Mexico,34,Male,Smartphone,1 Month,284,9,3692
+249,Standard,14,Spain,42,Female,Smartphone,1 Month,284,9,3976
+250,Basic,14,Italy,28,Male,Laptop,1 Month,291,9,4074
+251,Premium,15,United States,30,Male,Laptop,1 Month,367,6,5505
+252,Basic,11,Canada,38,Female,Smartphone,1 Month,392,5,4312
+253,Standard,15,United Kingdom,45,Female,Tablet,1 Month,400,5,6000
+254,Premium,12,Australia,48,Female,Smart TV,1 Month,403,5,4836
+255,Basic,13,Germany,46,Female,Smart TV,1 Month,402,5,5226
+256,Premium,12,France,34,Male,Tablet,1 Month,392,5,4704
+257,Basic,13,Brazil,46,Male,Laptop,1 Month,373,6,4849
+258,Standard,11,Mexico,41,Female,Smartphone,1 Month,347,7,3817
+259,Standard,15,Spain,28,Male,Smartphone,1 Month,414,5,6210
+260,Basic,10,Italy,27,Female,Smartphone,1 Month,344,7,3440
+261,Premium,13,United States,27,Female,Smart TV,1 Month,444,4,5772
+262,Basic,12,Canada,28,Female,Tablet,1 Month,348,7,4176
+263,Standard,15,United Kingdom,46,Male,Smartphone,1 Month,334,7,5010
+264,Premium,10,Australia,51,Male,Smartphone,1 Month,292,9,2920
+265,Basic,11,Germany,32,Female,Smart TV,1 Month,413,5,4543
+266,Premium,10,France,44,Male,Tablet,1 Month,313,8,3130
+267,Basic,11,Brazil,44,Female,Laptop,1 Month,322,8,3542
+268,Standard,13,Mexico,34,Female,Smart TV,1 Month,255,10,3315
+269,Standard,13,Spain,29,Female,Laptop,1 Month,253,10,3289
+270,Basic,12,Italy,47,Male,Smart TV,1 Month,442,4,5304
+271,Premium,14,United States,41,Male,Laptop,1 Month,310,8,4340
+272,Basic,10,Canada,36,Female,Smartphone,1 Month,261,10,2610
+273,Standard,12,United Kingdom,28,Female,Laptop,1 Month,502,2,6024
+274,Premium,10,Australia,27,Female,Tablet,1 Month,532,1,5320
+275,Basic,15,Germany,34,Female,Laptop,1 Month,382,6,5730
+276,Premium,14,France,34,Female,Smart TV,1 Month,290,9,4060
+277,Basic,13,Brazil,37,Female,Tablet,1 Month,199,12,2587
+278,Standard,14,Mexico,34,Female,Laptop,1 Month,272,9,3808
+279,Standard,15,Spain,50,Female,Laptop,1 Month,195,12,2925
+280,Basic,12,Italy,34,Female,Laptop,1 Month,226,11,2712
+281,Premium,12,United States,33,Female,Smart TV,1 Month,502,2,6024
+282,Basic,11,Canada,33,Male,Smart TV,1 Month,238,10,2618
+283,Standard,15,United Kingdom,46,Male,Smartphone,1 Month,361,6,5415
+284,Premium,14,Australia,39,Female,Smartphone,1 Month,446,4,6244
+285,Basic,10,Germany,42,Female,Laptop,1 Month,534,1,5340
+286,Premium,14,France,50,Female,Laptop,1 Month,256,10,3584
+287,Basic,10,Brazil,43,Male,Smartphone,1 Month,253,10,2530
+288,Standard,14,Mexico,51,Male,Smart TV,1 Month,251,10,3514
+289,Standard,15,Spain,34,Female,Smart TV,1 Month,217,11,3255
+290,Basic,12,Italy,48,Male,Smartphone,1 Month,217,11,2604
+291,Premium,13,United States,29,Female,Tablet,1 Month,441,4,5733
+292,Basic,11,Canada,43,Female,Laptop,1 Month,197,12,2167
+293,Standard,14,United Kingdom,39,Female,Laptop,1 Month,286,9,4004
+294,Premium,10,Australia,50,Male,Laptop,1 Month,257,10,2570
+295,Basic,14,Germany,45,Male,Laptop,1 Month,474,3,6636
+296,Basic,12,France,48,Female,Tablet,1 Month,533,1,6396
+297,Basic,13,Brazil,40,Male,Smartphone,1 Month,498,2,6474
+298,Standard,14,Mexico,41,Male,Tablet,1 Month,473,3,6622
+299,Premium,10,Spain,27,Male,Smartphone,1 Month,240,10,2400
+300,Basic,11,Italy,36,Male,Laptop,1 Month,241,10,2651
+301,Basic,10,United States,36,Female,Laptop,1 Month,270,9,2700
+302,Premium,11,Canada,44,Male,Tablet,1 Month,286,9,3146
+303,Standard,12,United Kingdom,45,Male,Tablet,1 Month,232,11,2784
+304,Standard,12,Australia,33,Female,Smartphone,1 Month,235,11,2820
+305,Basic,13,Germany,47,Male,Smart TV,1 Month,398,5,5174
+306,Premium,13,France,45,Male,Tablet,1 Month,385,6,5005
+307,Standard,11,Brazil,29,Female,Smart TV,1 Month,325,8,3575
+308,Basic,13,Mexico,31,Male,Smart TV,1 Month,243,10,3159
+309,Standard,11,Spain,31,Male,Smartphone,1 Month,293,9,3223
+310,Premium,15,Italy,49,Female,Smartphone,1 Month,377,6,5655
+311,Basic,15,United States,29,Female,Smartphone,1 Month,356,7,5340
+312,Premium,12,Canada,50,Male,Laptop,1 Month,395,5,4740
+313,Standard,13,United Kingdom,36,Female,Laptop,1 Month,396,5,5148
+314,Basic,10,Australia,28,Male,Laptop,1 Month,431,4,4310
+315,Standard,15,Germany,47,Female,Smart TV,1 Month,425,4,6375
+316,Premium,12,France,50,Female,Laptop,1 Month,394,5,4728
+317,Basic,15,Brazil,44,Female,Tablet,1 Month,307,8,4605
+318,Standard,10,Mexico,39,Female,Laptop,1 Month,503,2,5030
+319,Premium,14,Spain,32,Female,Smartphone,1 Month,308,8,4312
+320,Basic,15,Italy,30,Female,Laptop,1 Month,504,2,7560
+321,Premium,12,United States,33,Female,Smartphone,1 Month,370,6,4440
+322,Basic,15,Canada,44,Male,Smartphone,1 Month,447,4,6705
+323,Standard,14,United Kingdom,40,Male,Smartphone,1 Month,391,5,5474
+324,Standard,15,Australia,32,Male,Tablet,1 Month,401,5,6015
+325,Basic,13,Germany,32,Male,Tablet,1 Month,394,5,5122
+326,Premium,11,France,30,Male,Smartphone,1 Month,233,11,2563
+327,Basic,12,Brazil,32,Female,Smartphone,1 Month,384,6,4608
+328,Standard,12,Mexico,45,Female,Tablet,1 Month,336,7,4032
+329,Premium,11,Spain,35,Female,Smart TV,1 Month,338,7,3718
+330,Basic,10,Italy,40,Female,Smart TV,1 Month,384,6,3840
+331,Premium,14,United States,29,Female,Tablet,1 Month,323,8,4522
+332,Basic,14,Canada,31,Male,Tablet,1 Month,339,7,4746
+333,Standard,15,United Kingdom,43,Female,Smart TV,1 Month,338,7,5070
+334,Standard,11,Australia,34,Male,Smart TV,1 Month,335,7,3685
+335,Basic,10,Germany,47,Female,Tablet,1 Month,229,11,2290
+336,Premium,12,France,35,Male,Laptop,1 Month,502,2,6024
+337,Basic,13,Brazil,36,Male,Laptop,1 Month,229,11,2977
+338,Standard,12,Mexico,33,Male,Tablet,1 Month,255,10,3060
+339,Premium,13,Spain,30,Female,Laptop,1 Month,411,5,5343
+340,Basic,14,Italy,44,Female,Smartphone,1 Month,285,9,3990
+341,Premium,13,United States,44,Female,Laptop,1 Month,306,8,3978
+342,Basic,11,Canada,41,Female,Laptop,1 Month,291,9,3201
+343,Standard,13,United Kingdom,46,Male,Smart TV,1 Month,382,6,4966
+344,Standard,13,Australia,42,Female,Smartphone,1 Month,353,7,4589
+345,Basic,10,Germany,48,Female,Smart TV,1 Month,321,8,3210
+346,Premium,15,France,37,Male,Tablet,1 Month,299,8,4485
+347,Basic,14,Brazil,29,Male,Smartphone,1 Month,280,9,3920
+348,Standard,14,Mexico,30,Male,Smart TV,1 Month,412,5,5768
+349,Premium,14,Spain,28,Male,Smartphone,1 Month,500,2,7000
+350,Basic,10,Italy,44,Female,Smartphone,1 Month,502,2,5020
+351,Premium,11,United States,34,Female,Smart TV,1 Month,502,2,5522
+352,Basic,10,Canada,38,Male,Laptop,1 Month,279,9,2790
+353,Standard,14,United Kingdom,34,Female,Smartphone,1 Month,261,10,3654
+354,Standard,10,Australia,40,Female,Laptop,1 Month,316,8,3160
+355,Basic,15,Germany,32,Female,Tablet,1 Month,199,12,2985
+356,Premium,11,France,38,Male,Smart TV,1 Month,259,10,2849
+357,Basic,15,Brazil,39,Male,Smartphone,1 Month,251,10,3765
+358,Standard,12,Mexico,34,Female,Smart TV,1 Month,229,11,2748
+359,Premium,11,Spain,41,Male,Smartphone,1 Month,218,11,2398
+360,Basic,15,Italy,43,Female,Tablet,1 Month,221,11,3315
+361,Premium,12,United States,36,Female,Laptop,1 Month,215,11,2580
+362,Basic,11,Canada,31,Male,Laptop,1 Month,319,8,3509
+363,Standard,12,United Kingdom,47,Female,Smart TV,1 Month,530,1,6360
+364,Standard,14,Australia,48,Male,Smart TV,1 Month,201,12,2814
+365,Basic,11,Germany,36,Male,Laptop,1 Month,257,10,2827
+366,Premium,12,France,41,Male,Smart TV,1 Month,255,10,3060
+367,Basic,13,Brazil,32,Male,Laptop,1 Month,245,10,3185
+368,Standard,13,Mexico,28,Male,Smartphone,1 Month,247,10,3211
+369,Premium,12,Spain,46,Female,Smartphone,1 Month,245,10,2940
+370,Basic,11,Italy,46,Female,Smartphone,1 Month,250,10,2750
+371,Basic,11,United States,47,Male,Tablet,1 Month,268,9,2948
+372,Basic,11,Canada,31,Female,Tablet,1 Month,383,6,4213
+373,Standard,10,United Kingdom,44,Female,Tablet,1 Month,373,6,3730
+374,Premium,10,Australia,39,Female,Laptop,1 Month,204,12,2040
+375,Basic,14,Germany,44,Female,Laptop,1 Month,376,6,5264
+376,Basic,12,France,39,Female,Smartphone,1 Month,372,6,4464
+377,Premium,12,Brazil,37,Male,Laptop,1 Month,305,8,3660
+378,Standard,14,Mexico,47,Female,Laptop,1 Month,318,8,4452
+379,Standard,10,Spain,46,Female,Smart TV,1 Month,202,12,2020
+380,Basic,15,Italy,27,Female,Smart TV,1 Month,415,5,6225
+381,Premium,10,United States,43,Female,Laptop,1 Month,348,7,3480
+382,Standard,10,Canada,51,Male,Smart TV,1 Month,355,7,3550
+383,Basic,10,United Kingdom,49,Male,Smart TV,1 Month,537,1,5370
+384,Standard,10,Australia,35,Female,Smartphone,1 Month,405,5,4050
+385,Premium,15,Germany,44,Male,Smartphone,1 Month,401,5,6015
+386,Basic,14,France,48,Male,Tablet,1 Month,231,11,3234
+387,Premium,11,Brazil,39,Female,Tablet,1 Month,344,7,3784
+388,Standard,12,Mexico,38,Male,Laptop,1 Month,342,7,4104
+389,Basic,14,Spain,45,Male,Smart TV,1 Month,503,2,7042
+390,Standard,13,Italy,43,Female,Laptop,1 Month,478,3,6214
+391,Premium,13,United States,42,Male,Laptop,1 Month,369,6,4797
+392,Basic,15,Canada,28,Male,Smart TV,1 Month,479,3,7185
+393,Standard,10,United Kingdom,40,Male,Tablet,1 Month,477,3,4770
+394,Premium,14,Australia,41,Female,Tablet,1 Month,393,5,5502
+395,Basic,12,Germany,45,Female,Laptop,1 Month,416,5,4992
+396,Premium,14,France,30,Female,Smartphone,1 Month,264,10,3696
+397,Basic,11,Brazil,31,Female,Smartphone,1 Month,347,7,3817
+398,Standard,13,Mexico,51,Female,Tablet,1 Month,347,7,4511
+399,Standard,12,Spain,44,Female,Smartphone,1 Month,346,7,4152
+400,Basic,14,Italy,49,Male,Laptop,1 Month,349,7,4886
+401,Premium,12,United States,47,Female,Laptop,1 Month,344,7,4128
+402,Basic,14,Canada,42,Male,Smartphone,1 Month,340,7,4760
+403,Standard,13,United Kingdom,28,Male,Smartphone,1 Month,340,7,4420
+404,Premium,13,Australia,28,Male,Smartphone,1 Month,536,1,6968
+405,Basic,13,Germany,49,Female,Tablet,1 Month,383,6,4979
+406,Premium,12,France,32,Female,Smartphone,1 Month,311,8,3732
+407,Basic,12,Brazil,37,Female,Tablet,1 Month,305,8,3660
+408,Standard,13,Mexico,37,Female,Tablet,1 Month,273,9,3549
+409,Standard,14,Spain,37,Male,Smartphone,1 Month,283,9,3962
+410,Basic,15,Italy,37,Male,Smart TV,1 Month,501,2,7515
+411,Premium,14,United States,48,Female,Tablet,1 Month,474,3,6636
+412,Basic,12,Canada,47,Male,Laptop,1 Month,474,3,5688
+413,Standard,13,United Kingdom,41,Female,Smartphone,1 Month,306,8,3978
+414,Premium,14,Australia,47,Female,Laptop,1 Month,310,8,4340
+415,Basic,13,Germany,39,Female,Smartphone,1 Month,306,8,3978
+416,Premium,10,France,28,Male,Tablet,1 Month,502,2,5020
+417,Basic,14,Brazil,31,Male,Smart TV,1 Month,281,9,3934
+418,Standard,14,Mexico,47,Female,Smart TV,1 Month,249,10,3486
+419,Standard,11,Spain,27,Female,Laptop,1 Month,240,10,2640
+420,Basic,10,Italy,28,Male,Laptop,1 Month,502,2,5020
+421,Premium,14,United States,33,Male,Tablet,1 Month,255,10,3570
+422,Basic,14,Canada,29,Female,Tablet,1 Month,287,9,4018
+423,Standard,15,United Kingdom,41,Male,Smartphone,1 Month,200,12,3000
+424,Premium,12,Australia,28,Female,Tablet,1 Month,284,9,3408
+425,Basic,13,Germany,38,Male,Tablet,1 Month,443,4,5759
+426,Premium,15,France,35,Male,Laptop,1 Month,416,5,6240
+427,Basic,11,Brazil,51,Male,Smart TV,1 Month,380,6,4180
+428,Standard,12,Mexico,45,Male,Smartphone,1 Month,223,11,2676
+429,Standard,14,Spain,51,Male,Laptop,1 Month,220,11,3080
+430,Basic,14,Italy,46,Female,Smart TV,1 Month,220,11,3080
+431,Premium,15,United States,28,Male,Smart TV,1 Month,442,4,6630
+432,Basic,12,Canada,46,Female,Smart TV,1 Month,223,11,2676
+433,Standard,11,United Kingdom,46,Female,Smartphone,1 Month,379,6,4169
+434,Premium,12,Australia,32,Female,Laptop,1 Month,257,10,3084
+435,Basic,11,Germany,39,Female,Smart TV,1 Month,254,10,2794
+436,Premium,11,France,41,Female,Smartphone,1 Month,253,10,2783
+437,Basic,13,Brazil,47,Male,Smart TV,1 Month,245,10,3185
+438,Standard,12,Mexico,35,Male,Smart TV,1 Month,247,10,2964
+439,Standard,12,Spain,37,Female,Smart TV,1 Month,247,10,2964
+440,Basic,11,Italy,47,Male,Tablet,1 Month,262,10,2882
+441,Premium,13,United States,48,Female,Laptop,1 Month,414,5,5382
+442,Basic,12,Canada,30,Female,Laptop,1 Month,536,1,6432
+443,Standard,10,United Kingdom,36,Male,Smart TV,1 Month,536,1,5360
+444,Premium,10,Australia,50,Female,Smartphone,1 Month,368,6,3680
+445,Basic,12,Germany,41,Male,Tablet,1 Month,369,6,4428
+446,Basic,14,France,46,Female,Smartphone,1 Month,365,6,5110
+447,Basic,15,Brazil,36,Female,Laptop,1 Month,232,11,3480
+448,Standard,14,Mexico,48,Male,Tablet,1 Month,201,12,2814
+449,Premium,10,Spain,37,Female,Laptop,1 Month,355,7,3550
+450,Basic,14,Italy,49,Male,Laptop,1 Month,384,6,5376
+451,Basic,12,United States,31,Female,Laptop,1 Month,345,7,4140
+452,Premium,12,Canada,42,Female,Laptop,1 Month,375,6,4500
+453,Standard,11,United Kingdom,45,Female,Tablet,1 Month,394,5,4334
+454,Standard,15,Australia,51,Female,Tablet,1 Month,396,5,5940
+455,Basic,11,Germany,31,Female,Smart TV,1 Month,392,5,4312
+456,Premium,14,France,41,Male,Tablet,1 Month,447,4,6258
+457,Standard,14,Brazil,40,Male,Smart TV,1 Month,364,6,5096
+458,Basic,10,Mexico,27,Male,Tablet,1 Month,339,7,3390
+459,Standard,10,Spain,46,Female,Tablet,1 Month,343,7,3430
+460,Premium,10,Italy,30,Female,Smart TV,1 Month,363,6,3630
+461,Basic,11,United States,37,Male,Smart TV,1 Month,376,6,4136
+462,Premium,15,Canada,45,Male,Smartphone,1 Month,265,10,3975
+463,Standard,11,United Kingdom,40,Male,Smart TV,1 Month,536,1,5896
+464,Basic,13,Australia,45,Male,Laptop,1 Month,479,3,6227
+465,Standard,11,Germany,34,Male,Laptop,1 Month,416,5,4576
+466,Premium,10,France,33,Male,Laptop,1 Month,356,7,3560
+467,Basic,10,Brazil,47,Female,Laptop,1 Month,369,6,3690
+468,Standard,11,Mexico,32,Male,Smart TV,1 Month,364,6,4004
+469,Premium,12,Spain,41,Female,Tablet,1 Month,365,6,4380
+470,Basic,15,Italy,31,Female,Tablet,1 Month,478,3,7170
+471,Premium,15,United States,43,Male,Tablet,1 Month,324,8,4860
+472,Basic,10,Canada,32,Female,Tablet,1 Month,349,7,3490
+473,Standard,10,United Kingdom,46,Female,Smartphone,1 Month,336,7,3360
+474,Standard,14,Australia,38,Male,Smartphone,1 Month,333,7,4662
+475,Basic,11,Germany,31,Female,Smart TV,1 Month,317,8,3487
+476,Premium,14,France,31,Female,Laptop,1 Month,312,8,4368
+477,Basic,10,Brazil,50,Male,Laptop,1 Month,307,8,3070
+478,Standard,10,Mexico,32,Male,Laptop,1 Month,322,8,3220
+479,Premium,13,Spain,38,Female,Smartphone,1 Month,444,4,5772
+480,Basic,15,Italy,37,Female,Laptop,1 Month,444,4,6660
+481,Premium,12,United States,36,Male,Smart TV,1 Month,443,4,5316
+482,Basic,11,Canada,30,Male,Smart TV,1 Month,304,8,3344
+483,Standard,14,United Kingdom,28,Male,Smart TV,1 Month,306,8,4284
+484,Standard,13,Australia,40,Male,Smartphone,1 Month,307,8,3991
+485,Basic,14,Germany,28,Female,Tablet,1 Month,535,1,7490
+486,Premium,15,France,37,Female,Laptop,1 Month,286,9,4290
+487,Basic,15,Brazil,30,Male,Smart TV,1 Month,415,5,6225
+488,Standard,11,Mexico,33,Female,Smart TV,1 Month,322,8,3542
+489,Premium,11,Spain,49,Male,Tablet,1 Month,245,10,2695
+490,Basic,12,Italy,36,Female,Smart TV,1 Month,254,10,3048
+491,Premium,12,United States,28,Female,Smartphone,1 Month,353,7,4236
+492,Basic,10,Canada,51,Male,Tablet,1 Month,286,9,2860
+493,Standard,11,United Kingdom,35,Female,Smartphone,1 Month,282,9,3102
+494,Standard,14,Australia,31,Male,Smart TV,1 Month,275,9,3850
+495,Basic,13,Germany,39,Male,Smartphone,1 Month,270,9,3510
+496,Premium,10,France,51,Female,Laptop,1 Month,243,10,2430
+497,Basic,11,Brazil,44,Male,Smartphone,1 Month,291,9,3201
+498,Standard,11,Mexico,41,Female,Smartphone,1 Month,223,11,2453
+499,Premium,10,Spain,28,Female,Laptop,1 Month,220,11,2200
+500,Basic,15,Italy,38,Male,Laptop,1 Month,220,11,3300
+501,Premium,14,Spain,43,Male,Smartphone,1 Month,218,11,3052
+502,Basic,13,Spain,38,Male,Smartphone,1 Month,221,11,2873
+503,Standard,14,United States,30,Male,Tablet,1 Month,258,10,3612
+504,Standard,12,Canada,32,Female,Laptop,1 Month,251,10,3012
+505,Basic,11,United States,35,Male,Smartphone,1 Month,250,10,2750
+506,Premium,14,United States,27,Male,Smart TV,1 Month,249,10,3486
+507,Basic,15,Canada,49,Female,Tablet,1 Month,245,10,3675
+508,Standard,12,United Kingdom,42,Female,Tablet,1 Month,248,10,2976
+509,Premium,10,Australia,40,Male,Smartphone,1 Month,250,10,2500
+510,Basic,15,Germany,43,Female,Tablet,1 Month,384,6,5760
+511,Premium,11,France,44,Female,Smart TV,1 Month,337,7,3707
+512,Basic,15,Brazil,32,Male,Tablet,1 Month,350,7,5250
+513,Standard,10,Mexico,50,Male,Tablet,1 Month,386,6,3860
+514,Standard,14,Spain,35,Male,Tablet,1 Month,356,7,4984
+515,Basic,15,Italy,44,Female,Laptop,1 Month,538,1,8070
+516,Premium,14,Spain,42,Female,Smart TV,1 Month,332,7,4648
+517,Basic,12,Spain,34,Female,Smart TV,1 Month,385,6,4620
+518,Standard,15,United States,37,Female,Tablet,1 Month,354,7,5310
+519,Premium,10,Canada,43,Male,Smartphone,1 Month,385,6,3850
+520,Basic,13,United States,32,Male,Smart TV,1 Month,477,3,6201
+521,Basic,15,United States,33,Female,Smart TV,1 Month,375,6,5625
+522,Basic,14,Canada,32,Female,Tablet,1 Month,375,6,5250
+523,Standard,13,United Kingdom,41,Male,Smartphone,1 Month,358,7,4654
+524,Premium,15,Australia,31,Male,Tablet,1 Month,387,6,5805
+525,Basic,14,Germany,44,Male,Tablet,1 Month,447,4,6258
+526,Basic,11,France,49,Male,Laptop,1 Month,373,6,4103
+527,Premium,10,Brazil,48,Female,Tablet,1 Month,264,10,2640
+528,Standard,13,Mexico,42,Female,Smartphone,1 Month,351,7,4563
+529,Standard,11,Spain,50,Female,Laptop,1 Month,355,7,3905
+530,Basic,14,Italy,49,Female,Smart TV,1 Month,371,6,5194
+531,Premium,14,Spain,30,Female,Laptop,1 Month,377,6,5278
+532,Standard,11,Spain,38,Male,Laptop,1 Month,479,3,5269
+533,Basic,14,United States,38,Male,Smartphone,1 Month,447,4,6258
+534,Standard,11,Canada,39,Female,Smart TV,1 Month,418,5,4598
+535,Premium,15,United States,42,Female,Laptop,1 Month,358,7,5370
+536,Basic,10,United States,28,Male,Smart TV,1 Month,380,6,3800
+537,Premium,10,Canada,38,Male,Smartphone,1 Month,375,6,3750
+538,Standard,14,United Kingdom,40,Female,Tablet,1 Month,374,6,5236
+539,Basic,12,Australia,30,Female,Tablet,1 Month,507,2,6084
+540,Standard,10,Germany,40,Male,Smartphone,1 Month,479,3,4790
+541,Premium,10,France,31,Male,Smart TV,1 Month,349,7,3490
+542,Basic,14,Brazil,41,Male,Smartphone,1 Month,336,7,4704
+543,Standard,11,Mexico,37,Male,Smartphone,1 Month,336,7,3696
+544,Premium,14,Spain,49,Male,Tablet,1 Month,324,8,4536
+545,Basic,14,Italy,29,Male,Smart TV,1 Month,314,8,4396
+546,Premium,10,Spain,31,Male,Smart TV,1 Month,310,8,3100
+547,Basic,10,Spain,39,Male,Tablet,1 Month,414,5,4140
+548,Standard,12,United States,51,Female,Smartphone,1 Month,414,5,4968
+549,Standard,10,Canada,38,Female,Smartphone,1 Month,414,5,4140
+550,Basic,11,United States,29,Female,Tablet,1 Month,383,6,4213
+551,Premium,13,United States,41,Female,Laptop,1 Month,476,3,6188
+552,Basic,13,Canada,48,Female,Tablet,1 Month,302,8,3926
+553,Standard,14,United Kingdom,39,Male,Smart TV,1 Month,305,8,4270
+554,Premium,12,Australia,37,Male,Smartphone,1 Month,304,8,3648
+555,Basic,11,Germany,37,Female,Smartphone,1 Month,288,9,3168
+556,Premium,14,France,34,Male,Smartphone,1 Month,276,9,3864
+557,Basic,15,Brazil,37,Male,Smartphone,1 Month,415,5,6225
+558,Standard,14,Mexico,37,Female,Smart TV,1 Month,255,10,3570
+559,Standard,13,Spain,51,Female,Tablet,1 Month,252,10,3276
+560,Basic,15,Italy,45,Male,Laptop,1 Month,258,10,3870
+561,Premium,14,Spain,29,Female,Laptop,1 Month,271,9,3794
+562,Basic,14,Spain,37,Male,Laptop,1 Month,284,9,3976
+563,Standard,10,United States,34,Male,Tablet,1 Month,278,9,2780
+564,Premium,14,Canada,35,Male,Smartphone,1 Month,274,9,3836
+565,Basic,12,United States,29,Male,Laptop,1 Month,271,9,3252
+566,Premium,11,United States,45,Male,Tablet,1 Month,58,11,638
+567,Basic,14,Canada,36,Male,Smart TV,1 Month,322,8,4508
+568,Standard,11,United Kingdom,27,Female,Laptop,1 Month,224,11,2464
+569,Standard,10,Australia,31,Female,Laptop,1 Month,221,11,2210
+570,Basic,10,Germany,41,Female,Laptop,1 Month,222,11,2220
+571,Premium,13,France,37,Male,Smart TV,1 Month,220,11,2860
+572,Basic,12,Brazil,49,Female,Tablet,1 Month,221,11,2652
+573,Standard,12,Mexico,37,Female,Smart TV,1 Month,221,11,2652
+574,Premium,14,Spain,36,Female,Smartphone,1 Month,246,10,3444
+575,Basic,13,Italy,38,Female,Smart TV,1 Month,246,10,3198
+576,Premium,15,Spain,49,Female,Tablet,1 Month,247,10,3705
+577,Basic,15,Spain,31,Male,Laptop,1 Month,246,10,3690
+578,Standard,13,United States,29,Female,Laptop,1 Month,248,10,3224
+579,Standard,12,Canada,35,Female,Tablet,1 Month,255,10,3060
+580,Basic,14,United States,46,Female,Tablet,1 Month,294,9,4116
+581,Premium,10,United States,29,Female,Laptop,1 Month,506,2,5060
+582,Basic,12,Canada,43,Female,Laptop,1 Month,347,7,4164
+583,Standard,15,United Kingdom,38,Female,Tablet,1 Month,346,7,5190
+584,Premium,14,Australia,48,Female,Smart TV,1 Month,349,7,4886
+585,Basic,14,Germany,41,Male,Laptop,1 Month,348,7,4872
+586,Premium,15,France,51,Female,Laptop,1 Month,386,6,5790
+587,Basic,14,Brazil,39,Male,Smart TV,1 Month,355,7,4970
+588,Standard,11,Mexico,31,Male,Smartphone,1 Month,354,7,3894
+589,Standard,15,Spain,28,Male,Laptop,1 Month,447,4,6705
+590,Basic,15,Italy,47,Male,Laptop,1 Month,335,7,5025
+591,Premium,14,Spain,35,Female,Smart TV,1 Month,374,6,5236
+592,Basic,15,Spain,33,Male,Smartphone,1 Month,296,9,4440
+593,Standard,11,United States,41,Male,Smartphone,1 Month,388,6,4268
+594,Premium,12,Canada,38,Female,Smart TV,1 Month,389,6,4668
+595,Basic,10,United States,49,Male,Laptop,1 Month,234,11,2340
+596,Basic,14,United States,29,Female,Smart TV,1 Month,375,6,5250
+597,Basic,13,Canada,50,Male,Laptop,1 Month,366,6,4758
+598,Standard,12,United Kingdom,29,Female,Tablet,1 Month,418,5,5016
+599,Premium,15,Australia,44,Male,Smart TV,1 Month,385,6,5775
+600,Basic,14,Germany,36,Female,Smart TV,1 Month,378,6,5292
+601,Basic,14,France,46,Female,Smart TV,1 Month,420,5,5880
+602,Premium,14,Brazil,30,Male,Smartphone,1 Month,419,5,5866
+603,Standard,15,Mexico,46,Female,Tablet,1 Month,386,6,5790
+604,Standard,15,Spain,33,Male,Smartphone,1 Month,357,7,5355
+605,Basic,15,Italy,46,Female,Tablet,1 Month,266,10,3990
+606,Premium,14,Spain,50,Male,Tablet,1 Month,381,6,5334
+607,Standard,14,Spain,27,Female,Smart TV,1 Month,378,6,5292
+608,Basic,12,United States,48,Female,Smart TV,1 Month,371,6,4452
+609,Standard,14,Canada,50,Female,Smartphone,1 Month,479,3,6706
+610,Premium,13,United States,28,Female,Tablet,1 Month,418,5,5434
+611,Basic,15,United States,29,Female,Smartphone,1 Month,233,11,3495
+612,Premium,11,Canada,36,Male,Smart TV,1 Month,345,7,3795
+613,Standard,12,United Kingdom,51,Male,Laptop,1 Month,336,7,4032
+614,Basic,15,Australia,51,Male,Smartphone,1 Month,318,8,4770
+615,Standard,13,Germany,43,Male,Smart TV,1 Month,316,8,4108
+616,Premium,14,France,38,Female,Laptop,1 Month,503,2,7042
+617,Basic,11,Brazil,45,Female,Smartphone,1 Month,415,5,4565
+618,Standard,10,Mexico,28,Female,Smart TV,1 Month,384,6,3840
+619,Premium,11,Spain,27,Male,Smartphone,1 Month,385,6,4235
+620,Basic,11,Italy,41,Female,Smartphone,1 Month,414,5,4554
+621,Premium,14,Spain,49,Male,Smart TV,1 Month,385,6,5390
+622,Basic,12,Spain,35,Male,Smartphone,1 Month,303,8,3636
+623,Standard,13,United States,29,Female,Smart TV,1 Month,302,8,3926
+624,Standard,10,Canada,42,Male,Smartphone,1 Month,506,2,5060
+625,Basic,15,United States,33,Male,Tablet,1 Month,281,9,4215
+626,Premium,10,United States,30,Male,Laptop,1 Month,280,9,2800
+627,Basic,11,Canada,43,Female,Smart TV,1 Month,273,9,3003
+628,Standard,10,United Kingdom,42,Male,Smartphone,1 Month,119,9,1190
+629,Premium,11,Australia,39,Male,Tablet,1 Month,201,12,2211
+630,Basic,15,Germany,32,Female,Smart TV,1 Month,385,6,5775
+631,Premium,14,France,31,Male,Smartphone,1 Month,280,9,3920
+632,Basic,13,Brazil,39,Male,Smartphone,1 Month,106,9,1378
+633,Standard,12,Mexico,41,Female,Smartphone,1 Month,274,9,3288
+634,Standard,12,Spain,51,Female,Smart TV,1 Month,273,9,3276
+635,Basic,13,Italy,29,Male,Laptop,1 Month,474,3,6162
+636,Premium,10,Spain,33,Female,Smart TV,1 Month,71,10,710
+637,Basic,12,Spain,51,Female,Tablet,1 Month,227,11,2724
+638,Standard,11,United States,38,Male,Tablet,1 Month,52,11,572
+639,Premium,10,Canada,37,Female,Laptop,1 Month,223,11,2230
+640,Basic,13,United States,50,Female,Laptop,1 Month,222,11,2886
+641,Premium,12,United States,33,Male,Tablet,1 Month,220,11,2640
+642,Basic,11,Canada,27,Male,Laptop,1 Month,49,11,539
+643,Standard,11,United Kingdom,50,Female,Smartphone,1 Month,242,10,2662
+644,Standard,15,Australia,47,Female,Laptop,1 Month,245,10,3675
+645,Basic,13,Germany,41,Male,Laptop,1 Month,245,10,3185
+646,Premium,10,France,49,Female,Laptop,1 Month,246,10,2460
+647,Basic,15,Brazil,32,Male,Smart TV,1 Month,246,10,3690
+648,Standard,10,Mexico,38,Female,Smartphone,1 Month,254,10,2540
+649,Premium,14,Spain,38,Female,Smartphone,1 Month,313,8,4382
+650,Basic,15,Italy,28,Female,Smart TV,1 Month,317,8,4755
+651,Premium,13,Spain,31,Male,Tablet,1 Month,318,8,4134
+652,Basic,14,Spain,39,Female,Smartphone,1 Month,318,8,4452
+653,Standard,11,United States,28,Female,Smartphone,1 Month,335,7,3685
+654,Standard,12,Canada,30,Female,Smartphone,1 Month,346,7,4152
+655,Basic,11,United States,42,Male,Tablet,1 Month,338,7,3718
+656,Premium,14,United States,33,Female,Laptop,1 Month,333,7,4662
+657,Basic,14,Canada,34,Female,Smart TV,1 Month,478,3,6692
+658,Standard,13,United Kingdom,49,Female,Smart TV,1 Month,447,4,5811
+659,Premium,13,Australia,41,Male,Laptop,1 Month,478,3,6214
+660,Basic,12,Germany,28,Male,Smart TV,1 Month,367,6,4404
+661,Premium,14,France,49,Female,Laptop,1 Month,366,6,5124
+662,Basic,15,Brazil,49,Male,Tablet,1 Month,379,6,5685
+663,Standard,11,Mexico,36,Male,Tablet,1 Month,381,6,4191
+664,Standard,11,Spain,31,Male,Smart TV,1 Month,206,12,2266
+665,Basic,10,Italy,38,Male,Smartphone,1 Month,375,6,3750
+666,Premium,15,Spain,34,Female,Tablet,1 Month,368,6,5520
+667,Basic,11,Spain,51,Female,Smartphone,1 Month,365,6,4015
+668,Standard,13,United States,49,Male,Smart TV,1 Month,480,3,6240
+669,Premium,13,Canada,27,Female,Tablet,1 Month,374,6,4862
+670,Basic,10,United States,38,Male,Smart TV,1 Month,327,8,3270
+671,Basic,10,United States,51,Male,Tablet,1 Month,328,8,3280
+672,Basic,14,Canada,47,Female,Tablet,1 Month,297,9,4158
+673,Standard,15,United Kingdom,37,Male,Smartphone,1 Month,294,9,4410
+674,Premium,13,Australia,37,Female,Laptop,1 Month,265,10,3445
+675,Basic,11,Germany,39,Female,Tablet,1 Month,235,11,2585
+676,Basic,11,France,31,Male,Smartphone,1 Month,381,6,4191
+677,Premium,13,Brazil,36,Male,Smart TV,1 Month,376,6,4888
+678,Standard,15,Mexico,42,Female,Smart TV,1 Month,366,6,5490
+679,Standard,11,Spain,49,Male,Laptop,1 Month,418,5,4598
+680,Basic,15,Italy,44,Female,Laptop,1 Month,357,7,5355
+681,Premium,11,Spain,33,Male,Laptop,1 Month,347,7,3817
+682,Standard,11,Spain,42,Male,Tablet,1 Month,339,7,3729
+683,Basic,13,United States,39,Male,Smartphone,1 Month,478,3,6214
+684,Standard,10,Canada,49,Male,Smartphone,1 Month,233,11,2330
+685,Premium,12,United States,31,Male,Smartphone,1 Month,319,8,3828
+686,Basic,14,United States,37,Male,Tablet,1 Month,314,8,4396
+687,Premium,13,Canada,30,Female,Tablet,1 Month,307,8,3991
+688,Standard,10,United Kingdom,42,Male,Smartphone,1 Month,476,3,4760
+689,Basic,15,Australia,37,Female,Smart TV,1 Month,446,4,6690
+690,Standard,15,Germany,36,Male,Laptop,1 Month,417,5,6255
+691,Premium,11,France,28,Female,Laptop,1 Month,536,1,5896
+692,Basic,15,Brazil,36,Male,Tablet,1 Month,303,8,4545
+693,Standard,14,Mexico,31,Female,Tablet,1 Month,536,1,7504
+694,Premium,14,Spain,46,Male,Smart TV,1 Month,112,9,1568
+695,Basic,13,Italy,28,Male,Laptop,1 Month,280,9,3640
+696,Premium,15,Spain,31,Male,Tablet,1 Month,100,9,1500
+697,Basic,12,Spain,43,Male,Smart TV,1 Month,384,6,4608
+698,Standard,10,United States,28,Male,Laptop,1 Month,59,12,590
+699,Standard,13,Canada,32,Female,Smartphone,1 Month,355,7,4615
+700,Basic,12,United States,31,Female,Laptop,1 Month,446,4,5352
+701,Premium,11,United States,45,Male,Smart TV,1 Month,277,9,3047
+702,Basic,14,Canada,36,Male,Smartphone,1 Month,104,9,1456
+703,Standard,14,United Kingdom,35,Male,Laptop,1 Month,276,9,3864
+704,Premium,13,Australia,27,Female,Tablet,1 Month,99,9,1287
+705,Basic,13,Germany,32,Male,Laptop,1 Month,444,4,5772
+706,Premium,12,France,46,Female,Smartphone,1 Month,75,10,900
+707,Basic,12,Brazil,36,Male,Smart TV,1 Month,245,10,2940
+708,Standard,13,Mexico,39,Male,Laptop,1 Month,330,2,4290
+709,Standard,12,Spain,48,Female,Smart TV,1 Month,352,7,4224
+710,Basic,10,Italy,48,Female,Smart TV,1 Month,262,10,2620
+711,Premium,14,Spain,27,Female,Laptop,1 Month,226,11,3164
+712,Basic,13,Spain,45,Male,Tablet,1 Month,149,8,1937
+713,Standard,10,United States,30,Male,Laptop,1 Month,532,1,5320
+714,Premium,15,Canada,29,Male,Tablet,1 Month,242,10,3630
+715,Basic,12,United States,43,Female,Laptop,1 Month,244,10,2928
+716,Premium,10,United States,43,Male,Laptop,1 Month,247,10,2470
+717,Basic,15,Canada,39,Female,Tablet,1 Month,254,10,3810
+718,Standard,14,United Kingdom,27,Male,Tablet,1 Month,273,9,3822
+719,Standard,10,Australia,33,Female,Tablet,1 Month,477,3,4770
+720,Basic,10,Germany,32,Female,Tablet,1 Month,310,8,3100
+721,Premium,10,France,37,Female,Tablet,1 Month,317,8,3170
+722,Basic,13,Brazil,45,Male,Smartphone,1 Month,234,11,3042
+723,Standard,10,Mexico,40,Female,Smartphone,1 Month,538,1,5380
+724,Premium,14,Spain,44,Male,Laptop,1 Month,537,1,7518
+725,Basic,12,Italy,29,Female,Tablet,1 Month,537,1,6444
+726,Premium,14,Spain,50,Male,Laptop,1 Month,507,2,7098
+727,Basic,11,Spain,32,Female,Laptop,1 Month,447,4,4917
+728,Standard,14,United States,39,Male,Laptop,1 Month,447,4,6258
+729,Standard,15,Canada,43,Female,Smartphone,1 Month,358,7,5370
+730,Basic,12,United States,49,Female,Smartphone,1 Month,368,6,4416
+731,Premium,13,United States,30,Male,Tablet,1 Month,375,6,4875
+732,Basic,12,Canada,47,Male,Tablet,1 Month,375,6,4500
+733,Standard,10,United Kingdom,51,Female,Laptop,1 Month,376,6,3760
+734,Premium,14,Australia,40,Male,Tablet,1 Month,376,6,5264
+735,Basic,14,Germany,40,Male,Laptop,1 Month,369,6,5166
+736,Premium,11,France,49,Male,Smartphone,1 Month,365,6,4015
+737,Basic,15,Brazil,43,Female,Tablet,1 Month,508,2,7620
+738,Standard,14,Mexico,44,Female,Smartphone,1 Month,195,6,2730
+739,Standard,13,Spain,27,Male,Smartphone,1 Month,372,6,4836
+740,Basic,14,Italy,30,Male,Tablet,1 Month,378,6,5292
+741,Premium,14,Spain,47,Male,Smart TV,1 Month,297,9,4158
+742,Basic,13,Spain,51,Male,Smartphone,1 Month,267,10,3471
+743,Standard,15,United States,31,Female,Laptop,1 Month,265,10,3975
+744,Premium,13,Canada,34,Female,Tablet,1 Month,235,11,3055
+745,Basic,11,United States,28,Female,Laptop,1 Month,206,12,2266
+746,Basic,15,United States,32,Male,Smartphone,1 Month,380,6,5700
+747,Basic,11,Canada,41,Male,Smart TV,1 Month,369,6,4059
+748,Standard,13,United Kingdom,40,Male,Smart TV,1 Month,363,6,4719
+749,Premium,12,Australia,46,Male,Smart TV,1 Month,388,6,4656
+750,Basic,13,Germany,47,Male,Smart TV,1 Month,295,9,3835
+751,Basic,14,France,45,Female,Laptop,1 Month,346,7,4844
+752,Premium,10,Brazil,28,Female,Smartphone,1 Month,339,7,3390
+753,Standard,12,Mexico,43,Female,Smartphone,1 Month,338,7,4056
+754,Standard,11,Spain,41,Male,Laptop,1 Month,264,10,2904
+755,Basic,13,Italy,32,Male,Tablet,1 Month,318,8,4134
+756,Premium,14,Spain,44,Female,Smartphone,1 Month,310,8,4340
+757,Standard,11,Spain,32,Male,Laptop,1 Month,478,3,5258
+758,Basic,12,United States,47,Male,Laptop,1 Month,446,4,5352
+759,Standard,14,Canada,37,Male,Smart TV,1 Month,416,5,5824
+760,Premium,13,United States,40,Female,Smartphone,1 Month,273,4,3549
+761,Basic,11,United States,48,Female,Smart TV,1 Month,302,8,3322
+762,Premium,10,Canada,48,Male,Laptop,1 Month,394,1,3940
+763,Standard,10,United Kingdom,35,Male,Laptop,1 Month,287,9,2870
+764,Basic,15,Australia,28,Male,Smart TV,1 Month,170,9,2550
+765,Standard,11,Germany,35,Female,Smart TV,1 Month,274,9,3014
+766,Premium,13,France,43,Male,Smartphone,1 Month,99,9,1287
+767,Basic,15,Brazil,39,Male,Laptop,1 Month,354,7,5310
+768,Standard,10,Mexico,38,Female,Laptop,1 Month,181,8,1810
+769,Premium,14,Spain,36,Female,Smart TV,1 Month,324,8,4536
+770,Basic,11,Italy,42,Female,Laptop,1 Month,303,3,3333
+771,Premium,14,Spain,27,Male,Tablet,1 Month,444,4,6216
+772,Basic,12,Spain,48,Male,Laptop,1 Month,331,2,3972
+773,Standard,13,United States,27,Female,Smart TV,1 Month,536,1,6968
+774,Standard,15,Canada,49,Male,Smartphone,1 Month,334,3,5010
+775,Basic,11,United States,29,Male,Tablet,1 Month,251,10,2761
+776,Premium,11,United States,44,Male,Laptop,1 Month,78,10,858
+777,Basic,11,Canada,31,Male,Smartphone,1 Month,245,10,2695
+778,Standard,13,United Kingdom,33,Male,Tablet,1 Month,302,3,3926
+779,Premium,10,Australia,36,Female,Smart TV,1 Month,352,7,3520
+780,Basic,15,Germany,43,Female,Laptop,1 Month,201,12,3015
+781,Premium,14,France,30,Female,Smartphone,1 Month,228,11,3192
+782,Basic,13,Brazil,44,Female,Laptop,1 Month,330,2,4290
+783,Standard,13,Mexico,37,Female,Laptop,1 Month,534,1,6942
+784,Standard,14,Spain,27,Male,Laptop,1 Month,242,10,3388
+785,Basic,12,Italy,35,Female,Laptop,1 Month,244,10,2928
+786,Premium,13,Spain,32,Male,Smart TV,1 Month,249,10,3237
+787,Basic,12,Spain,49,Female,Laptop,1 Month,476,3,5712
+788,Standard,12,United States,45,Female,Tablet,1 Month,290,9,3480
+789,Premium,11,Canada,33,Female,Smartphone,1 Month,506,2,5566
+790,Basic,14,United States,37,Female,Smartphone,1 Month,304,8,4256
+791,Premium,15,United States,29,Male,Smartphone,1 Month,309,8,4635
+792,Basic,12,Canada,45,Male,Smart TV,1 Month,234,11,2808
+793,Standard,11,United Kingdom,42,Female,Smartphone,1 Month,418,5,4598
+794,Standard,12,Australia,32,Female,Smart TV,1 Month,507,2,6084
+795,Basic,11,Germany,47,Male,Smartphone,1 Month,305,3,3355
+796,Premium,12,France,27,Male,Smart TV,1 Month,274,4,3288
+797,Basic,10,Brazil,35,Male,Tablet,1 Month,418,5,4180
+798,Standard,15,Mexico,35,Male,Laptop,1 Month,205,12,3075
+799,Premium,10,Spain,48,Male,Tablet,1 Month,508,2,5080
+800,Basic,12,Italy,36,Male,Smartphone,1 Month,369,6,4428
+801,Premium,10,Spain,46,Male,Smartphone,1 Month,372,6,3720
+802,Basic,13,Spain,33,Female,Smartphone,1 Month,373,6,4849
+803,Standard,14,United States,43,Male,Smart TV,1 Month,202,6,2828
+804,Standard,14,Canada,47,Female,Smartphone,1 Month,230,6,3220
+805,Basic,15,United States,39,Female,Laptop,1 Month,366,6,5490
+806,Premium,15,United States,30,Female,Laptop,1 Month,539,1,8085
+807,Basic,11,Canada,46,Male,Tablet,1 Month,367,6,4037
+808,Standard,13,United Kingdom,39,Male,Smart TV,1 Month,196,6,2548
+809,Premium,10,Australia,28,Male,Smartphone,1 Month,371,6,3710
+810,Basic,13,Germany,38,Male,Smartphone,1 Month,296,9,3848
+811,Premium,13,France,36,Male,Laptop,1 Month,267,10,3471
+812,Basic,15,Brazil,33,Male,Laptop,1 Month,62,11,930
+813,Standard,10,Mexico,50,Male,Smartphone,1 Month,234,11,2340
+814,Standard,10,Spain,38,Male,Smartphone,1 Month,205,12,2050
+815,Basic,15,Italy,29,Male,Smartphone,1 Month,382,6,5730
+816,Premium,15,Spain,47,Female,Smart TV,1 Month,377,6,5655
+817,Basic,15,Spain,31,Female,Tablet,1 Month,366,6,5490
+818,Standard,13,United States,40,Male,Tablet,1 Month,363,6,4719
+819,Premium,14,Canada,50,Male,Laptop,1 Month,365,1,5110
+820,Basic,11,United States,43,Female,Tablet,1 Month,358,7,3938
+821,Basic,12,United States,35,Female,Laptop,1 Month,351,7,4212
+822,Basic,11,Canada,36,Male,Laptop,1 Month,340,7,3740
+823,Standard,15,United Kingdom,30,Male,Smartphone,1 Month,336,7,5040
+824,Premium,13,Australia,47,Female,Smartphone,1 Month,334,7,4342
+825,Basic,12,Germany,30,Female,Laptop,1 Month,295,9,3540
+826,Basic,11,France,37,Male,Smart TV,1 Month,142,8,1562
+827,Premium,15,Brazil,34,Male,Smartphone,1 Month,314,8,4710
+828,Standard,15,Mexico,33,Female,Smart TV,1 Month,304,8,4560
+829,Standard,10,Spain,31,Male,Tablet,1 Month,536,1,5360
+830,Basic,13,Italy,30,Female,Smartphone,1 Month,391,2,5083
+831,Premium,10,Spain,35,Male,Smartphone,1 Month,505,2,5050
+832,Standard,14,Spain,40,Female,Tablet,1 Month,145,9,2030
+833,Basic,13,United States,29,Male,Smartphone,1 Month,285,9,3705
+834,Standard,14,Canada,34,Female,Smart TV,1 Month,162,9,2268
+835,Premium,12,United States,31,Male,Laptop,1 Month,275,9,3300
+836,Basic,15,United States,28,Male,Laptop,1 Month,272,4,4080
+837,Premium,12,Canada,46,Female,Smart TV,1 Month,384,6,4608
+838,Standard,11,United Kingdom,38,Male,Smartphone,1 Month,212,7,2332
+839,Basic,13,Australia,35,Female,Laptop,1 Month,385,6,5005
+840,Standard,15,Germany,49,Male,Smartphone,1 Month,240,7,3600
+841,Premium,13,France,42,Male,Smartphone,1 Month,384,6,4992
+842,Basic,14,Brazil,37,Female,Laptop,1 Month,242,6,3388
+843,Standard,13,Mexico,39,Female,Smartphone,1 Month,272,4,3536
+844,Premium,10,Spain,47,Female,Smart TV,1 Month,116,10,1160
+845,Basic,12,Italy,49,Male,Smartphone,1 Month,253,10,3036
+846,Premium,12,Spain,35,Male,Laptop,1 Month,78,10,936
+847,Basic,11,Spain,36,Female,Smart TV,1 Month,245,10,2695
+848,Standard,11,United States,40,Male,Tablet,1 Month,392,1,4312
+849,Standard,10,Canada,30,Female,Smart TV,1 Month,200,12,2000
+850,Basic,13,United States,51,Female,Smart TV,1 Month,229,11,2977
+851,Premium,15,United States,47,Male,Laptop,1 Month,292,9,4380
+852,Basic,12,Canada,47,Female,Laptop,1 Month,149,8,1788
+853,Standard,14,United Kingdom,39,Male,Tablet,1 Month,384,6,5376
+854,Premium,10,Australia,49,Male,Smart TV,1 Month,354,7,3540
+855,Basic,12,Germany,33,Male,Laptop,1 Month,330,2,3960
+856,Premium,10,France,32,Female,Smart TV,1 Month,385,6,3850
+857,Basic,15,Brazil,40,Male,Smartphone,1 Month,287,9,4305
+858,Standard,14,Mexico,40,Female,Laptop,1 Month,264,10,3696
+859,Standard,12,Spain,51,Female,Tablet,1 Month,447,4,5364
+860,Basic,13,Italy,50,Male,Smart TV,1 Month,134,8,1742
+861,Premium,14,Spain,50,Female,Smart TV,1 Month,146,8,2044
+862,Basic,14,Spain,47,Male,Smartphone,1 Month,30,12,420
+863,Standard,12,United States,35,Male,Laptop,1 Month,265,10,3180
+864,Premium,11,Canada,31,Male,Tablet,1 Month,91,10,1001
+865,Basic,15,United States,36,Male,Smartphone,1 Month,274,4,4110
+866,Premium,10,United States,41,Female,Smart TV,1 Month,244,5,2440
+867,Basic,13,Canada,49,Female,Tablet,1 Month,348,7,4524
+868,Standard,12,United Kingdom,34,Female,Tablet,1 Month,175,7,2100
+869,Standard,15,Australia,30,Female,Tablet,1 Month,178,7,2670
+870,Basic,13,Germany,38,Male,Laptop,1 Month,337,3,4381
+871,Premium,11,France,45,Male,Tablet,1 Month,370,6,4070
+872,Basic,14,Brazil,42,Female,Laptop,1 Month,200,6,2800
+873,Standard,10,Mexico,42,Female,Smart TV,1 Month,199,6,1990
+874,Premium,10,Spain,31,Male,Smart TV,1 Month,229,6,2290
+875,Basic,14,Italy,28,Male,Smart TV,1 Month,368,6,5152
+876,Premium,11,Spain,44,Male,Tablet,1 Month,368,6,4048
+877,Basic,13,Spain,30,Male,Smart TV,1 Month,193,6,2509
+878,Standard,13,United States,33,Male,Smartphone,1 Month,224,6,2912
+879,Standard,12,Canada,42,Female,Tablet,1 Month,376,6,4512
+880,Basic,11,United States,31,Male,Smart TV,1 Month,236,11,2596
+881,Premium,11,United States,31,Female,Smartphone,1 Month,62,11,682
+882,Basic,13,Canada,46,Female,Smart TV,1 Month,32,12,416
+883,Standard,15,United Kingdom,28,Female,Tablet,1 Month,381,6,5715
+884,Premium,11,Australia,50,Male,Tablet,1 Month,381,6,4191
+885,Basic,11,Germany,34,Male,Tablet,1 Month,234,6,2574
+886,Premium,15,France,45,Female,Smart TV,1 Month,372,6,5580
+887,Basic,12,Brazil,38,Female,Laptop,1 Month,369,6,4428
+888,Standard,13,Mexico,42,Female,Laptop,1 Month,365,6,4745
+889,Standard,10,Spain,45,Female,Smartphone,1 Month,334,2,3340
+890,Basic,10,Italy,44,Male,Smart TV,1 Month,388,6,3880
+891,Premium,14,Spain,50,Female,Smart TV,1 Month,347,7,4858
+892,Basic,15,Spain,38,Male,Tablet,1 Month,336,7,5040
+893,Standard,13,United States,42,Female,Smart TV,1 Month,161,7,2093
+894,Premium,13,Canada,50,Male,Smart TV,1 Month,305,3,3965
+895,Basic,10,United States,30,Male,Smartphone,1 Month,319,8,3190
+896,Basic,10,United States,47,Female,Smartphone,1 Month,140,8,1400
+897,Basic,14,Canada,32,Female,Laptop,1 Month,313,8,4382
+898,Standard,11,United Kingdom,31,Female,Tablet,1 Month,161,8,1771
+899,Premium,15,Australia,37,Male,Laptop,1 Month,536,1,8040
+900,Basic,14,Germany,32,Female,Smartphone,1 Month,391,2,5474
+901,Basic,12,France,29,Male,Smartphone,1 Month,447,4,5364
+902,Premium,12,Brazil,28,Male,Tablet,1 Month,121,10,1452
+903,Standard,11,Mexico,42,Male,Laptop,1 Month,277,9,3047
+904,Standard,12,Spain,37,Male,Tablet,1 Month,161,9,1932
+905,Basic,13,Italy,38,Female,Laptop,1 Month,536,1,6968
+906,Premium,13,Spain,32,Male,Smart TV,1 Month,242,6,3146
+907,Standard,15,Spain,48,Male,Laptop,1 Month,355,7,5325
+908,Basic,13,United States,46,Female,Smart TV,1 Month,209,8,2717
+909,Standard,14,Canada,30,Male,Tablet,1 Month,150,8,2100
+910,Premium,10,United States,40,Female,Smart TV,1 Month,209,8,2090
+911,Basic,13,United States,29,Male,Smart TV,1 Month,323,8,4199
+912,Premium,15,Canada,41,Male,Tablet,1 Month,181,8,2715
+913,Standard,15,United Kingdom,32,Male,Laptop,1 Month,89,10,1335
+914,Basic,12,Australia,44,Female,Smart TV,1 Month,111,10,1332
+915,Standard,15,Germany,41,Male,Laptop,1 Month,252,10,3780
+916,Premium,12,France,50,Female,Smartphone,1 Month,73,10,876
+917,Basic,14,Brazil,33,Female,Tablet,1 Month,244,10,3416
+918,Standard,10,Mexico,34,Female,Smart TV,1 Month,99,10,990
+919,Premium,15,Spain,40,Male,Smartphone,1 Month,230,11,3450
+920,Basic,14,Italy,34,Female,Tablet,1 Month,118,9,1652
+921,Premium,14,Spain,27,Female,Smart TV,1 Month,118,9,1652
+922,Basic,13,Spain,34,Male,Tablet,1 Month,180,7,2340
+923,Standard,13,United States,28,Male,Tablet,1 Month,323,8,4199
+924,Standard,14,Canada,37,Female,Smart TV,1 Month,241,5,3374
+925,Basic,10,United States,27,Female,Laptop,1 Month,74,10,740
+926,Premium,13,United States,33,Female,Laptop,1 Month,107,10,1391
+927,Basic,11,Canada,42,Male,Laptop,1 Month,110,10,1210
+928,Standard,11,United Kingdom,49,Male,Smartphone,1 Month,85,10,935
+929,Premium,13,Australia,44,Male,Smart TV,1 Month,305,8,3965
+930,Basic,10,Germany,47,Male,Laptop,1 Month,142,8,1420
+931,Premium,13,France,33,Male,Laptop,1 Month,178,8,2314
+932,Basic,11,Brazil,37,Male,Smart TV,1 Month,91,11,1001
+933,Standard,10,Mexico,35,Male,Laptop,1 Month,60,11,600
+934,Standard,11,Spain,34,Female,Smartphone,1 Month,213,6,2343
+935,Basic,10,Italy,44,Male,Smartphone,1 Month,214,7,2140
+936,Premium,15,Spain,29,Male,Tablet,1 Month,204,7,3060
+937,Basic,10,Spain,38,Male,Smartphone,1 Month,348,7,3480
+938,Standard,14,United States,46,Male,Smart TV,1 Month,207,7,2898
+939,Premium,10,Canada,29,Male,Tablet,1 Month,208,7,2080
+940,Basic,12,United States,48,Female,Smart TV,1 Month,254,6,3048
+941,Premium,10,United States,36,Male,Smart TV,1 Month,368,6,3680
+942,Basic,12,Canada,43,Male,Laptop,1 Month,199,6,2388
+943,Standard,15,United Kingdom,42,Female,Smart TV,1 Month,198,6,2970
+944,Standard,10,Australia,50,Male,Tablet,1 Month,228,6,2280
+945,Basic,13,Germany,39,Male,Laptop,1 Month,368,6,4784
+946,Premium,14,France,43,Female,Laptop,1 Month,193,6,2702
+947,Basic,10,Brazil,50,Female,Tablet,1 Month,223,6,2230
+948,Standard,12,Mexico,51,Male,Laptop,1 Month,226,6,2712
+949,Premium,14,Spain,40,Male,Tablet,1 Month,369,6,5166
+950,Basic,10,Italy,31,Male,Tablet,1 Month,375,6,3750
+951,Premium,12,Spain,39,Female,Smartphone,1 Month,262,6,3144
+952,Basic,10,Spain,49,Female,Tablet,1 Month,205,6,2050
+953,Standard,10,United States,34,Female,Laptop,1 Month,379,6,3790
+954,Standard,13,Canada,38,Male,Smartphone,1 Month,378,6,4914
+955,Basic,15,United States,36,Female,Laptop,1 Month,232,6,3480
+956,Premium,10,United States,42,Female,Smart TV,1 Month,197,6,1970
+957,Basic,14,Canada,50,Male,Tablet,1 Month,194,6,2716
+958,Standard,10,United Kingdom,42,Female,Laptop,1 Month,334,2,3340
+959,Premium,14,Australia,35,Female,Laptop,1 Month,306,4,4284
+960,Basic,15,Germany,46,Female,Tablet,1 Month,350,7,5250
+961,Premium,15,France,48,Male,Laptop,1 Month,168,7,2520
+962,Basic,12,Brazil,43,Female,Laptop,1 Month,162,7,1944
+963,Standard,13,Mexico,51,Female,Tablet,1 Month,364,1,4732
+964,Standard,13,Spain,45,Male,Smart TV,1 Month,89,12,1157
+965,Basic,10,Italy,46,Male,Laptop,1 Month,320,8,3200
+966,Premium,12,Spain,42,Female,Laptop,1 Month,234,8,2808
+967,Basic,10,Spain,42,Female,Smartphone,1 Month,308,8,3080
+968,Standard,13,United States,50,Male,Tablet,1 Month,188,8,2444
+969,Premium,12,Canada,28,Male,Smart TV,1 Month,506,2,6072
+970,Basic,15,United States,44,Female,Tablet,1 Month,363,3,5445
+971,Basic,10,United States,36,Male,Tablet,1 Month,243,5,2430
+972,Basic,14,Canada,37,Female,Laptop,1 Month,121,10,1694
+973,Standard,12,United Kingdom,36,Male,Smartphone,1 Month,112,9,1344
+974,Premium,13,Australia,31,Male,Smartphone,1 Month,160,9,2080
+975,Basic,12,Germany,36,Female,Smart TV,1 Month,505,2,6060
+976,Basic,15,France,39,Female,Laptop,1 Month,301,5,4515
+977,Premium,11,Brazil,45,Female,Laptop,1 Month,355,7,3905
+978,Standard,13,Mexico,29,Male,Smart TV,1 Month,209,8,2717
+979,Standard,15,Spain,45,Male,Smartphone,1 Month,150,8,2250
+980,Basic,11,Italy,29,Male,Smart TV,1 Month,178,9,1958
+981,Premium,10,Spain,28,Female,Smart TV,1 Month,293,9,2930
+982,Standard,12,Spain,42,Female,Smart TV,1 Month,120,10,1440
+983,Basic,11,United States,36,Female,Smartphone,1 Month,85,10,935
+984,Standard,15,Canada,39,Male,Smart TV,1 Month,142,10,2130
+985,Premium,11,United States,36,Male,Smart TV,1 Month,251,10,2761
+986,Basic,15,United States,49,Male,Laptop,1 Month,74,10,1110
+987,Premium,11,Canada,32,Female,Tablet,1 Month,69,10,759
+988,Standard,12,United Kingdom,40,Female,Smartphone,1 Month,99,10,1188
+989,Basic,12,Australia,34,Male,Smartphone,1 Month,149,8,1788
+990,Standard,15,Germany,35,Male,Smartphone,1 Month,118,9,1770
+991,Premium,11,France,44,Female,Smart TV,1 Month,180,7,1980
+992,Basic,13,Brazil,47,Female,Smartphone,1 Month,208,8,2704
+993,Standard,14,Mexico,33,Female,Laptop,1 Month,208,8,2912
+994,Premium,11,Spain,45,Male,Tablet,1 Month,99,10,1089
+995,Basic,14,Italy,42,Female,Tablet,1 Month,71,10,994
+996,Premium,15,Spain,46,Male,Tablet,1 Month,105,10,1575
+997,Basic,14,Spain,51,Male,Tablet,1 Month,112,10,1568
+998,Standard,15,United States,41,Female,Laptop,1 Month,135,9,2025
+999,Standard,10,Canada,50,Female,Tablet,1 Month,134,8,1340
+1000,Basic,10,United States,49,Female,Smartphone,1 Month,171,8,1710
+1001,Premium,12,United States,34,Female,Laptop,1 Month,89,12,1068
+1002,Basic,13,Canada,38,Female,Tablet,1 Month,89,12,1157
+1003,Standard,13,United Kingdom,46,Male,Smart TV,1 Month,60,11,780
+1004,Premium,14,Australia,42,Male,Smart TV,1 Month,91,11,1274
+1005,Basic,12,Germany,46,Male,Laptop,1 Month,122,10,1464
+1006,Premium,10,France,51,Female,Smart TV,1 Month,219,7,2190
+1007,Basic,12,Brazil,35,Male,Smart TV,1 Month,348,7,4176
+1008,Standard,10,Mexico,34,Female,Smartphone,1 Month,207,7,2070
+1009,Standard,14,Spain,31,Female,Laptop,1 Month,276,5,3864
+1010,Basic,12,Italy,36,Female,Tablet,1 Month,424,1,5088
+1011,Premium,15,Spain,28,Male,Smart TV,1 Month,539,1,8085
+1012,Basic,15,Spain,29,Female,Smartphone,1 Month,195,6,2925
+1013,Standard,12,United States,42,Female,Smart TV,1 Month,225,6,2700
+1014,Premium,10,Canada,35,Female,Smartphone,1 Month,224,6,2240
+1015,Basic,12,United States,32,Female,Laptop,1 Month,367,6,4404
+1016,Premium,10,United States,43,Female,Tablet,1 Month,192,6,1920
+1017,Basic,10,Canada,29,Male,Smartphone,1 Month,226,6,2260
+1018,Standard,13,United Kingdom,35,Female,Tablet,1 Month,226,6,2938
+1019,Standard,14,Australia,27,Female,Tablet,1 Month,371,6,5194
+1020,Basic,13,Germany,38,Male,Tablet,1 Month,200,6,2600
+1021,Premium,13,France,33,Male,Smart TV,1 Month,258,6,3354
+1022,Basic,11,Brazil,48,Male,Laptop,1 Month,234,6,2574
+1023,Standard,10,Mexico,51,Female,Laptop,1 Month,234,6,2340
+1024,Premium,10,Spain,40,Female,Smartphone,1 Month,201,6,2010
+1025,Basic,13,Italy,28,Male,Smartphone,1 Month,257,6,3341
+1026,Premium,10,Spain,46,Female,Laptop,1 Month,195,6,1950
+1027,Basic,12,Spain,28,Female,Tablet,1 Month,334,2,4008
+1028,Standard,12,United States,47,Male,Tablet,1 Month,275,4,3300
+1029,Standard,10,Canada,47,Male,Smartphone,1 Month,215,7,2150
+1030,Basic,13,United States,50,Male,Smartphone,1 Month,177,7,2301
+1031,Premium,13,United States,50,Female,Smart TV,1 Month,171,7,2223
+1032,Basic,15,Canada,29,Male,Smartphone,1 Month,199,7,2985
+1033,Standard,15,United Kingdom,38,Male,Tablet,1 Month,161,7,2415
+1034,Premium,11,Australia,40,Female,Tablet,1 Month,89,12,979
+1035,Basic,14,Germany,43,Male,Smartphone,1 Month,146,8,2044
+1036,Premium,14,France,27,Female,Smartphone,1 Month,228,8,3192
+1037,Basic,10,Brazil,37,Female,Tablet,1 Month,305,8,3050
+1038,Standard,12,Mexico,30,Male,Smartphone,1 Month,391,2,4692
+1039,Standard,13,Spain,50,Male,Laptop,1 Month,304,3,3952
+1040,Basic,11,Italy,51,Male,Smartphone,1 Month,363,4,3993
+1041,Premium,13,Spain,37,Female,Laptop,1 Month,212,6,2756
+1042,Basic,14,Spain,35,Female,Tablet,1 Month,121,10,1694
+1043,Standard,12,United States,35,Male,Tablet,1 Month,109,9,1308
+1044,Premium,11,Canada,46,Male,Tablet,1 Month,162,9,1782
+1045,Basic,13,United States,27,Male,Tablet,1 Month,272,4,3536
+1046,Basic,13,United States,27,Male,Laptop,1 Month,270,6,3510
+1047,Basic,13,Canada,39,Female,Laptop,1 Month,181,7,2353
+1048,Standard,15,United Kingdom,51,Male,Tablet,1 Month,209,8,3135
+1049,Premium,14,Australia,41,Male,Smartphone,1 Month,119,9,1666
+1050,Basic,15,Germany,30,Female,Smart TV,1 Month,148,10,2220
+1051,Basic,11,France,46,Male,Laptop,1 Month,263,10,2893
+1052,Premium,14,Brazil,31,Male,Tablet,1 Month,116,10,1624
+1053,Standard,13,Mexico,49,Male,Smartphone,1 Month,84,10,1092
+1054,Standard,12,Spain,39,Female,Tablet,1 Month,141,10,1692
+1055,Basic,11,Italy,47,Male,Smartphone,1 Month,76,10,836
+1056,Premium,15,Spain,36,Female,Tablet,1 Month,103,10,1545
+1057,Standard,14,Spain,42,Female,Tablet,1 Month,101,10,1414
+1058,Basic,15,United States,28,Female,Smart TV,1 Month,272,5,4080
+1059,Standard,15,Canada,43,Male,Tablet,1 Month,211,7,3165
+1060,Premium,10,United States,50,Female,Laptop,1 Month,180,8,1800
+1061,Basic,15,United States,30,Female,Tablet,1 Month,118,9,1770
+1062,Premium,10,Canada,34,Female,Laptop,1 Month,147,10,1470
+1063,Standard,13,United Kingdom,35,Female,Laptop,1 Month,389,2,5057
+1064,Basic,11,Australia,29,Male,Tablet,1 Month,99,10,1089
+1065,Standard,15,Germany,33,Male,Smart TV,1 Month,101,10,1515
+1066,Premium,12,France,47,Male,Laptop,1 Month,136,10,1632
+1067,Basic,14,Brazil,32,Female,Tablet,1 Month,110,10,1540
+1068,Standard,15,Mexico,34,Female,Tablet,1 Month,168,10,2520
+1069,Premium,13,Spain,46,Male,Smart TV,1 Month,120,10,1560
+1070,Basic,15,Italy,31,Male,Tablet,1 Month,271,6,4065
+1071,Premium,12,Spain,40,Female,Tablet,1 Month,271,6,3252
+1072,Basic,11,Spain,38,Female,Tablet,1 Month,206,8,2266
+1073,Standard,11,United States,31,Male,Smart TV,1 Month,147,8,1617
+1074,Standard,12,Canada,46,Female,Smartphone,1 Month,178,8,2136
+1075,Basic,11,United States,43,Male,Smart TV,1 Month,272,6,2992
+1076,Premium,15,United States,38,Female,Laptop,1 Month,272,6,4080
+1077,Basic,15,Canada,38,Female,Laptop,1 Month,343,7,5145
+1078,Standard,14,United Kingdom,27,Male,Laptop,1 Month,205,7,2870
+1079,Premium,12,Australia,49,Female,Tablet,1 Month,153,9,1836
+1080,Basic,11,Germany,33,Male,Smartphone,1 Month,334,4,3674
+1081,Premium,10,France,40,Female,Smartphone,1 Month,368,6,3680
+1082,Basic,13,Brazil,27,Male,Tablet,1 Month,224,6,2912
+1083,Standard,12,Mexico,28,Female,Laptop,1 Month,224,6,2688
+1084,Standard,10,Spain,30,Male,Smartphone,1 Month,251,6,2510
+1085,Basic,10,Italy,33,Female,Smartphone,1 Month,366,6,3660
+1086,Premium,15,Spain,51,Female,Tablet,1 Month,195,6,2925
+1087,Basic,11,Spain,51,Male,Tablet,1 Month,254,6,2794
+1088,Standard,10,United States,50,Female,Smartphone,1 Month,226,6,2260
+1089,Premium,14,Canada,46,Female,Tablet,1 Month,371,6,5194
+1090,Basic,14,United States,31,Male,Smart TV,1 Month,227,6,3178
+1091,Premium,12,United States,46,Female,Smartphone,1 Month,260,6,3120
+1092,Basic,15,Canada,41,Male,Smart TV,1 Month,231,6,3465
+1093,Standard,12,United Kingdom,36,Male,Smartphone,1 Month,232,6,2784
+1094,Standard,10,Australia,45,Female,Tablet,1 Month,230,6,2300
+1095,Basic,10,Germany,36,Male,Smartphone,1 Month,256,6,2560
+1096,Premium,15,France,28,Male,Smartphone,1 Month,222,6,3330
+1097,Basic,13,Brazil,45,Female,Smartphone,1 Month,337,3,4381
+1098,Standard,10,Mexico,39,Female,Smartphone,1 Month,306,4,3060
+1099,Premium,13,Spain,51,Female,Laptop,1 Month,184,8,2392
+1100,Basic,10,Italy,37,Male,Laptop,1 Month,172,7,1720
+1101,Premium,11,Spain,33,Female,Tablet,1 Month,170,7,1870
+1102,Basic,15,Spain,32,Female,Smartphone,1 Month,223,7,3345
+1103,Standard,14,United States,49,Female,Tablet,1 Month,333,2,4662
+1104,Standard,10,Canada,37,Female,Smart TV,1 Month,180,9,1800
+1105,Basic,15,United States,39,Male,Tablet,1 Month,139,8,2085
+1106,Premium,14,United States,37,Male,Smart TV,1 Month,221,8,3094
+1107,Basic,15,Canada,36,Female,Smart TV,1 Month,129,8,1935
+1108,Standard,10,United Kingdom,34,Male,Laptop,1 Month,391,2,3910
+1109,Premium,13,Australia,51,Female,Smartphone,1 Month,273,4,3549
+1110,Basic,13,Germany,41,Female,Tablet,1 Month,333,5,4329
+1111,Premium,13,France,51,Male,Smart TV,1 Month,90,10,1170
+1112,Basic,15,Brazil,31,Female,Tablet,1 Month,175,9,2625
+1113,Standard,13,Mexico,44,Male,Laptop,1 Month,109,9,1417
+1114,Standard,15,Spain,50,Male,Smart TV,1 Month,421,1,6315
+1115,Basic,14,Italy,33,Male,Laptop,1 Month,303,3,4242
+1116,Premium,11,Spain,44,Female,Laptop,1 Month,301,6,3311
+1117,Basic,15,Spain,42,Female,Tablet,1 Month,150,8,2250
+1118,Standard,13,United States,35,Male,Smart TV,1 Month,178,9,2314
+1119,Premium,12,Canada,48,Male,Smartphone,1 Month,120,10,1440
+1120,Basic,13,United States,51,Female,Smartphone,1 Month,179,10,2327
+1121,Basic,15,United States,44,Female,Smart TV,1 Month,28,12,420
+1122,Basic,11,Canada,37,Female,Smartphone,1 Month,116,10,1276
+1123,Standard,15,United Kingdom,35,Female,Laptop,1 Month,115,10,1725
+1124,Premium,11,Australia,32,Male,Laptop,1 Month,141,10,1551
+1125,Basic,15,Germany,46,Female,Tablet,1 Month,111,10,1665
+1126,Basic,14,France,39,Female,Laptop,1 Month,105,10,1470
+1127,Premium,11,Brazil,33,Female,Tablet,1 Month,104,10,1144
+1128,Standard,10,Mexico,42,Male,Tablet,1 Month,300,5,3000
+1129,Standard,14,Spain,37,Female,Smartphone,1 Month,239,7,3346
+1130,Basic,14,Italy,27,Female,Smart TV,1 Month,208,8,2912
+1131,Premium,14,Spain,34,Female,Laptop,1 Month,149,9,2086
+1132,Standard,13,Spain,51,Male,Laptop,1 Month,269,6,3497
+1133,Basic,12,United States,42,Male,Laptop,1 Month,330,4,3960
+1134,Standard,13,Canada,46,Female,Smart TV,1 Month,422,3,5486
+1135,Premium,13,United States,36,Male,Laptop,1 Month,107,10,1391
+1136,Basic,14,United States,46,Male,Smartphone,1 Month,165,10,2310
+1137,Premium,13,Canada,51,Male,Smart TV,1 Month,166,10,2158
+1138,Standard,12,United Kingdom,45,Female,Smartphone,1 Month,168,10,2016
+1139,Basic,14,Australia,33,Male,Smartphone,1 Month,90,11,1260
+1140,Standard,10,Germany,31,Female,Smart TV,1 Month,179,9,1790
+1141,Premium,12,France,48,Female,Smart TV,1 Month,197,8,2364
+1142,Basic,13,Brazil,47,Female,Laptop,1 Month,229,8,2977
+1143,Standard,13,Mexico,43,Male,Smart TV,1 Month,145,8,1885
+1144,Premium,14,Spain,39,Male,Tablet,1 Month,205,8,2870
+1145,Basic,11,Italy,46,Male,Smart TV,1 Month,180,9,1980
+1146,Premium,12,Spain,46,Female,Smartphone,1 Month,364,4,4368
+1147,Basic,11,Spain,40,Female,Tablet,1 Month,164,7,1804
+1148,Standard,12,United States,38,Male,Smartphone,1 Month,92,11,1104
+1149,Standard,13,Canada,48,Female,Tablet,1 Month,181,9,2353
+1150,Basic,15,United States,38,Male,Tablet,1 Month,424,1,6360
+1151,Premium,12,United States,43,Male,Laptop,1 Month,191,6,2292
+1152,Basic,11,Canada,29,Male,Smartphone,1 Month,223,6,2453
+1153,Standard,15,United Kingdom,32,Female,Laptop,1 Month,251,6,3765
+1154,Premium,10,Australia,32,Female,Laptop,1 Month,250,6,2500
+1155,Basic,10,Germany,49,Female,Laptop,1 Month,365,6,3650
+1156,Premium,14,France,51,Female,Laptop,1 Month,226,6,3164
+1157,Basic,14,Brazil,32,Male,Smart TV,1 Month,253,6,3542
+1158,Standard,12,Mexico,35,Female,Smart TV,1 Month,227,6,2724
+1159,Standard,15,Spain,41,Male,Laptop,1 Month,196,6,2940
+1160,Basic,12,Italy,43,Female,Smart TV,1 Month,260,6,3120
+1161,Premium,12,Spain,41,Male,Smartphone,1 Month,259,6,3108
+1162,Basic,10,Spain,51,Male,Smart TV,1 Month,231,6,2310
+1163,Standard,13,United States,47,Female,Smart TV,1 Month,258,6,3354
+1164,Premium,15,Canada,39,Male,Smart TV,1 Month,229,6,3435
+1165,Basic,15,United States,51,Male,Smartphone,1 Month,253,6,3795
+1166,Premium,13,United States,39,Female,Tablet,1 Month,365,2,4745
+1167,Basic,12,Canada,45,Male,Tablet,1 Month,337,3,4044
+1168,Standard,13,United Kingdom,42,Male,Laptop,1 Month,276,5,3588
+1169,Standard,13,Australia,48,Male,Smartphone,1 Month,207,7,2691
+1170,Basic,11,Germany,33,Male,Smart TV,1 Month,202,7,2222
+1171,Premium,14,France,47,Female,Smartphone,1 Month,195,7,2730
+1172,Basic,11,Brazil,51,Female,Smart TV,1 Month,252,7,2772
+1173,Standard,11,Mexico,27,Male,Smartphone,1 Month,305,3,3355
+1174,Premium,11,Spain,44,Female,Laptop,1 Month,232,8,2552
+1175,Basic,12,Italy,41,Male,Laptop,1 Month,168,8,2016
+1176,Premium,11,Spain,37,Male,Smart TV,1 Month,253,8,2783
+1177,Basic,15,Spain,48,Male,Tablet,1 Month,394,1,5910
+1178,Standard,12,United States,30,Male,Smart TV,1 Month,394,3,4728
+1179,Standard,14,Canada,44,Female,Smartphone,1 Month,274,5,3836
+1180,Basic,14,United States,34,Female,Smart TV,1 Month,210,9,2940
+1181,Premium,15,United States,40,Female,Laptop,1 Month,59,11,885
+1182,Basic,14,Canada,28,Female,Smartphone,1 Month,202,9,2828
+1183,Standard,15,United Kingdom,44,Female,Tablet,1 Month,141,9,2115
+1184,Premium,13,Australia,38,Female,Laptop,1 Month,160,9,2080
+1185,Basic,14,Germany,49,Male,Smart TV,1 Month,242,6,3388
+1186,Premium,13,France,32,Female,Smart TV,1 Month,301,7,3913
+1187,Basic,14,Brazil,47,Female,Smart TV,1 Month,119,9,1666
+1188,Standard,10,Mexico,44,Male,Tablet,1 Month,148,10,1480
+1189,Standard,12,Spain,33,Male,Smartphone,1 Month,117,11,1404
+1190,Basic,15,Italy,32,Male,Laptop,1 Month,118,12,1770
+1191,Premium,12,Spain,27,Female,Smartphone,1 Month,86,10,1032
+1192,Basic,11,Spain,37,Male,Laptop,1 Month,144,10,1584
+1193,Standard,14,United States,34,Male,Tablet,1 Month,142,10,1988
+1194,Premium,15,Canada,40,Male,Smart TV,1 Month,170,10,2550
+1195,Basic,12,United States,45,Female,Smart TV,1 Month,107,10,1284
+1196,Basic,13,United States,29,Female,Tablet,1 Month,134,10,1742
+1197,Basic,14,Canada,35,Male,Smart TV,1 Month,133,10,1862
+1198,Standard,10,United Kingdom,38,Female,Laptop,1 Month,451,1,4510
+1199,Premium,11,Australia,48,Female,Smart TV,1 Month,420,2,4620
+1200,Basic,12,Germany,36,Male,Smartphone,1 Month,422,4,5064
+1201,Basic,10,France,41,Male,Smart TV,1 Month,269,6,2690
+1202,Premium,15,Brazil,27,Male,Smart TV,1 Month,269,6,4035
+1203,Standard,12,Mexico,41,Male,Smart TV,1 Month,361,4,4332
+1204,Standard,13,Spain,42,Male,Laptop,1 Month,189,10,2457
+1205,Basic,12,Italy,40,Female,Laptop,1 Month,131,10,1572
+1206,Premium,13,Spain,32,Male,Smart TV,1 Month,166,10,2158
+1207,Standard,12,Spain,33,Male,Smart TV,1 Month,166,10,1992
+1208,Basic,11,United States,34,Male,Smartphone,1 Month,195,9,2145
+1209,Standard,11,Canada,29,Male,Tablet,1 Month,138,9,1518
+1210,Premium,14,United States,50,Male,Smart TV,1 Month,271,6,3794
+1211,Basic,10,United States,29,Female,Laptop,1 Month,227,8,2270
+1212,Premium,13,Canada,40,Female,Tablet,1 Month,229,8,2977
+1213,Standard,10,United Kingdom,27,Male,Smart TV,1 Month,175,8,1750
+1214,Basic,10,Australia,51,Female,Smartphone,1 Month,180,9,1800
+1215,Standard,13,Germany,41,Female,Laptop,1 Month,333,4,4329
+1216,Premium,15,France,28,Female,Tablet,1 Month,253,7,3795
+1217,Basic,12,Brazil,42,Male,Laptop,1 Month,31,12,372
+1218,Standard,13,Mexico,40,Male,Laptop,1 Month,120,11,1560
+1219,Premium,12,Spain,48,Female,Smartphone,1 Month,304,6,3648
+1220,Basic,13,Italy,28,Male,Smart TV,1 Month,424,1,5512
+1221,Premium,15,Spain,40,Male,Smart TV,1 Month,334,2,5010
+1222,Basic,15,Spain,33,Female,Tablet,1 Month,250,6,3750
+1223,Standard,12,United States,33,Male,Smartphone,1 Month,250,6,3000
+1224,Standard,15,Canada,47,Female,Smartphone,1 Month,250,6,3750
+1225,Basic,13,United States,50,Female,Smart TV,1 Month,191,6,2483
+1226,Premium,15,United States,38,Male,Smartphone,1 Month,251,6,3765
+1227,Basic,15,Canada,36,Female,Tablet,1 Month,284,6,4260
+1228,Standard,15,United Kingdom,38,Female,Tablet,1 Month,254,6,3810
+1229,Premium,12,Australia,49,Male,Smartphone,1 Month,197,6,2364
+1230,Basic,12,Germany,40,Female,Smart TV,1 Month,255,6,3060
+1231,Premium,13,France,51,Male,Tablet,1 Month,256,6,3328
+1232,Basic,11,Brazil,42,Female,Smartphone,1 Month,258,6,2838
+1233,Standard,13,Mexico,41,Female,Smartphone,1 Month,257,6,3341
+1234,Standard,12,Spain,48,Female,Smartphone,1 Month,255,6,3060
+1235,Basic,13,Italy,39,Female,Tablet,1 Month,251,6,3263
+1236,Premium,15,Spain,35,Female,Tablet,1 Month,396,1,5940
+1237,Basic,11,Spain,32,Female,Tablet,1 Month,276,5,3036
+1238,Standard,12,United States,28,Female,Smartphone,1 Month,121,12,1452
+1239,Premium,11,Canada,27,Male,Laptop,1 Month,206,7,2266
+1240,Basic,11,United States,30,Female,Laptop,1 Month,261,7,2871
+1241,Premium,14,United States,47,Female,Laptop,1 Month,194,7,2716
+1242,Basic,14,Canada,49,Female,Tablet,1 Month,280,7,3920
+1243,Standard,14,United Kingdom,43,Female,Smartphone,1 Month,177,8,2478
+1244,Standard,12,Australia,42,Male,Tablet,1 Month,234,8,2808
+1245,Basic,14,Germany,29,Female,Smartphone,1 Month,201,8,2814
+1246,Premium,15,France,35,Female,Smartphone,1 Month,253,8,3795
+1247,Basic,13,Brazil,41,Female,Smartphone,1 Month,394,1,5122
+1248,Standard,13,Mexico,47,Female,Smart TV,1 Month,424,3,5512
+1249,Premium,14,Spain,28,Female,Smart TV,1 Month,241,7,3374
+1250,Basic,10,Italy,44,Female,Smartphone,1 Month,241,8,2410
+1251,Premium,10,Spain,28,Female,Tablet,1 Month,174,9,1740
+1252,Basic,11,Spain,51,Male,Laptop,1 Month,234,9,2574
+1253,Standard,11,United States,48,Male,Laptop,1 Month,133,9,1463
+1254,Standard,14,Canada,49,Female,Tablet,1 Month,189,9,2646
+1255,Basic,10,United States,50,Male,Smart TV,1 Month,421,2,4210
+1256,Premium,13,United States,43,Male,Laptop,1 Month,423,3,5499
+1257,Basic,14,Canada,32,Male,Smart TV,1 Month,242,5,3388
+1258,Standard,15,United Kingdom,42,Female,Tablet,1 Month,148,10,2220
+1259,Premium,13,Australia,41,Female,Laptop,1 Month,117,11,1521
+1260,Basic,11,Germany,31,Male,Laptop,1 Month,176,10,1936
+1261,Premium,11,France,37,Female,Smart TV,1 Month,116,10,1276
+1262,Basic,12,Brazil,46,Male,Smart TV,1 Month,142,10,1704
+1263,Standard,14,Mexico,30,Female,Tablet,1 Month,140,10,1960
+1264,Standard,11,Spain,30,Female,Smart TV,1 Month,197,10,2167
+1265,Basic,10,Italy,34,Female,Tablet,1 Month,134,10,1340
+1266,Premium,15,Spain,47,Female,Laptop,1 Month,164,10,2460
+1267,Basic,14,Spain,41,Male,Tablet,1 Month,129,10,1806
+1268,Standard,13,United States,42,Female,Laptop,1 Month,420,2,5460
+1269,Premium,12,Canada,48,Female,Smartphone,1 Month,422,3,5064
+1270,Basic,11,United States,30,Female,Smart TV,1 Month,422,4,4642
+1271,Basic,13,United States,51,Male,Smartphone,1 Month,300,5,3900
+1272,Basic,13,Canada,27,Male,Smartphone,1 Month,331,5,4303
+1273,Standard,13,United Kingdom,38,Male,Tablet,1 Month,158,10,2054
+1274,Premium,12,Australia,29,Female,Smart TV,1 Month,192,10,2304
+1275,Basic,11,Germany,40,Female,Smartphone,1 Month,133,10,1463
+1276,Basic,12,France,31,Female,Laptop,1 Month,163,10,1956
+1277,Premium,11,Brazil,30,Male,Smartphone,1 Month,189,9,2079
+1278,Standard,13,Mexico,44,Male,Laptop,1 Month,222,9,2886
+1279,Standard,14,Spain,34,Female,Tablet,1 Month,88,12,1232
+1280,Basic,14,Italy,28,Female,Laptop,1 Month,225,8,3150
+1281,Premium,13,Spain,41,Female,Laptop,1 Month,225,8,2925
+1282,Standard,12,Spain,43,Male,Tablet,1 Month,258,8,3096
+1283,Basic,10,United States,33,Male,Laptop,1 Month,174,8,1740
+1284,Standard,12,Canada,32,Female,Tablet,1 Month,180,9,2160
+1285,Premium,10,United States,39,Male,Smart TV,1 Month,303,6,3030
+1286,Basic,15,United States,37,Male,Laptop,1 Month,264,7,3960
+1287,Premium,11,Canada,46,Male,Tablet,1 Month,62,12,682
+1288,Standard,11,United Kingdom,39,Male,Smartphone,1 Month,90,12,990
+1289,Basic,12,Australia,46,Female,Tablet,1 Month,424,2,5088
+1290,Standard,13,Germany,43,Male,Laptop,1 Month,393,2,5109
+1291,Premium,10,France,32,Female,Laptop,1 Month,222,6,2220
+1292,Basic,12,Brazil,30,Female,Smart TV,1 Month,281,6,3372
+1293,Standard,11,Mexico,40,Female,Tablet,1 Month,455,1,5005
+1294,Premium,11,Spain,51,Female,Smartphone,1 Month,281,6,3091
+1295,Basic,10,Italy,40,Female,Smartphone,1 Month,223,6,2230
+1296,Premium,12,Spain,28,Male,Smart TV,1 Month,250,6,3000
+1297,Basic,14,Spain,51,Female,Smartphone,1 Month,282,6,3948
+1298,Standard,14,United States,27,Male,Laptop,1 Month,254,6,3556
+1299,Standard,14,Canada,35,Male,Smart TV,1 Month,194,6,2716
+1300,Basic,11,United States,37,Male,Laptop,1 Month,256,6,2816
+1301,Premium,14,United States,51,Male,Smart TV,1 Month,288,6,4032
+1302,Basic,11,Canada,40,Male,Smart TV,1 Month,257,6,2827
+1303,Standard,14,United Kingdom,38,Male,Laptop,1 Month,255,6,3570
+1304,Premium,11,Australia,48,Female,Laptop,1 Month,252,6,2772
+1305,Basic,11,Germany,49,Male,Smartphone,1 Month,424,1,4664
+1306,Premium,15,France,33,Female,Laptop,1 Month,454,2,6810
+1307,Basic,10,Brazil,34,Female,Tablet,1 Month,273,6,2730
+1308,Standard,15,Mexico,39,Male,Tablet,1 Month,182,12,2730
+1309,Standard,13,Spain,37,Female,Tablet,1 Month,205,7,2665
+1310,Basic,15,Italy,44,Male,Laptop,1 Month,288,7,4320
+1311,Premium,15,Spain,35,Male,Tablet,1 Month,252,7,3780
+1312,Basic,11,Spain,31,Female,Laptop,1 Month,364,6,4004
+1313,Standard,10,United States,39,Male,Smart TV,1 Month,152,9,1520
+1314,Premium,13,Canada,38,Male,Tablet,1 Month,266,8,3458
+1315,Basic,11,United States,42,Male,Smartphone,1 Month,199,8,2189
+1316,Premium,12,United States,48,Female,Tablet,1 Month,252,8,3024
+1317,Basic,11,Canada,31,Male,Tablet,1 Month,391,2,4301
+1318,Standard,11,United Kingdom,42,Male,Smartphone,1 Month,393,4,4323
+1319,Standard,14,Australia,35,Male,Smartphone,1 Month,271,6,3794
+1320,Basic,10,Germany,39,Male,Laptop,1 Month,235,9,2350
+1321,Premium,13,France,50,Female,Tablet,1 Month,204,9,2652
+1322,Basic,11,Brazil,40,Male,Smartphone,1 Month,264,9,2904
+1323,Standard,10,Mexico,29,Male,Smartphone,1 Month,132,9,1320
+1324,Premium,10,Spain,48,Female,Smart TV,1 Month,421,2,4210
+1325,Basic,15,Italy,34,Male,Smartphone,1 Month,393,3,5895
+1326,Premium,10,Spain,48,Male,Smartphone,1 Month,362,5,3620
+1327,Basic,12,Spain,48,Male,Laptop,1 Month,212,7,2544
+1328,Standard,12,United States,35,Female,Tablet,1 Month,209,9,2508
+1329,Standard,11,Canada,29,Male,Laptop,1 Month,148,11,1628
+1330,Basic,14,United States,47,Female,Smart TV,1 Month,206,10,2884
+1331,Premium,12,United States,36,Male,Smartphone,1 Month,115,10,1380
+1332,Basic,12,Canada,40,Female,Smartphone,1 Month,172,10,2064
+1333,Standard,14,United Kingdom,51,Male,Tablet,1 Month,168,10,2352
+1334,Premium,12,Australia,37,Male,Smart TV,1 Month,196,10,2352
+1335,Basic,12,Germany,36,Male,Tablet,1 Month,226,10,2712
+1336,Premium,12,France,45,Male,Tablet,1 Month,161,10,1932
+1337,Basic,11,Brazil,31,Female,Tablet,1 Month,158,10,1738
+1338,Standard,14,Mexico,45,Female,Laptop,1 Month,392,3,5488
+1339,Standard,11,Spain,30,Male,Laptop,1 Month,391,4,4301
+1340,Basic,14,Italy,40,Female,Smartphone,1 Month,392,5,5488
+1341,Premium,14,Spain,44,Female,Smart TV,1 Month,300,6,4200
+1342,Basic,12,Spain,36,Female,Laptop,1 Month,481,1,5772
+1343,Standard,10,United States,36,Male,Tablet,1 Month,481,1,4810
+1344,Premium,11,Canada,32,Female,Smartphone,1 Month,190,10,2090
+1345,Basic,10,United States,46,Male,Smart TV,1 Month,131,10,1310
+1346,Basic,12,United States,39,Female,Smart TV,1 Month,173,10,2076
+1347,Basic,13,Canada,30,Male,Smart TV,1 Month,175,10,2275
+1348,Standard,13,United Kingdom,34,Male,Laptop,1 Month,235,9,3055
+1349,Premium,14,Australia,28,Male,Laptop,1 Month,363,3,5082
+1350,Basic,13,Germany,39,Female,Smartphone,1 Month,223,8,2899
+1351,Basic,12,France,34,Female,Laptop,1 Month,253,8,3036
+1352,Premium,13,Brazil,42,Male,Laptop,1 Month,259,8,3367
+1353,Standard,13,Mexico,29,Female,Tablet,1 Month,178,8,2314
+1354,Standard,13,Spain,29,Male,Tablet,1 Month,120,12,1560
+1355,Basic,12,Italy,30,Male,Tablet,1 Month,257,7,3084
+1356,Premium,11,Spain,51,Male,Smartphone,1 Month,257,7,2827
+1357,Standard,11,Spain,51,Male,Smart TV,1 Month,62,12,682
+1358,Basic,13,United States,44,Male,Tablet,1 Month,212,9,2756
+1359,Standard,13,Canada,35,Male,Laptop,1 Month,242,9,3146
+1360,Premium,10,United States,39,Male,Smart TV,1 Month,182,10,1820
+1361,Basic,12,United States,41,Female,Laptop,1 Month,365,2,4380
+1362,Premium,13,Canada,44,Female,Laptop,1 Month,424,2,5512
+1363,Standard,11,United Kingdom,29,Male,Laptop,1 Month,485,1,5335
+1364,Basic,14,Australia,47,Male,Tablet,1 Month,455,1,6370
+1365,Standard,10,Germany,28,Female,Smartphone,1 Month,222,6,2220
+1366,Premium,15,France,45,Male,Laptop,1 Month,282,6,4230
+1367,Basic,11,Brazil,28,Female,Smartphone,1 Month,285,6,3135
+1368,Standard,14,Mexico,31,Female,Laptop,1 Month,253,6,3542
+1369,Premium,13,Spain,47,Female,Laptop,1 Month,255,6,3315
+1370,Basic,13,Italy,42,Female,Tablet,1 Month,288,6,3744
+1371,Premium,14,Spain,34,Female,Laptop,1 Month,287,6,4018
+1372,Basic,12,Spain,40,Female,Laptop,1 Month,316,6,3792
+1373,Standard,13,United States,42,Female,Laptop,1 Month,285,6,3705
+1374,Standard,14,Canada,33,Male,Smart TV,1 Month,375,6,5250
+1375,Basic,12,United States,30,Male,Laptop,1 Month,250,6,3000
+1376,Premium,14,United States,29,Male,Tablet,1 Month,426,3,5964
+1377,Basic,13,Canada,31,Male,Smart TV,1 Month,212,9,2756
+1378,Standard,14,United Kingdom,46,Female,Smart TV,1 Month,325,7,4550
+1379,Premium,11,Australia,46,Female,Smartphone,1 Month,228,7,2508
+1380,Basic,11,Germany,47,Male,Laptop,1 Month,283,7,3113
+1381,Premium,12,France,48,Female,Smart TV,1 Month,364,4,4368
+1382,Basic,13,Brazil,32,Female,Smart TV,1 Month,303,8,3939
+1383,Standard,13,Mexico,51,Female,Tablet,1 Month,237,8,3081
+1384,Standard,13,Spain,33,Male,Smart TV,1 Month,263,8,3419
+1385,Basic,15,Italy,43,Male,Smartphone,1 Month,230,8,3450
+1386,Premium,14,Spain,43,Female,Smart TV,1 Month,283,8,3962
+1387,Basic,13,Spain,42,Male,Smart TV,1 Month,221,8,2873
+1388,Standard,15,United States,30,Male,Smartphone,1 Month,424,3,6360
+1389,Premium,13,Canada,50,Male,Smartphone,1 Month,149,10,1937
+1390,Basic,11,United States,51,Female,Laptop,1 Month,236,9,2596
+1391,Premium,14,United States,36,Female,Tablet,1 Month,204,9,2856
+1392,Basic,13,Canada,41,Female,Tablet,1 Month,255,9,3315
+1393,Standard,10,United Kingdom,37,Male,Smart TV,1 Month,421,1,4210
+1394,Standard,11,Australia,30,Female,Tablet,1 Month,421,2,4631
+1395,Basic,11,Germany,50,Female,Tablet,1 Month,332,5,3652
+1396,Premium,14,France,41,Female,Smart TV,1 Month,331,6,4634
+1397,Basic,14,Brazil,29,Female,Laptop,1 Month,240,7,3360
+1398,Standard,12,Mexico,43,Male,Smart TV,1 Month,179,10,2148
+1399,Premium,12,Spain,31,Female,Smart TV,1 Month,118,12,1416
+1400,Basic,14,Italy,40,Male,Laptop,1 Month,235,10,3290
+1401,Premium,12,Spain,35,Female,Smart TV,1 Month,202,10,2424
+1402,Basic,13,Spain,39,Female,Laptop,1 Month,168,10,2184
+1403,Standard,14,United States,48,Male,Laptop,1 Month,196,10,2744
+1404,Standard,14,Canada,42,Female,Tablet,1 Month,195,10,2730
+1405,Basic,11,United States,48,Female,Smart TV,1 Month,223,10,2453
+1406,Premium,10,United States,33,Female,Smart TV,1 Month,250,10,2500
+1407,Basic,14,Canada,45,Female,Smart TV,1 Month,158,10,2212
+1408,Standard,14,United Kingdom,40,Female,Smart TV,1 Month,392,3,5488
+1409,Premium,15,Australia,38,Male,Tablet,1 Month,392,5,5880
+1410,Basic,14,Germany,31,Female,Tablet,1 Month,361,6,5054
+1411,Premium,14,France,33,Female,Smart TV,1 Month,451,1,6314
+1412,Basic,15,Brazil,27,Male,Laptop,1 Month,450,2,6750
+1413,Standard,13,Mexico,47,Male,Smartphone,1 Month,450,2,5850
+1414,Standard,15,Spain,41,Male,Tablet,1 Month,512,1,7680
+1415,Basic,11,Italy,32,Female,Smart TV,1 Month,141,10,1551
+1416,Premium,11,Spain,31,Male,Smart TV,1 Month,201,10,2211
+1417,Basic,13,Spain,43,Female,Tablet,1 Month,221,9,2873
+1418,Standard,15,United States,42,Female,Smart TV,1 Month,226,9,3390
+1419,Premium,15,Canada,46,Male,Smartphone,1 Month,166,9,2490
+1420,Basic,12,United States,27,Female,Smartphone,1 Month,219,8,2628
+1421,Basic,15,United States,48,Female,Smart TV,1 Month,252,8,3780
+1422,Basic,15,Canada,49,Male,Laptop,1 Month,253,8,3795
+1423,Standard,12,United Kingdom,43,Male,Smart TV,1 Month,202,8,2424
+1424,Premium,14,Australia,38,Male,Laptop,1 Month,211,9,2954
+1425,Basic,13,Germany,37,Male,Smartphone,1 Month,287,7,3731
+1426,Basic,12,France,39,Female,Smart TV,1 Month,265,7,3180
+1427,Premium,10,Brazil,40,Male,Tablet,1 Month,235,7,2350
+1428,Standard,12,Mexico,40,Male,Smart TV,1 Month,151,12,1812
+1429,Standard,12,Spain,48,Male,Laptop,1 Month,182,12,2184
+1430,Basic,13,Italy,43,Female,Smart TV,1 Month,242,9,3146
+1431,Premium,10,Spain,46,Male,Laptop,1 Month,276,5,2760
+1432,Standard,11,Spain,43,Male,Smartphone,1 Month,365,5,4015
+1433,Basic,10,United States,30,Female,Tablet,1 Month,426,3,4260
+1434,Standard,13,Canada,51,Female,Laptop,1 Month,455,1,5915
+1435,Premium,12,United States,30,Male,Smartphone,1 Month,250,6,3000
+1436,Basic,14,United States,47,Female,Smart TV,1 Month,284,6,3976
+1437,Premium,13,Canada,41,Male,Laptop,1 Month,283,6,3679
+1438,Standard,10,United Kingdom,45,Female,Smartphone,1 Month,313,6,3130
+1439,Basic,14,Australia,47,Female,Laptop,1 Month,287,6,4018
+1440,Standard,11,Germany,48,Female,Smart TV,1 Month,317,6,3487
+1441,Premium,11,France,51,Female,Tablet,1 Month,286,6,3146
+1442,Basic,10,Brazil,29,Male,Smart TV,1 Month,346,6,3460
+1443,Standard,13,Mexico,43,Female,Laptop,1 Month,314,6,4082
+1444,Premium,13,Spain,49,Female,Tablet,1 Month,373,6,4849
+1445,Basic,11,Italy,37,Male,Smartphone,1 Month,393,2,4323
+1446,Premium,13,Spain,48,Male,Tablet,1 Month,304,7,3952
+1447,Basic,11,Spain,36,Female,Tablet,1 Month,298,7,3278
+1448,Standard,14,United States,33,Female,Laptop,1 Month,354,7,4956
+1449,Standard,14,Canada,38,Female,Laptop,1 Month,257,7,3598
+1450,Basic,12,United States,42,Female,Smartphone,1 Month,311,7,3732
+1451,Premium,15,United States,30,Female,Tablet,1 Month,484,1,7260
+1452,Basic,10,Canada,39,Male,Smart TV,1 Month,303,8,3030
+1453,Standard,14,United Kingdom,36,Male,Smartphone,1 Month,237,8,3318
+1454,Premium,11,Australia,27,Female,Smartphone,1 Month,297,8,3267
+1455,Basic,11,Germany,49,Male,Smart TV,1 Month,227,8,2497
+1456,Premium,14,France,31,Male,Laptop,1 Month,284,8,3976
+1457,Basic,10,Brazil,36,Male,Laptop,1 Month,249,8,2490
+1458,Standard,14,Mexico,41,Female,Tablet,1 Month,271,9,3794
+1459,Standard,10,Spain,45,Female,Laptop,1 Month,180,10,1800
+1460,Basic,14,Italy,45,Male,Smart TV,1 Month,149,12,2086
+1461,Premium,11,Spain,32,Male,Smart TV,1 Month,232,9,2552
+1462,Basic,13,Spain,41,Female,Smartphone,1 Month,259,9,3367
+1463,Standard,11,United States,37,Male,Smart TV,1 Month,390,2,4290
+1464,Premium,10,Canada,27,Male,Laptop,1 Month,392,4,3920
+1465,Basic,14,United States,41,Male,Laptop,1 Month,301,6,4214
+1466,Premium,13,United States,30,Female,Smart TV,1 Month,332,7,4316
+1467,Basic,12,Canada,43,Male,Smartphone,1 Month,240,8,2880
+1468,Standard,12,United Kingdom,51,Male,Laptop,1 Month,178,11,2136
+1469,Standard,12,Australia,46,Female,Smart TV,1 Month,176,10,2112
+1470,Basic,10,Germany,27,Female,Tablet,1 Month,235,10,2350
+1471,Premium,10,France,51,Female,Smartphone,1 Month,231,10,2310
+1472,Basic,14,Brazil,28,Female,Laptop,1 Month,229,10,3206
+1473,Standard,14,Mexico,33,Male,Smartphone,1 Month,196,10,2744
+1474,Premium,12,Spain,31,Female,Laptop,1 Month,193,10,2316
+1475,Basic,13,Italy,47,Male,Laptop,1 Month,223,10,2899
+1476,Premium,10,Spain,45,Female,Tablet,1 Month,249,10,2490
+1477,Basic,13,Spain,42,Male,Smart TV,1 Month,422,3,5486
+1478,Standard,15,United States,47,Female,Smart TV,1 Month,392,5,5880
+1479,Standard,12,Canada,29,Female,Smart TV,1 Month,361,6,4332
+1480,Basic,13,United States,49,Female,Laptop,1 Month,483,3,6279
+1481,Premium,14,United States,41,Female,Laptop,1 Month,392,3,5488
+1482,Basic,13,Canada,45,Male,Smartphone,1 Month,391,4,5083
+1483,Standard,14,United Kingdom,49,Male,Smart TV,1 Month,481,2,6734
+1484,Premium,13,Australia,41,Male,Smart TV,1 Month,223,10,2899
+1485,Basic,15,Germany,37,Male,Laptop,1 Month,162,10,2430
+1486,Premium,14,France,31,Male,Smartphone,1 Month,204,10,2856
+1487,Basic,13,Brazil,29,Male,Smartphone,1 Month,423,3,5499
+1488,Standard,10,Mexico,51,Female,Smart TV,1 Month,224,9,2240
+1489,Standard,12,Spain,33,Male,Smart TV,1 Month,172,9,2064
+1490,Basic,12,Italy,31,Male,Smartphone,1 Month,205,9,2460
+1491,Premium,11,Spain,42,Female,Laptop,1 Month,179,11,1969
+1492,Basic,15,Spain,48,Female,Laptop,1 Month,240,9,3600
+1493,Standard,13,United States,37,Female,Laptop,1 Month,89,12,1157
+1494,Premium,13,Canada,51,Female,Smartphone,1 Month,425,4,5525
+1495,Basic,12,United States,29,Female,Tablet,1 Month,425,4,5100
+1496,Basic,13,United States,46,Male,Tablet,1 Month,280,7,3640
+1497,Basic,15,Canada,35,Male,Smart TV,1 Month,221,7,3315
+1498,Standard,15,United Kingdom,44,Female,Smartphone,1 Month,297,7,4455
+1499,Premium,12,Australia,36,Male,Smart TV,1 Month,329,7,3948
+1500,Basic,14,Germany,38,Female,Tablet,1 Month,181,11,2534
+1501,Basic,12,France,36,Male,Smart TV,1 Month,90,12,1080
+1502,Premium,14,Brazil,40,Female,Laptop,1 Month,181,11,2534
+1503,Standard,10,Mexico,29,Male,Laptop,1 Month,454,2,4540
+1504,Standard,11,Spain,32,Male,Smart TV,1 Month,342,6,3762
+1505,Basic,12,Italy,30,Male,Laptop,1 Month,311,6,3732
+1506,Premium,10,Spain,47,Male,Smartphone,1 Month,312,6,3120
+1507,Standard,15,Spain,28,Female,Tablet,1 Month,281,6,4215
+1508,Basic,11,United States,49,Male,Laptop,1 Month,317,6,3487
+1509,Standard,12,Canada,50,Male,Smartphone,1 Month,286,6,3432
+1510,Premium,11,United States,33,Male,Smart TV,1 Month,377,6,4147
+1511,Basic,13,United States,50,Male,Smart TV,1 Month,285,6,3705
+1512,Premium,10,Canada,28,Female,Smart TV,1 Month,345,6,3450
+1513,Standard,12,United Kingdom,41,Male,Smartphone,1 Month,343,6,4116
+1514,Basic,12,Australia,30,Female,Smartphone,1 Month,546,1,6552
+1515,Standard,10,Germany,32,Male,Smart TV,1 Month,396,3,3960
+1516,Premium,15,France,50,Male,Laptop,1 Month,212,12,3180
+1517,Basic,11,Brazil,28,Female,Smart TV,1 Month,296,7,3256
+1518,Standard,13,Mexico,45,Male,Smart TV,1 Month,353,7,4589
+1519,Premium,14,Spain,31,Male,Tablet,1 Month,284,7,3976
+1520,Basic,11,Italy,27,Female,Smartphone,1 Month,313,7,3443
+1521,Premium,11,Spain,49,Male,Tablet,1 Month,333,6,3663
+1522,Basic,10,Spain,32,Female,Laptop,1 Month,298,8,2980
+1523,Standard,13,United States,38,Male,Smart TV,1 Month,266,8,3458
+1524,Standard,11,Canada,39,Male,Smartphone,1 Month,321,8,3531
+1525,Basic,14,United States,50,Female,Tablet,1 Month,226,8,3164
+1526,Premium,10,United States,51,Male,Tablet,1 Month,283,8,2830
+1527,Basic,15,Canada,32,Female,Smart TV,1 Month,363,5,5445
+1528,Standard,12,United Kingdom,45,Female,Smart TV,1 Month,271,10,3252
+1529,Premium,12,Australia,31,Female,Laptop,1 Month,149,11,1788
+1530,Basic,12,Germany,44,Male,Smartphone,1 Month,266,9,3192
+1531,Premium,12,France,30,Female,Tablet,1 Month,228,9,2736
+1532,Basic,13,Brazil,44,Female,Tablet,1 Month,284,9,3692
+1533,Standard,10,Mexico,37,Male,Tablet,1 Month,158,9,1580
+1534,Standard,14,Spain,30,Female,Tablet,1 Month,482,2,6748
+1535,Basic,12,Italy,31,Female,Smart TV,1 Month,331,6,3972
+1536,Premium,15,Spain,31,Female,Laptop,1 Month,332,7,4980
+1537,Basic,15,Spain,44,Male,Tablet,1 Month,270,9,4050
+1538,Standard,10,United States,44,Female,Smart TV,1 Month,178,11,1780
+1539,Premium,14,Canada,34,Male,Laptop,1 Month,148,12,2072
+1540,Basic,12,United States,42,Male,Laptop,1 Month,234,10,2808
+1541,Premium,15,United States,33,Male,Smartphone,1 Month,263,10,3945
+1542,Basic,11,Canada,35,Male,Smart TV,1 Month,259,10,2849
+1543,Standard,15,United Kingdom,34,Female,Laptop,1 Month,227,10,3405
+1544,Standard,14,Australia,47,Male,Tablet,1 Month,194,10,2716
+1545,Basic,13,Germany,43,Female,Laptop,1 Month,223,10,2899
+1546,Premium,13,France,43,Male,Smart TV,1 Month,282,10,3666
+1547,Basic,13,Brazil,35,Female,Smartphone,1 Month,481,1,6253
+1548,Standard,13,Mexico,39,Male,Tablet,1 Month,422,4,5486
+1549,Premium,10,Spain,39,Male,Tablet,1 Month,422,4,4220
+1550,Basic,11,Italy,49,Female,Smart TV,1 Month,452,4,4972
+1551,Premium,14,Spain,30,Male,Tablet,1 Month,331,5,4634
+1552,Basic,12,Spain,31,Female,Tablet,1 Month,450,2,5400
+1553,Standard,12,United States,39,Male,Tablet,1 Month,453,3,5436
+1554,Standard,14,Canada,30,Female,Laptop,1 Month,220,10,3080
+1555,Basic,13,United States,43,Female,Smartphone,1 Month,158,10,2054
+1556,Premium,10,United States,29,Female,Smartphone,1 Month,205,10,2050
+1557,Basic,14,Canada,46,Male,Smart TV,1 Month,223,9,3122
+1558,Standard,15,United Kingdom,35,Male,Smartphone,1 Month,263,9,3945
+1559,Premium,12,Australia,30,Male,Tablet,1 Month,172,9,2064
+1560,Basic,12,Germany,39,Female,Smart TV,1 Month,210,12,2520
+1561,Premium,14,France,41,Male,Laptop,1 Month,180,12,2520
+1562,Basic,12,Brazil,27,Male,Smartphone,1 Month,251,8,3012
+1563,Standard,15,Mexico,42,Male,Laptop,1 Month,194,8,2910
+1564,Standard,11,Spain,45,Female,Tablet,1 Month,296,8,3256
+1565,Basic,10,Italy,36,Female,Smart TV,1 Month,241,11,2410
+1566,Premium,12,Spain,35,Male,Laptop,1 Month,242,10,2904
+1567,Basic,13,Spain,38,Male,Smartphone,1 Month,255,7,3315
+1568,Standard,14,United States,41,Female,Smart TV,1 Month,323,7,4522
+1569,Premium,10,Canada,43,Male,Tablet,1 Month,325,7,3250
+1570,Basic,13,United States,44,Male,Tablet,1 Month,325,7,4225
+1571,Basic,10,United States,35,Male,Tablet,1 Month,264,7,2640
+1572,Basic,13,Canada,39,Male,Laptop,1 Month,212,11,2756
+1573,Standard,15,United Kingdom,43,Male,Smart TV,1 Month,304,7,4560
+1574,Premium,10,Australia,36,Male,Smart TV,1 Month,335,7,3350
+1575,Basic,11,Germany,49,Female,Laptop,1 Month,273,8,3003
+1576,Basic,12,France,29,Female,Smartphone,1 Month,426,6,5112
+1577,Premium,10,Brazil,45,Male,Tablet,1 Month,396,3,3960
+1578,Standard,11,Mexico,44,Female,Laptop,1 Month,342,6,3762
+1579,Standard,11,Spain,40,Female,Smart TV,1 Month,284,6,3124
+1580,Basic,15,Italy,51,Female,Smart TV,1 Month,407,6,6105
+1581,Premium,15,Spain,30,Female,Smart TV,1 Month,314,6,4710
+1582,Standard,14,Spain,50,Male,Smart TV,1 Month,405,6,5670
+1583,Basic,12,United States,39,Male,Tablet,1 Month,342,6,4104
+1584,Standard,11,Canada,51,Male,Tablet,1 Month,515,2,5665
+1585,Premium,10,United States,42,Male,Laptop,1 Month,365,5,3650
+1586,Basic,12,United States,34,Female,Tablet,1 Month,242,11,2904
+1587,Premium,12,Canada,28,Male,Tablet,1 Month,324,7,3888
+1588,Standard,15,United Kingdom,43,Male,Tablet,1 Month,347,7,5205
+1589,Basic,11,Australia,27,Female,Tablet,1 Month,314,7,3454
+1590,Standard,13,Germany,49,Female,Smart TV,1 Month,456,5,5928
+1591,Premium,14,France,35,Female,Laptop,1 Month,241,9,3374
+1592,Basic,10,Brazil,34,Male,Tablet,1 Month,297,8,2970
+1593,Standard,14,Mexico,28,Male,Smartphone,1 Month,265,8,3710
+1594,Premium,15,Spain,49,Female,Tablet,1 Month,325,8,4875
+1595,Basic,12,Italy,51,Female,Tablet,1 Month,225,8,2700
+1596,Premium,13,Spain,36,Male,Laptop,1 Month,284,8,3692
+1597,Basic,13,Spain,37,Male,Smart TV,1 Month,363,6,4719
+1598,Standard,11,United States,48,Male,Laptop,1 Month,332,8,3652
+1599,Standard,13,Canada,45,Female,Smart TV,1 Month,206,9,2678
+1600,Basic,11,United States,39,Male,Tablet,1 Month,265,9,2915
+1601,Premium,14,United States,39,Male,Smartphone,1 Month,230,9,3220
+1602,Basic,15,Canada,46,Female,Smart TV,1 Month,288,9,4320
+1603,Standard,13,United Kingdom,30,Female,Smartphone,1 Month,256,9,3328
+1604,Premium,10,Australia,32,Female,Smartphone,1 Month,250,9,2500
+1605,Basic,11,Germany,39,Male,Laptop,1 Month,423,3,4653
+1606,Premium,15,France,35,Female,Smartphone,1 Month,331,8,4965
+1607,Basic,15,Brazil,41,Female,Smartphone,1 Month,300,9,4500
+1608,Standard,11,Mexico,32,Female,Smart TV,1 Month,240,12,2640
+1609,Standard,14,Spain,41,Female,Smart TV,1 Month,235,10,3290
+1610,Basic,14,Italy,36,Female,Smart TV,1 Month,233,10,3262
+1611,Premium,15,Spain,49,Male,Laptop,1 Month,261,10,3915
+1612,Basic,11,Spain,30,Female,Smartphone,1 Month,320,10,3520
+1613,Standard,15,United States,40,Female,Smartphone,1 Month,227,10,3405
+1614,Premium,13,Canada,46,Female,Tablet,1 Month,253,10,3289
+1615,Basic,11,United States,30,Female,Smart TV,1 Month,222,10,2442
+1616,Premium,10,United States,48,Male,Laptop,1 Month,573,1,5730
+1617,Basic,11,Canada,50,Male,Tablet,1 Month,391,4,4301
+1618,Standard,11,United Kingdom,27,Male,Smart TV,1 Month,392,5,4312
+1619,Standard,14,Australia,51,Female,Laptop,1 Month,452,4,6328
+1620,Basic,11,Germany,38,Male,Smartphone,1 Month,422,5,4642
+1621,Premium,10,France,39,Male,Laptop,1 Month,391,4,3910
+1622,Basic,12,Brazil,45,Female,Smart TV,1 Month,361,5,4332
+1623,Standard,12,Mexico,29,Male,Laptop,1 Month,453,3,5436
+1624,Premium,13,Spain,35,Male,Smartphone,1 Month,249,10,3237
+1625,Basic,10,Italy,51,Female,Smart TV,1 Month,163,10,1630
+1626,Premium,11,Spain,51,Male,Smart TV,1 Month,234,10,2574
+1627,Basic,15,Spain,42,Female,Smartphone,1 Month,264,10,3960
+1628,Standard,13,United States,48,Female,Laptop,1 Month,263,9,3419
+1629,Standard,14,Canada,40,Male,Smart TV,1 Month,119,12,1666
+1630,Basic,13,United States,39,Male,Smart TV,1 Month,297,9,3861
+1631,Premium,14,United States,44,Male,Laptop,1 Month,301,9,4214
+1632,Basic,14,Canada,27,Female,Laptop,1 Month,455,3,6370
+1633,Standard,11,United Kingdom,35,Male,Tablet,1 Month,249,8,2739
+1634,Premium,14,Australia,45,Male,Smart TV,1 Month,316,8,4424
+1635,Basic,12,Germany,33,Male,Tablet,1 Month,326,8,3912
+1636,Premium,10,France,32,Female,Smart TV,1 Month,325,8,3250
+1637,Basic,11,Brazil,51,Female,Laptop,1 Month,283,7,3113
+1638,Standard,10,Mexico,40,Female,Tablet,1 Month,314,7,3140
+1639,Standard,15,Spain,47,Male,Laptop,1 Month,320,7,4800
+1640,Basic,13,Italy,42,Male,Smart TV,1 Month,323,7,4199
+1641,Premium,10,Spain,41,Male,Tablet,1 Month,326,7,3260
+1642,Basic,12,Spain,43,Male,Tablet,1 Month,419,7,5028
+1643,Standard,11,United States,42,Female,Tablet,1 Month,295,7,3245
+1644,Premium,14,Canada,28,Male,Smartphone,1 Month,273,9,3822
+1645,Basic,12,United States,40,Female,Laptop,1 Month,304,7,3648
+1646,Basic,15,United States,46,Female,Tablet,1 Month,427,7,6405
+1647,Basic,11,Canada,39,Female,Laptop,1 Month,334,6,3674
+1648,Standard,15,United Kingdom,41,Female,Smartphone,1 Month,342,6,5130
+1649,Premium,15,Australia,30,Male,Tablet,1 Month,314,6,4710
+1650,Basic,14,Germany,32,Male,Tablet,1 Month,405,6,5670
+1651,Basic,14,France,38,Male,Smart TV,1 Month,344,6,4816
+1652,Premium,11,Brazil,38,Male,Tablet,1 Month,404,6,4444
+1653,Standard,13,Mexico,32,Male,Smartphone,1 Month,516,1,6708
+1654,Standard,14,Spain,27,Male,Tablet,1 Month,487,3,6818
+1655,Basic,15,Italy,50,Female,Tablet,1 Month,426,4,6390
+1656,Premium,10,Spain,30,Male,Smartphone,1 Month,273,10,2730
+1657,Standard,11,Spain,49,Male,Smartphone,1 Month,319,7,3509
+1658,Basic,11,United States,32,Female,Laptop,1 Month,348,7,3828
+1659,Standard,14,Canada,35,Male,Smartphone,1 Month,316,7,4424
+1660,Premium,12,United States,44,Male,Tablet,1 Month,395,7,4740
+1661,Basic,13,United States,49,Female,Laptop,1 Month,211,10,2743
+1662,Premium,13,Canada,39,Male,Smartphone,1 Month,297,8,3861
+1663,Standard,12,United Kingdom,38,Female,Smartphone,1 Month,295,8,3540
+1664,Basic,10,Australia,38,Female,Laptop,1 Month,352,8,3520
+1665,Standard,11,Germany,37,Male,Smartphone,1 Month,255,8,2805
+1666,Premium,11,France,28,Male,Laptop,1 Month,313,8,3443
+1667,Basic,11,Brazil,49,Male,Tablet,1 Month,394,5,4334
+1668,Standard,13,Mexico,33,Female,Tablet,1 Month,363,8,4719
+1669,Premium,10,Spain,48,Male,Tablet,1 Month,235,9,2350
+1670,Basic,13,Italy,34,Male,Tablet,1 Month,264,9,3432
+1671,Premium,13,Spain,39,Female,Smartphone,1 Month,261,9,3393
+1672,Basic,15,Spain,30,Male,Tablet,1 Month,287,9,4305
+1673,Standard,10,United States,37,Male,Tablet,1 Month,281,9,2810
+1674,Standard,10,Canada,38,Male,Smart TV,1 Month,482,2,4820
+1675,Basic,12,United States,42,Female,Laptop,1 Month,270,8,3240
+1676,Premium,15,United States,35,Female,Laptop,1 Month,300,9,4500
+1677,Basic,14,Canada,30,Male,Tablet,1 Month,270,11,3780
+1678,Standard,15,United Kingdom,48,Female,Smart TV,1 Month,328,10,4920
+1679,Premium,14,Australia,48,Male,Tablet,1 Month,234,10,3276
+1680,Basic,13,Germany,32,Male,Laptop,1 Month,262,10,3406
+1681,Premium,15,France,27,Male,Smart TV,1 Month,258,10,3870
+1682,Basic,10,Brazil,48,Female,Laptop,1 Month,319,10,3190
+1683,Standard,12,Mexico,33,Male,Laptop,1 Month,224,10,2688
+1684,Standard,13,Spain,28,Male,Smartphone,1 Month,253,10,3289
+1685,Basic,15,Italy,46,Male,Laptop,1 Month,249,10,3735
+1686,Premium,11,Spain,40,Male,Laptop,1 Month,573,1,6303
+1687,Basic,13,Spain,49,Male,Smartphone,1 Month,422,3,5486
+1688,Standard,14,United States,41,Female,Tablet,1 Month,422,4,5908
+1689,Premium,13,Canada,38,Male,Tablet,1 Month,422,5,5486
+1690,Basic,13,United States,42,Female,Laptop,1 Month,422,5,5486
+1691,Premium,13,United States,27,Female,Smart TV,1 Month,361,5,4693
+1692,Basic,12,Canada,41,Female,Tablet,1 Month,392,5,4704
+1693,Standard,13,United Kingdom,41,Female,Tablet,1 Month,483,3,6279
+1694,Standard,11,Australia,49,Male,Laptop,1 Month,253,10,2783
+1695,Basic,14,Germany,28,Female,Smartphone,1 Month,165,10,2310
+1696,Premium,13,France,44,Male,Laptop,1 Month,263,10,3419
+1697,Basic,11,Brazil,47,Female,Tablet,1 Month,392,6,4312
+1698,Standard,12,Mexico,29,Male,Tablet,1 Month,262,9,3144
+1699,Premium,10,Spain,31,Female,Laptop,1 Month,202,9,2020
+1700,Basic,12,Italy,28,Female,Smart TV,1 Month,328,9,3936
+1701,Premium,15,Spain,32,Male,Smart TV,1 Month,301,9,4515
+1702,Basic,12,Spain,43,Male,Smartphone,1 Month,513,2,6156
+1703,Standard,13,United States,48,Male,Smart TV,1 Month,514,1,6682
+1704,Standard,10,Canada,28,Male,Laptop,1 Month,325,8,3250
+1705,Basic,14,United States,31,Female,Tablet,1 Month,324,8,4536
+1706,Premium,15,United States,47,Male,Laptop,1 Month,343,7,5145
+1707,Basic,13,Canada,39,Female,Smartphone,1 Month,314,7,4082
+1708,Standard,13,United Kingdom,35,Male,Smartphone,1 Month,347,7,4511
+1709,Premium,10,Australia,42,Female,Smartphone,1 Month,316,7,3160
+1710,Basic,11,Germany,30,Male,Smart TV,1 Month,355,7,3905
+1711,Premium,14,France,34,Male,Smartphone,1 Month,326,7,4564
+1712,Basic,11,Brazil,35,Male,Smartphone,1 Month,417,7,4587
+1713,Standard,12,Mexico,31,Female,Tablet,1 Month,326,7,3912
+1714,Standard,14,Spain,36,Female,Tablet,1 Month,356,7,4984
+1715,Basic,14,Italy,31,Female,Laptop,1 Month,182,12,2548
+1716,Premium,11,Spain,32,Male,Smart TV,1 Month,335,10,3685
+1717,Basic,10,Spain,46,Female,Smartphone,1 Month,334,8,3340
+1718,Standard,15,United States,30,Male,Tablet,1 Month,373,6,5595
+1719,Premium,12,Canada,46,Male,Laptop,1 Month,343,6,4116
+1720,Basic,12,United States,44,Female,Tablet,1 Month,405,6,4860
+1721,Basic,12,United States,34,Male,Tablet,1 Month,343,6,4116
+1722,Basic,13,Canada,31,Male,Tablet,1 Month,577,1,7501
+1723,Standard,13,United Kingdom,34,Male,Smart TV,1 Month,485,2,6305
+1724,Premium,12,Australia,28,Male,Laptop,1 Month,487,4,5844
+1725,Basic,10,Germany,36,Female,Smartphone,1 Month,334,8,3340
+1726,Basic,14,France,48,Female,Laptop,1 Month,414,7,5796
+1727,Premium,13,Brazil,40,Male,Smartphone,1 Month,319,7,4147
+1728,Standard,15,Mexico,35,Male,Smartphone,1 Month,346,7,5190
+1729,Standard,11,Spain,41,Male,Laptop,1 Month,342,7,3762
+1730,Basic,10,Italy,28,Female,Smartphone,1 Month,364,8,3640
+1731,Premium,12,Spain,37,Male,Tablet,1 Month,267,8,3204
+1732,Standard,12,Spain,33,Male,Smartphone,1 Month,327,8,3924
+1733,Basic,15,United States,27,Female,Tablet,1 Month,295,8,4425
+1734,Standard,14,Canada,35,Male,Tablet,1 Month,353,8,4942
+1735,Premium,10,United States,27,Male,Smartphone,1 Month,284,8,2840
+1736,Basic,15,United States,29,Female,Smartphone,1 Month,454,4,6810
+1737,Premium,12,Canada,28,Female,Laptop,1 Month,394,5,4728
+1738,Standard,12,United Kingdom,33,Female,Smartphone,1 Month,328,9,3936
+1739,Basic,10,Australia,35,Female,Smartphone,1 Month,233,9,2330
+1740,Standard,15,Germany,37,Female,Laptop,1 Month,262,9,3930
+1741,Premium,12,France,31,Male,Smartphone,1 Month,260,9,3120
+1742,Basic,13,Brazil,27,Male,Laptop,1 Month,281,9,3653
+1743,Standard,11,Mexico,48,Male,Tablet,1 Month,311,9,3421
+1744,Premium,15,Spain,30,Female,Smart TV,1 Month,545,4,8175
+1745,Basic,14,Italy,45,Male,Tablet,1 Month,331,8,4634
+1746,Premium,14,Spain,28,Male,Smart TV,1 Month,270,10,3780
+1747,Basic,12,Spain,30,Female,Laptop,1 Month,240,12,2880
+1748,Standard,15,United States,48,Male,Smartphone,1 Month,358,10,5370
+1749,Standard,10,Canada,37,Female,Laptop,1 Month,264,10,2640
+1750,Basic,15,United States,28,Female,Smartphone,1 Month,259,10,3885
+1751,Premium,14,United States,43,Female,Tablet,1 Month,257,10,3598
+1752,Basic,10,Canada,36,Male,Laptop,1 Month,317,10,3170
+1753,Standard,15,United Kingdom,47,Male,Laptop,1 Month,224,10,3360
+1754,Premium,10,Australia,42,Male,Smart TV,1 Month,251,10,2510
+1755,Basic,15,Germany,50,Male,Laptop,1 Month,249,10,3735
+1756,Premium,13,France,41,Male,Tablet,1 Month,542,2,7046
+1757,Basic,13,Brazil,43,Male,Laptop,1 Month,422,3,5486
+1758,Standard,13,Mexico,35,Male,Laptop,1 Month,422,5,5486
+1759,Standard,10,Spain,51,Male,Smart TV,1 Month,391,6,3910
+1760,Basic,15,Italy,35,Male,Tablet,1 Month,391,6,5865
+1761,Premium,10,Spain,37,Male,Smart TV,1 Month,300,7,3000
+1762,Basic,10,Spain,28,Female,Smartphone,1 Month,422,4,4220
+1763,Standard,14,United States,32,Female,Smartphone,1 Month,511,2,7154
+1764,Premium,13,Canada,37,Female,Tablet,1 Month,253,10,3289
+1765,Basic,11,United States,37,Female,Tablet,1 Month,201,10,2211
+1766,Premium,12,United States,34,Female,Smart TV,1 Month,393,7,4716
+1767,Basic,15,Canada,30,Female,Tablet,1 Month,453,4,6795
+1768,Standard,14,United Kingdom,35,Male,Tablet,1 Month,293,9,4102
+1769,Standard,14,Australia,41,Female,Laptop,1 Month,265,9,3710
+1770,Basic,13,Germany,50,Female,Tablet,1 Month,302,10,3926
+1771,Premium,11,France,48,Female,Laptop,1 Month,332,9,3652
+1772,Basic,12,Brazil,29,Male,Smart TV,1 Month,332,9,3984
+1773,Standard,12,Mexico,37,Male,Tablet,1 Month,333,7,3996
+1774,Premium,15,Spain,36,Female,Tablet,1 Month,363,8,5445
+1775,Basic,15,Italy,45,Male,Tablet,1 Month,327,8,4905
+1776,Premium,15,Spain,27,Female,Smart TV,1 Month,425,6,6375
+1777,Basic,12,Spain,31,Female,Tablet,1 Month,364,6,4368
+1778,Standard,11,United States,42,Female,Tablet,1 Month,405,7,4455
+1779,Standard,15,Canada,43,Female,Smartphone,1 Month,314,7,4710
+1780,Basic,13,United States,43,Male,Smart TV,1 Month,348,7,4524
+1781,Premium,15,United States,35,Female,Laptop,1 Month,320,7,4800
+1782,Basic,13,Canada,51,Male,Laptop,1 Month,445,7,5785
+1783,Standard,13,United Kingdom,42,Female,Smartphone,1 Month,355,7,4615
+1784,Premium,13,Australia,36,Male,Tablet,1 Month,356,7,4628
+1785,Basic,13,Germany,50,Female,Tablet,1 Month,359,7,4667
+1786,Premium,15,France,43,Female,Laptop,1 Month,420,7,6300
+1787,Basic,11,Brazil,28,Male,Laptop,1 Month,365,7,4015
+1788,Standard,10,Mexico,48,Female,Smart TV,1 Month,457,6,4570
+1789,Standard,14,Spain,47,Female,Tablet,1 Month,372,6,5208
+1790,Basic,12,Italy,31,Male,Smart TV,1 Month,434,6,5208
+1791,Premium,14,Spain,45,Male,Laptop,1 Month,516,1,7224
+1792,Basic,15,Spain,45,Female,Tablet,1 Month,577,2,8655
+1793,Standard,14,United States,42,Female,Smart TV,1 Month,457,3,6398
+1794,Premium,12,Canada,36,Female,Tablet,1 Month,426,6,5112
+1795,Basic,14,United States,32,Male,Smart TV,1 Month,365,7,5110
+1796,Basic,10,United States,50,Male,Tablet,1 Month,419,7,4190
+1797,Basic,14,Canada,39,Male,Smart TV,1 Month,325,7,4550
+1798,Standard,10,United Kingdom,51,Male,Smartphone,1 Month,377,7,3770
+1799,Premium,14,Australia,49,Female,Tablet,1 Month,425,5,5950
+1800,Basic,14,Germany,42,Male,Tablet,1 Month,273,12,3822
+1801,Basic,12,France,46,Male,Tablet,1 Month,297,8,3564
+1802,Premium,12,Brazil,30,Male,Smartphone,1 Month,326,8,3912
+1803,Standard,10,Mexico,48,Male,Smart TV,1 Month,323,8,3230
+1804,Standard,12,Spain,40,Female,Laptop,1 Month,382,8,4584
+1805,Basic,10,Italy,50,Female,Smart TV,1 Month,424,4,4240
+1806,Premium,15,Spain,49,Female,Laptop,1 Month,424,5,6360
+1807,Standard,11,Spain,37,Male,Smartphone,1 Month,332,8,3652
+1808,Basic,12,United States,43,Male,Laptop,1 Month,326,9,3912
+1809,Standard,15,Canada,40,Female,Tablet,1 Month,263,9,3945
+1810,Premium,14,United States,27,Male,Laptop,1 Month,353,9,4942
+1811,Basic,10,United States,47,Male,Smart TV,1 Month,257,9,2570
+1812,Premium,11,Canada,50,Male,Smartphone,1 Month,315,9,3465
+1813,Standard,12,United Kingdom,31,Female,Smartphone,1 Month,311,9,3732
+1814,Basic,10,Australia,33,Male,Smartphone,1 Month,454,7,4540
+1815,Standard,13,Germany,42,Female,Tablet,1 Month,300,9,3900
+1816,Premium,14,France,51,Female,Laptop,1 Month,209,12,2926
+1817,Basic,12,Brazil,43,Female,Smartphone,1 Month,298,10,3576
+1818,Standard,15,Mexico,45,Female,Smart TV,1 Month,358,10,5370
+1819,Premium,13,Spain,48,Female,Tablet,1 Month,261,10,3393
+1820,Basic,14,Italy,48,Female,Smart TV,1 Month,260,10,3640
+1821,Premium,12,Spain,30,Male,Smartphone,1 Month,289,10,3468
+1822,Basic,15,Spain,29,Female,Tablet,1 Month,318,10,4770
+1823,Standard,10,United States,28,Male,Tablet,1 Month,222,10,2220
+1824,Standard,12,Canada,46,Female,Laptop,1 Month,281,10,3372
+1825,Basic,13,United States,45,Male,Smart TV,1 Month,573,1,7449
+1826,Premium,12,United States,30,Male,Tablet,1 Month,514,3,6168
+1827,Basic,13,Canada,44,Female,Laptop,1 Month,422,4,5486
+1828,Standard,14,United Kingdom,46,Male,Laptop,1 Month,422,5,5908
+1829,Premium,13,Australia,36,Female,Tablet,1 Month,422,6,5486
+1830,Basic,12,Germany,27,Female,Smartphone,1 Month,392,7,4704
+1831,Premium,14,France,43,Male,Laptop,1 Month,361,5,5054
+1832,Basic,11,Brazil,48,Female,Smartphone,1 Month,484,5,5324
+1833,Standard,12,Mexico,36,Female,Smartphone,1 Month,422,6,5064
+1834,Standard,10,Spain,44,Male,Smart TV,1 Month,483,3,4830
+1835,Basic,11,Italy,41,Female,Tablet,1 Month,228,10,2508
+1836,Premium,12,Spain,29,Female,Smart TV,1 Month,320,10,3840
+1837,Basic,13,Spain,28,Female,Smartphone,1 Month,327,10,4251
+1838,Standard,11,United States,36,Female,Smartphone,1 Month,286,9,3146
+1839,Premium,15,Canada,36,Female,Smart TV,1 Month,265,9,3975
+1840,Basic,14,United States,40,Male,Laptop,1 Month,326,9,4564
+1841,Premium,11,United States,35,Female,Tablet,1 Month,241,12,2651
+1842,Basic,14,Canada,34,Female,Smartphone,1 Month,272,12,3808
+1843,Standard,10,United Kingdom,46,Male,Laptop,1 Month,240,11,2400
+1844,Standard,14,Australia,47,Female,Smart TV,1 Month,271,11,3794
+1845,Basic,12,Germany,32,Female,Smartphone,1 Month,325,8,3900
+1846,Premium,13,France,45,Male,Smartphone,1 Month,242,12,3146
+1847,Basic,10,Brazil,31,Female,Smartphone,1 Month,514,2,5140
+1848,Standard,11,Mexico,49,Male,Laptop,1 Month,637,1,7007
+1849,Premium,11,Spain,33,Female,Smartphone,1 Month,343,7,3773
+1850,Basic,12,Italy,30,Male,Smartphone,1 Month,375,7,4500
+1851,Premium,11,Spain,48,Female,Laptop,1 Month,378,7,4158
+1852,Basic,14,Spain,49,Female,Tablet,1 Month,444,7,6216
+1853,Standard,13,United States,43,Male,Laptop,1 Month,387,7,5031
+1854,Standard,14,Canada,46,Female,Laptop,1 Month,387,7,5418
+1855,Basic,12,United States,33,Male,Smartphone,1 Month,357,7,4284
+1856,Premium,15,United States,31,Female,Smartphone,1 Month,421,7,6315
+1857,Basic,13,Canada,44,Female,Smart TV,1 Month,395,6,5135
+1858,Standard,10,United Kingdom,34,Male,Smart TV,1 Month,549,3,5490
+1859,Premium,15,Australia,41,Male,Laptop,1 Month,456,4,6840
+1860,Basic,10,Germany,42,Male,Laptop,1 Month,549,3,5490
+1861,Premium,15,France,38,Female,Laptop,1 Month,487,3,7305
+1862,Basic,13,Brazil,31,Female,Tablet,1 Month,548,4,7124
+1863,Standard,11,Mexico,35,Female,Smartphone,1 Month,396,5,4356
+1864,Standard,15,Spain,32,Male,Smartphone,1 Month,396,7,5940
+1865,Basic,15,Italy,39,Male,Smartphone,1 Month,334,8,5010
+1866,Premium,12,Spain,42,Male,Laptop,1 Month,451,7,5412
+1867,Basic,11,Spain,31,Male,Tablet,1 Month,327,7,3597
+1868,Standard,14,United States,38,Male,Tablet,1 Month,576,1,8064
+1869,Premium,13,Canada,48,Male,Smart TV,1 Month,272,11,3536
+1870,Basic,14,United States,29,Male,Tablet,1 Month,390,8,5460
+1871,Basic,10,United States,43,Female,Smart TV,1 Month,296,8,2960
+1872,Basic,13,Canada,49,Female,Smartphone,1 Month,356,8,4628
+1873,Standard,14,United Kingdom,50,Male,Smartphone,1 Month,354,8,4956
+1874,Premium,14,Australia,50,Male,Smartphone,1 Month,378,8,5292
+1875,Basic,14,Germany,51,Male,Smart TV,1 Month,282,8,3948
+1876,Basic,11,France,29,Male,Tablet,1 Month,516,4,5676
+1877,Premium,11,Brazil,50,Female,Smartphone,1 Month,297,9,3267
+1878,Standard,12,Mexico,39,Female,Tablet,1 Month,327,9,3924
+1879,Standard,10,Spain,27,Female,Smart TV,1 Month,263,9,2630
+1880,Basic,15,Italy,29,Male,Smart TV,1 Month,384,9,5760
+1881,Premium,15,Spain,28,Male,Tablet,1 Month,287,9,4305
+1882,Standard,11,Spain,46,Male,Smartphone,1 Month,314,9,3454
+1883,Basic,14,United States,50,Female,Tablet,1 Month,484,4,6776
+1884,Standard,12,Canada,33,Female,Tablet,1 Month,423,9,5076
+1885,Premium,14,United States,32,Female,Tablet,1 Month,270,10,3780
+1886,Basic,12,United States,38,Male,Smart TV,1 Month,270,11,3240
+1887,Premium,13,Canada,49,Male,Smart TV,1 Month,329,10,4277
+1888,Standard,12,United Kingdom,50,Male,Laptop,1 Month,357,10,4284
+1889,Basic,13,Australia,37,Female,Laptop,1 Month,260,10,3380
+1890,Standard,15,Germany,33,Female,Laptop,1 Month,290,10,4350
+1891,Premium,11,France,33,Female,Tablet,1 Month,319,10,3509
+1892,Basic,15,Brazil,46,Male,Smartphone,1 Month,317,10,4755
+1893,Standard,10,Mexico,28,Male,Smartphone,1 Month,253,10,2530
+1894,Premium,11,Spain,33,Male,Tablet,1 Month,281,10,3091
+1895,Basic,15,Italy,45,Male,Laptop,1 Month,604,1,9060
+1896,Premium,14,Spain,43,Male,Laptop,1 Month,573,2,8022
+1897,Basic,11,Spain,49,Female,Smartphone,1 Month,422,4,4642
+1898,Standard,13,United States,41,Female,Tablet,1 Month,391,6,5083
+1899,Standard,14,Canada,39,Female,Smartphone,1 Month,423,7,5922
+1900,Basic,14,United States,45,Female,Smartphone,1 Month,422,6,5908
+1901,Premium,15,United States,38,Male,Tablet,1 Month,331,7,4965
+1902,Basic,15,Canada,30,Male,Smart TV,1 Month,453,7,6795
+1903,Standard,12,United Kingdom,27,Female,Smart TV,1 Month,514,3,6168
+1904,Premium,15,Australia,36,Female,Smartphone,1 Month,514,3,7710
+1905,Basic,15,Germany,36,Female,Tablet,1 Month,219,10,3285
+1906,Premium,11,France,28,Male,Tablet,1 Month,314,10,3454
+1907,Basic,10,Brazil,45,Female,Smartphone,1 Month,344,9,3440
+1908,Standard,15,Mexico,41,Male,Smartphone,1 Month,353,9,5295
+1909,Standard,12,Spain,29,Male,Smart TV,1 Month,325,9,3900
+1910,Basic,15,Italy,35,Male,Smartphone,1 Month,324,9,4860
+1911,Premium,12,Spain,36,Female,Smart TV,1 Month,324,9,3888
+1912,Basic,11,Spain,41,Male,Laptop,1 Month,357,9,3927
+1913,Standard,11,United States,46,Male,Tablet,1 Month,327,9,3597
+1914,Premium,11,Canada,46,Female,Tablet,1 Month,327,9,3597
+1915,Basic,10,United States,42,Male,Smartphone,1 Month,328,9,3280
+1916,Premium,13,United States,40,Male,Tablet,1 Month,359,8,4667
+1917,Basic,14,Canada,32,Female,Tablet,1 Month,242,12,3388
+1918,Standard,11,United Kingdom,34,Female,Smartphone,1 Month,456,7,5016
+1919,Standard,11,Australia,27,Female,Smart TV,1 Month,426,7,4686
+1920,Basic,11,Germany,38,Male,Laptop,1 Month,486,4,5346
+1921,Premium,14,France,34,Female,Laptop,1 Month,379,7,5306
+1922,Basic,13,Brazil,28,Male,Tablet,1 Month,446,7,5798
+1923,Standard,12,Mexico,48,Male,Smartphone,1 Month,386,7,4632
+1924,Premium,13,Spain,42,Female,Laptop,1 Month,417,7,5421
+1925,Basic,10,Italy,37,Female,Smart TV,1 Month,389,7,3890
+1926,Premium,11,Spain,28,Female,Tablet,1 Month,487,6,5357
+1927,Basic,13,Spain,43,Female,Smart TV,1 Month,396,7,5148
+1928,Standard,10,United States,44,Female,Smart TV,1 Month,488,7,4880
+1929,Standard,12,Canada,33,Female,Smartphone,1 Month,334,8,4008
+1930,Basic,13,United States,36,Male,Smart TV,1 Month,427,7,5551
+1931,Premium,14,United States,27,Male,Tablet,1 Month,334,8,4676
+1932,Basic,11,Canada,41,Male,Tablet,1 Month,426,9,4686
+1933,Standard,14,United Kingdom,32,Male,Smart TV,1 Month,303,9,4242
+1934,Premium,12,Australia,36,Female,Laptop,1 Month,334,9,4008
+1935,Basic,12,Germany,36,Female,Tablet,1 Month,212,12,2544
+1936,Premium,13,France,36,Male,Laptop,1 Month,449,7,5837
+1937,Basic,14,Brazil,32,Male,Smart TV,1 Month,356,7,4984
+1938,Standard,10,Mexico,45,Female,Smartphone,1 Month,385,7,3850
+1939,Standard,11,Spain,43,Female,Tablet,1 Month,390,8,4290
+1940,Basic,10,Italy,35,Male,Tablet,1 Month,419,8,4190
+1941,Premium,13,Spain,29,Female,Smart TV,1 Month,325,8,4225
+1942,Basic,14,Spain,33,Female,Smart TV,1 Month,355,8,4970
+1943,Standard,14,United States,49,Male,Smart TV,1 Month,347,8,4858
+1944,Premium,15,Canada,27,Male,Tablet,1 Month,375,8,5625
+1945,Basic,14,United States,39,Female,Smart TV,1 Month,312,8,4368
+1946,Basic,10,United States,34,Female,Smart TV,1 Month,332,11,3320
+1947,Basic,12,Canada,39,Male,Smartphone,1 Month,241,12,2892
+1948,Standard,11,United Kingdom,39,Female,Laptop,1 Month,356,9,3916
+1949,Premium,15,Australia,39,Female,Smart TV,1 Month,355,9,5325
+1950,Basic,10,Germany,40,Female,Laptop,1 Month,381,9,3810
+1951,Basic,15,France,40,Male,Tablet,1 Month,318,9,4770
+1952,Premium,14,Brazil,31,Male,Smartphone,1 Month,314,9,4396
+1953,Standard,12,Mexico,47,Male,Smartphone,1 Month,362,9,4344
+1954,Standard,11,Spain,43,Male,Laptop,1 Month,393,10,4323
+1955,Basic,13,Italy,34,Male,Smartphone,1 Month,270,11,3510
+1956,Premium,12,Spain,30,Female,Tablet,1 Month,240,12,2880
+1957,Standard,15,Spain,33,Female,Smartphone,1 Month,329,10,4935
+1958,Basic,12,United States,29,Male,Tablet,1 Month,353,10,4236
+1959,Standard,14,Canada,35,Female,Smartphone,1 Month,259,10,3626
+1960,Premium,13,United States,41,Female,Laptop,1 Month,288,10,3744
+1961,Basic,14,United States,34,Female,Smartphone,1 Month,348,10,4872
+1962,Premium,12,Canada,28,Female,Tablet,1 Month,316,10,3792
+1963,Standard,15,United Kingdom,31,Male,Smart TV,1 Month,253,10,3795
+1964,Basic,15,Australia,29,Male,Smart TV,1 Month,573,1,8595
+1965,Standard,12,Germany,44,Female,Tablet,1 Month,573,2,6876
+1966,Premium,10,France,44,Female,Tablet,1 Month,514,4,5140
+1967,Basic,13,Brazil,29,Male,Laptop,1 Month,392,5,5096
+1968,Standard,12,Mexico,32,Female,Tablet,1 Month,453,6,5436
+1969,Premium,11,Spain,31,Male,Smartphone,1 Month,423,7,4653
+1970,Basic,14,Italy,27,Male,Laptop,1 Month,361,8,5054
+1971,Premium,13,Spain,43,Female,Laptop,1 Month,300,8,3900
+1972,Basic,14,Spain,48,Male,Tablet,1 Month,391,9,5474
+1973,Standard,15,United States,37,Female,Tablet,1 Month,361,9,5415
+1974,Standard,11,Canada,42,Male,Smartphone,1 Month,453,5,4983
+1975,Basic,11,United States,40,Male,Tablet,1 Month,452,4,4972
+1976,Premium,13,United States,37,Female,Tablet,1 Month,323,10,4199
+1977,Basic,12,Canada,31,Male,Smartphone,1 Month,271,12,3252
+1978,Standard,11,United Kingdom,30,Male,Smart TV,1 Month,546,3,6006
+1979,Premium,15,Australia,51,Female,Smartphone,1 Month,313,9,4695
+1980,Basic,15,Germany,42,Female,Laptop,1 Month,355,9,5325
+1981,Premium,13,France,37,Female,Smartphone,1 Month,325,9,4225
+1982,Basic,14,Brazil,44,Female,Smartphone,1 Month,357,9,4998
+1983,Standard,11,Mexico,37,Male,Tablet,1 Month,327,9,3597
+1984,Standard,11,Spain,44,Male,Smartphone,1 Month,357,9,3927
+1985,Basic,11,Italy,40,Male,Tablet,1 Month,455,6,5005
+1986,Premium,15,Spain,27,Male,Smart TV,1 Month,375,8,5625
+1987,Basic,12,Spain,31,Male,Smart TV,1 Month,395,7,4740
+1988,Standard,15,United States,39,Female,Smartphone,1 Month,456,7,6840
+1989,Premium,12,Canada,47,Female,Tablet,1 Month,456,6,5472
+1990,Basic,15,United States,30,Male,Smart TV,1 Month,404,7,6060
+1991,Premium,12,United States,35,Male,Laptop,1 Month,373,7,4476
+1992,Basic,14,Canada,39,Male,Smartphone,1 Month,434,7,6076
+1993,Standard,15,United Kingdom,29,Female,Tablet,1 Month,384,7,5760
+1994,Standard,11,Australia,28,Male,Laptop,1 Month,447,7,4917
+1995,Basic,11,Germany,39,Male,Tablet,1 Month,243,12,2673
+1996,Premium,10,France,34,Male,Smart TV,1 Month,334,11,3340
+1997,Basic,14,Brazil,47,Male,Smart TV,1 Month,304,10,4256
+1998,Standard,14,Mexico,47,Female,Smart TV,1 Month,396,10,5544
+1999,Premium,13,Spain,46,Male,Smart TV,1 Month,365,8,4745
+2000,Basic,12,Italy,31,Male,Smart TV,1 Month,365,9,4380
+2001,Premium,10,Spain,41,Female,Smart TV,1 Month,334,9,3340
+2002,Basic,10,Spain,30,Female,Smartphone,1 Month,426,9,4260
+2003,Standard,11,United States,41,Male,Tablet,1 Month,304,10,3344
+2004,Standard,12,Canada,48,Female,Laptop,1 Month,243,12,2916
+2005,Basic,10,United States,35,Female,Laptop,1 Month,421,7,4210
+2006,Premium,13,United States,41,Female,Laptop,1 Month,448,7,5824
+2007,Basic,10,Canada,39,Female,Smart TV,1 Month,355,7,3550
+2008,Standard,10,United Kingdom,45,Male,Laptop,1 Month,408,7,4080
+2009,Premium,10,Australia,41,Male,Laptop,1 Month,403,7,4030
+2010,Basic,13,Germany,28,Male,Laptop,1 Month,578,3,7514
+2011,Premium,10,France,28,Female,Tablet,1 Month,326,8,3260
+2012,Basic,15,Brazil,48,Male,Smart TV,1 Month,415,8,6225
+2013,Standard,10,Mexico,40,Female,Smart TV,1 Month,345,8,3450
+2014,Standard,12,Spain,39,Male,Smart TV,1 Month,404,8,4848
+2015,Basic,12,Italy,27,Male,Smartphone,1 Month,424,5,5088
+2016,Premium,10,Spain,32,Female,Smart TV,1 Month,516,6,5160
+2017,Basic,10,Spain,38,Male,Laptop,1 Month,327,9,3270
+2018,Standard,10,United States,41,Female,Laptop,1 Month,356,9,3560
+2019,Premium,10,Canada,32,Female,Laptop,1 Month,384,9,3840
+2020,Basic,12,United States,37,Male,Tablet,1 Month,410,9,4920
+2021,Basic,12,United States,50,Female,Laptop,1 Month,316,9,3792
+2022,Basic,10,Canada,48,Female,Laptop,1 Month,454,6,4540
+2023,Standard,11,United Kingdom,37,Male,Tablet,1 Month,392,9,4312
+2024,Premium,13,Australia,46,Female,Laptop,1 Month,362,11,4706
+2025,Basic,13,Germany,46,Male,Laptop,1 Month,240,12,3120
+2026,Basic,15,France,39,Male,Smart TV,1 Month,329,10,4935
+2027,Premium,13,Brazil,42,Female,Smart TV,1 Month,355,10,4615
+2028,Standard,11,Mexico,41,Female,Smartphone,1 Month,353,10,3883
+2029,Standard,10,Spain,28,Male,Smart TV,1 Month,259,10,2590
+2030,Basic,14,Italy,43,Male,Tablet,1 Month,319,10,4466
+2031,Premium,14,Spain,45,Female,Smart TV,1 Month,347,10,4858
+2032,Standard,10,Spain,45,Male,Smart TV,1 Month,315,10,3150
+2033,Basic,13,United States,48,Male,Smartphone,1 Month,249,10,3237
+2034,Standard,12,Canada,30,Male,Laptop,1 Month,573,2,6876
+2035,Premium,11,United States,51,Female,Smart TV,1 Month,544,4,5984
+2036,Basic,12,United States,48,Female,Smartphone,1 Month,484,5,5808
+2037,Premium,13,Canada,41,Female,Smart TV,1 Month,391,6,5083
+2038,Standard,11,United Kingdom,37,Female,Smartphone,1 Month,453,7,4983
+2039,Basic,11,Australia,43,Male,Laptop,1 Month,392,8,4312
+2040,Standard,15,Germany,51,Male,Laptop,1 Month,361,8,5415
+2041,Premium,10,France,34,Female,Smartphone,1 Month,299,9,2990
+2042,Basic,10,Brazil,35,Female,Smartphone,1 Month,391,9,3910
+2043,Standard,12,Mexico,45,Female,Smart TV,1 Month,484,5,5808
+2044,Premium,12,Spain,31,Male,Smart TV,1 Month,514,5,6168
+2045,Basic,15,Italy,50,Female,Laptop,1 Month,542,2,8130
+2046,Premium,12,Spain,41,Male,Smartphone,1 Month,312,10,3744
+2047,Basic,11,Spain,42,Female,Laptop,1 Month,312,10,3432
+2048,Standard,11,United States,41,Male,Tablet,1 Month,318,10,3498
+2049,Standard,14,Canada,34,Male,Tablet,1 Month,362,8,5068
+2050,Basic,13,United States,35,Female,Smartphone,1 Month,515,4,6695
+2051,Premium,10,United States,48,Male,Smartphone,1 Month,344,9,3440
+2052,Basic,11,Canada,39,Female,Smart TV,1 Month,350,9,3850
+2053,Standard,14,United Kingdom,37,Female,Laptop,1 Month,353,9,4942
+2054,Premium,10,Australia,31,Male,Tablet,1 Month,359,9,3590
+2055,Basic,14,Germany,29,Female,Laptop,1 Month,486,5,6804
+2056,Premium,10,France,36,Male,Tablet,1 Month,383,8,3830
+2057,Basic,10,Brazil,32,Male,Smartphone,1 Month,303,10,3030
+2058,Standard,10,Mexico,31,Female,Smartphone,1 Month,395,10,3950
+2059,Standard,14,Spain,31,Male,Laptop,1 Month,456,6,6384
+2060,Basic,12,Italy,29,Male,Smart TV,1 Month,578,3,6936
+2061,Premium,10,Spain,48,Male,Smart TV,1 Month,607,1,6070
+2062,Basic,14,Spain,46,Male,Tablet,1 Month,436,7,6104
+2063,Standard,15,United States,35,Female,Smartphone,1 Month,412,7,6180
+2064,Premium,11,Canada,37,Female,Tablet,1 Month,473,7,5203
+2065,Basic,12,United States,45,Female,Tablet,1 Month,414,7,4968
+2066,Premium,15,United States,48,Female,Laptop,1 Month,304,12,4560
+2067,Basic,10,Canada,44,Female,Laptop,1 Month,274,12,2740
+2068,Standard,14,United Kingdom,47,Female,Laptop,1 Month,396,10,5544
+2069,Standard,12,Australia,35,Male,Smart TV,1 Month,273,11,3276
+2070,Basic,10,Germany,35,Female,Smartphone,1 Month,304,11,3040
+2071,Premium,11,France,35,Male,Smartphone,1 Month,334,9,3674
+2072,Basic,15,Brazil,49,Female,Laptop,1 Month,396,10,5940
+2073,Standard,11,Mexico,50,Female,Tablet,1 Month,243,12,2673
+2074,Premium,14,Spain,44,Male,Smartphone,1 Month,421,7,5894
+2075,Basic,14,Italy,47,Female,Tablet,1 Month,419,7,5866
+2076,Premium,15,Spain,46,Female,Laptop,1 Month,479,7,7185
+2077,Basic,11,Spain,39,Female,Laptop,1 Month,384,7,4224
+2078,Standard,15,United States,34,Male,Laptop,1 Month,441,7,6615
+2079,Standard,10,Canada,31,Female,Smart TV,1 Month,406,7,4060
+2080,Basic,10,United States,46,Female,Laptop,1 Month,450,8,4500
+2081,Premium,15,United States,30,Male,Smart TV,1 Month,354,8,5310
+2082,Basic,12,Canada,29,Male,Tablet,1 Month,471,8,5652
+2083,Standard,12,United Kingdom,42,Male,Tablet,1 Month,376,8,4512
+2084,Premium,13,Australia,27,Female,Smartphone,1 Month,636,1,8268
+2085,Basic,15,Germany,33,Male,Laptop,1 Month,575,2,8625
+2086,Premium,13,France,45,Female,Smart TV,1 Month,607,4,7891
+2087,Basic,13,Brazil,50,Male,Tablet,1 Month,302,11,3926
+2088,Standard,10,Mexico,42,Female,Tablet,1 Month,356,9,3560
+2089,Standard,10,Spain,29,Male,Tablet,1 Month,414,9,4140
+2090,Basic,12,Italy,31,Female,Tablet,1 Month,443,9,5316
+2091,Premium,13,Spain,42,Female,Smartphone,1 Month,485,5,6305
+2092,Basic,10,Spain,44,Female,Laptop,1 Month,424,7,4240
+2093,Standard,10,United States,34,Male,Smart TV,1 Month,393,10,3930
+2094,Premium,13,Canada,40,Female,Smart TV,1 Month,332,12,4316
+2095,Basic,10,United States,38,Male,Smart TV,1 Month,298,10,2980
+2096,Basic,15,United States,42,Female,Tablet,1 Month,327,10,4905
+2097,Basic,10,Canada,47,Male,Tablet,1 Month,386,10,3860
+2098,Standard,15,United Kingdom,29,Female,Tablet,1 Month,354,10,5310
+2099,Premium,11,Australia,29,Male,Laptop,1 Month,291,10,3201
+2100,Basic,14,Germany,44,Female,Smart TV,1 Month,350,10,4900
+2101,Basic,12,France,31,Male,Tablet,1 Month,378,10,4536
+2102,Premium,14,Brazil,48,Female,Smartphone,1 Month,315,10,4410
+2103,Standard,14,Mexico,32,Female,Laptop,1 Month,542,1,7588
+2104,Standard,13,Spain,28,Female,Tablet,1 Month,634,2,8242
+2105,Basic,11,Italy,36,Female,Smartphone,1 Month,544,4,5984
+2106,Premium,10,Spain,28,Female,Smartphone,1 Month,453,6,4530
+2107,Standard,14,Spain,32,Female,Smart TV,1 Month,361,7,5054
+2108,Basic,15,United States,50,Female,Smartphone,1 Month,422,8,6330
+2109,Standard,12,Canada,44,Male,Tablet,1 Month,391,9,4692
+2110,Premium,14,United States,44,Female,Smartphone,1 Month,361,10,5054
+2111,Basic,14,United States,47,Male,Laptop,1 Month,361,9,5054
+2112,Premium,15,Canada,39,Female,Smart TV,1 Month,391,9,5865
+2113,Standard,11,United Kingdom,44,Female,Tablet,1 Month,453,7,4983
+2114,Basic,12,Australia,46,Female,Tablet,1 Month,575,3,6900
+2115,Standard,10,Germany,31,Female,Laptop,1 Month,483,4,4830
+2116,Premium,12,France,33,Female,Tablet,1 Month,634,1,7608
+2117,Basic,13,Brazil,27,Male,Laptop,1 Month,315,10,4095
+2118,Standard,10,Mexico,34,Male,Smart TV,1 Month,349,10,3490
+2119,Premium,14,Spain,48,Male,Laptop,1 Month,328,10,4592
+2120,Basic,14,Italy,39,Female,Smart TV,1 Month,374,9,5236
+2121,Premium,14,Spain,39,Male,Laptop,1 Month,347,9,4858
+2122,Basic,11,Spain,48,Female,Smart TV,1 Month,379,9,4169
+2123,Standard,12,United States,37,Female,Tablet,1 Month,349,9,4188
+2124,Standard,14,Canada,40,Male,Laptop,1 Month,419,9,5866
+2125,Basic,14,United States,41,Female,Smartphone,1 Month,486,5,6804
+2126,Premium,12,United States,35,Female,Smartphone,1 Month,390,8,4680
+2127,Basic,15,Canada,46,Male,Smartphone,1 Month,273,12,4095
+2128,Standard,10,United Kingdom,28,Female,Tablet,1 Month,395,10,3950
+2129,Premium,14,Australia,29,Female,Laptop,1 Month,487,5,6818
+2130,Basic,10,Germany,46,Female,Tablet,1 Month,608,4,6080
+2131,Premium,11,France,35,Male,Laptop,1 Month,406,7,4466
+2132,Basic,12,Brazil,27,Male,Smart TV,1 Month,471,7,5652
+2133,Standard,11,Mexico,38,Male,Laptop,1 Month,412,7,4532
+2134,Standard,13,Spain,43,Male,Smart TV,1 Month,503,7,6539
+2135,Basic,15,Italy,31,Female,Smartphone,1 Month,415,7,6225
+2136,Premium,13,Spain,29,Female,Tablet,1 Month,447,7,5811
+2137,Basic,10,Spain,34,Female,Tablet,1 Month,418,7,4180
+2138,Standard,11,United States,39,Male,Smartphone,1 Month,365,12,4015
+2139,Premium,14,Canada,34,Female,Smartphone,1 Month,243,12,3402
+2140,Basic,14,United States,51,Male,Tablet,1 Month,451,7,6314
+2141,Premium,14,United States,47,Female,Tablet,1 Month,421,7,5894
+2142,Basic,12,Canada,46,Male,Smartphone,1 Month,482,7,5784
+2143,Standard,12,United Kingdom,46,Female,Smartphone,1 Month,389,7,4668
+2144,Standard,14,Australia,47,Female,Smartphone,1 Month,449,7,6286
+2145,Basic,14,Germany,40,Female,Smart TV,1 Month,418,7,5852
+2146,Premium,12,France,41,Female,Tablet,1 Month,477,7,5724
+2147,Basic,12,Brazil,30,Female,Smartphone,1 Month,411,7,4932
+2148,Standard,12,Mexico,31,Female,Tablet,1 Month,470,7,5640
+2149,Premium,14,Spain,42,Male,Smart TV,1 Month,404,7,5656
+2150,Basic,12,Italy,46,Female,Tablet,1 Month,517,6,6204
+2151,Premium,13,Spain,34,Female,Smart TV,1 Month,358,8,4654
+2152,Basic,14,Spain,42,Male,Laptop,1 Month,471,8,6594
+2153,Standard,13,United States,45,Male,Tablet,1 Month,376,8,4888
+2154,Standard,12,Canada,30,Male,Smart TV,1 Month,404,8,4848
+2155,Basic,12,United States,44,Male,Smartphone,1 Month,606,1,7272
+2156,Premium,10,United States,37,Male,Smart TV,1 Month,369,7,3690
+2157,Basic,10,Canada,43,Male,Smart TV,1 Month,389,9,3890
+2158,Standard,12,United Kingdom,46,Male,Smartphone,1 Month,388,9,4656
+2159,Premium,11,Australia,40,Female,Tablet,1 Month,446,9,4906
+2160,Basic,11,Germany,45,Female,Smartphone,1 Month,440,9,4840
+2161,Premium,10,France,48,Female,Smartphone,1 Month,345,9,3450
+2162,Basic,10,Brazil,43,Female,Tablet,1 Month,576,3,5760
+2163,Standard,13,Mexico,48,Male,Smart TV,1 Month,393,10,5109
+2164,Standard,10,Spain,32,Female,Smartphone,1 Month,332,12,3320
+2165,Basic,12,Italy,38,Male,Laptop,1 Month,297,10,3564
+2166,Premium,13,Spain,50,Male,Smartphone,1 Month,356,10,4628
+2167,Basic,11,Spain,33,Female,Laptop,1 Month,385,10,4235
+2168,Standard,14,United States,27,Male,Smart TV,1 Month,352,10,4928
+2169,Premium,12,Canada,47,Male,Tablet,1 Month,289,10,3468
+2170,Basic,12,United States,35,Female,Smart TV,1 Month,347,10,4164
+2171,Basic,12,United States,41,Male,Tablet,1 Month,377,10,4524
+2172,Basic,14,Canada,39,Female,Smart TV,1 Month,343,10,4802
+2173,Standard,13,United Kingdom,46,Female,Smartphone,1 Month,249,10,3237
+2174,Premium,14,Australia,33,Female,Smartphone,1 Month,575,4,8050
+2175,Basic,11,Germany,30,Male,Laptop,1 Month,483,6,5313
+2176,Basic,13,France,46,Male,Tablet,1 Month,453,7,5889
+2177,Premium,15,Brazil,42,Female,Tablet,1 Month,392,8,5880
+2178,Standard,11,Mexico,28,Female,Tablet,1 Month,422,9,4642
+2179,Standard,10,Spain,40,Male,Smart TV,1 Month,361,10,3610
+2180,Basic,14,Italy,31,Female,Smart TV,1 Month,361,10,5054
+2181,Premium,13,Spain,27,Male,Laptop,1 Month,331,10,4303
+2182,Standard,14,Spain,45,Female,Tablet,1 Month,391,9,5474
+2183,Basic,10,United States,49,Female,Smart TV,1 Month,391,9,3910
+2184,Standard,12,Canada,28,Male,Tablet,1 Month,514,6,6168
+2185,Premium,14,United States,33,Male,Smart TV,1 Month,514,3,7196
+2186,Basic,15,United States,38,Male,Smart TV,1 Month,376,10,5640
+2187,Premium,15,Canada,44,Male,Tablet,1 Month,344,10,5160
+2188,Standard,15,United Kingdom,34,Female,Laptop,1 Month,354,10,5310
+2189,Basic,15,Australia,35,Male,Laptop,1 Month,515,4,7725
+2190,Standard,10,Germany,47,Male,Tablet,1 Month,373,9,3730
+2191,Premium,12,France,30,Male,Smartphone,1 Month,373,9,4476
+2192,Basic,12,Brazil,50,Female,Smart TV,1 Month,379,9,4548
+2193,Standard,12,Mexico,32,Male,Laptop,1 Month,355,9,4260
+2194,Premium,14,Spain,36,Female,Smart TV,1 Month,363,12,5082
+2195,Basic,14,Italy,40,Female,Smart TV,1 Month,417,8,5838
+2196,Premium,15,Spain,39,Male,Smartphone,1 Month,387,8,5805
+2197,Basic,11,Spain,28,Male,Smartphone,1 Month,420,8,4620
+2198,Standard,12,United States,29,Female,Smart TV,1 Month,334,12,4008
+2199,Standard,14,Canada,49,Male,Tablet,1 Month,390,8,5460
+2200,Basic,14,United States,40,Male,Laptop,1 Month,495,7,6930
+2201,Premium,12,United States,29,Male,Laptop,1 Month,439,7,5268
+2202,Basic,14,Canada,35,Female,Tablet,1 Month,470,7,6580
+2203,Standard,14,United Kingdom,44,Male,Smartphone,1 Month,438,7,6132
+2204,Premium,11,Australia,39,Male,Smart TV,1 Month,353,7,3883
+2205,Basic,12,Germany,27,Male,Smart TV,1 Month,411,7,4932
+2206,Premium,11,France,31,Male,Smart TV,1 Month,477,7,5247
+2207,Basic,13,Brazil,39,Female,Laptop,1 Month,451,7,5863
+2208,Standard,13,Mexico,44,Male,Laptop,1 Month,512,7,6656
+2209,Standard,10,Spain,48,Female,Tablet,1 Month,421,7,4210
+2210,Basic,11,Italy,27,Male,Smartphone,1 Month,482,7,5302
+2211,Premium,13,Spain,27,Male,Laptop,1 Month,421,7,5473
+2212,Basic,14,Spain,41,Male,Smart TV,1 Month,481,7,6734
+2213,Standard,15,United States,44,Female,Tablet,1 Month,419,7,6285
+2214,Premium,12,Canada,29,Female,Tablet,1 Month,509,7,6108
+2215,Basic,13,United States,42,Female,Smartphone,1 Month,416,7,5408
+2216,Premium,15,United States,45,Female,Smart TV,1 Month,474,7,7110
+2217,Basic,11,Canada,39,Female,Tablet,1 Month,410,7,4510
+2218,Standard,15,United Kingdom,41,Female,Tablet,1 Month,496,7,7440
+2219,Standard,10,Australia,41,Female,Laptop,1 Month,486,6,4860
+2220,Basic,15,Germany,41,Male,Smartphone,1 Month,364,11,5460
+2221,Premium,14,France,47,Female,Smart TV,1 Month,387,8,5418
+2222,Basic,10,Brazil,49,Female,Smartphone,1 Month,326,8,3260
+2223,Standard,12,Mexico,29,Male,Laptop,1 Month,411,8,4932
+2224,Premium,10,Spain,33,Male,Tablet,1 Month,409,8,4090
+2225,Basic,13,Italy,45,Female,Smart TV,1 Month,666,2,8658
+2226,Premium,13,Spain,41,Female,Laptop,1 Month,399,6,5187
+2227,Basic,11,Spain,31,Male,Laptop,1 Month,332,11,3652
+2228,Standard,15,United States,51,Male,Tablet,1 Month,386,9,5790
+2229,Standard,11,Canada,43,Female,Smartphone,1 Month,441,9,4851
+2230,Basic,12,United States,33,Female,Laptop,1 Month,437,9,5244
+2231,Premium,10,United States,47,Female,Smartphone,1 Month,574,2,5740
+2232,Basic,13,Canada,40,Female,Laptop,1 Month,545,4,7085
+2233,Standard,14,United Kingdom,34,Female,Smartphone,1 Month,453,9,6342
+2234,Premium,15,Australia,40,Male,Tablet,1 Month,362,11,5430
+2235,Basic,15,Germany,38,Male,Laptop,1 Month,327,10,4905
+2236,Premium,11,France,47,Male,Smart TV,1 Month,356,10,3916
+2237,Basic,13,Brazil,29,Male,Smart TV,1 Month,385,10,5005
+2238,Standard,14,Mexico,49,Female,Smartphone,1 Month,351,10,4914
+2239,Standard,12,Spain,40,Male,Smart TV,1 Month,289,10,3468
+2240,Basic,12,Italy,51,Female,Laptop,1 Month,378,10,4536
+2241,Premium,11,Spain,51,Female,Tablet,1 Month,374,10,4114
+2242,Basic,12,Spain,50,Female,Smart TV,1 Month,342,10,4104
+2243,Standard,10,United States,47,Female,Laptop,1 Month,514,4,5140
+2244,Premium,10,Canada,40,Male,Smart TV,1 Month,575,5,5750
+2245,Basic,15,United States,35,Female,Smart TV,1 Month,453,7,6795
+2246,Basic,15,United States,37,Female,Smart TV,1 Month,422,8,6330
+2247,Basic,15,Canada,30,Male,Tablet,1 Month,391,9,5865
+2248,Standard,15,United Kingdom,47,Female,Tablet,1 Month,392,10,5880
+2249,Premium,12,Australia,35,Male,Smartphone,1 Month,330,11,3960
+2250,Basic,14,Germany,33,Male,Tablet,1 Month,392,10,5488
+2251,Basic,13,France,51,Female,Laptop,1 Month,331,10,4303
+2252,Premium,12,Brazil,31,Female,Tablet,1 Month,361,11,4332
+2253,Standard,10,Mexico,48,Female,Laptop,1 Month,484,7,4840
+2254,Standard,11,Spain,40,Male,Laptop,1 Month,575,4,6325
+2255,Basic,15,Italy,41,Female,Laptop,1 Month,311,10,4665
+2256,Premium,15,Spain,41,Male,Laptop,1 Month,374,10,5610
+2257,Standard,12,Spain,28,Female,Laptop,1 Month,352,10,4224
+2258,Basic,13,United States,45,Female,Laptop,1 Month,389,10,5057
+2259,Standard,11,Canada,32,Female,Laptop,1 Month,301,12,3311
+2260,Premium,10,United States,31,Male,Tablet,1 Month,666,1,6660
+2261,Basic,10,United States,40,Female,Tablet,1 Month,377,9,3770
+2262,Premium,10,Canada,40,Female,Smartphone,1 Month,379,9,3790
+2263,Standard,14,United Kingdom,50,Male,Tablet,1 Month,353,9,4942
+2264,Basic,12,Australia,41,Male,Smartphone,1 Month,666,2,7992
+2265,Standard,10,Germany,43,Male,Tablet,1 Month,403,8,4030
+2266,Premium,15,France,43,Male,Tablet,1 Month,387,8,5805
+2267,Basic,11,Brazil,36,Female,Smartphone,1 Month,418,8,4598
+2268,Standard,15,Mexico,48,Male,Smart TV,1 Month,448,8,6720
+2269,Premium,15,Spain,33,Female,Smartphone,1 Month,637,1,9555
+2270,Basic,14,Italy,30,Female,Smart TV,1 Month,352,7,4928
+2271,Premium,14,Spain,37,Female,Laptop,1 Month,438,7,6132
+2272,Basic,13,Spain,49,Male,Smart TV,1 Month,469,7,6097
+2273,Standard,15,United States,47,Female,Smartphone,1 Month,468,7,7020
+2274,Standard,10,Canada,45,Female,Tablet,1 Month,352,7,3520
+2275,Basic,11,United States,50,Male,Smart TV,1 Month,411,7,4521
+2276,Premium,12,United States,36,Male,Smartphone,1 Month,475,7,5700
+2277,Basic,14,Canada,37,Male,Smart TV,1 Month,450,7,6300
+2278,Standard,15,United Kingdom,38,Female,Tablet,1 Month,511,7,7665
+2279,Premium,10,Australia,40,Male,Smart TV,1 Month,450,7,4500
+2280,Basic,13,Germany,38,Female,Smart TV,1 Month,512,7,6656
+2281,Premium,14,France,46,Female,Tablet,1 Month,450,7,6300
+2282,Basic,10,Brazil,40,Female,Smartphone,1 Month,480,7,4800
+2283,Standard,13,Mexico,34,Male,Smart TV,1 Month,448,7,5824
+2284,Standard,12,Spain,39,Female,Smartphone,1 Month,507,7,6084
+2285,Basic,13,Italy,47,Male,Smartphone,1 Month,445,7,5785
+2286,Premium,15,Spain,41,Male,Laptop,1 Month,503,7,7545
+2287,Basic,12,Spain,47,Female,Tablet,1 Month,407,7,4884
+2288,Standard,13,United States,50,Male,Smartphone,1 Month,520,2,6760
+2289,Premium,10,Canada,31,Male,Tablet,1 Month,364,10,3640
+2290,Basic,13,United States,41,Male,Smartphone,1 Month,449,8,5837
+2291,Premium,11,United States,31,Female,Laptop,1 Month,446,8,4906
+2292,Basic,12,Canada,41,Female,Smart TV,1 Month,328,8,3936
+2293,Standard,12,United Kingdom,28,Male,Tablet,1 Month,441,8,5292
+2294,Standard,14,Australia,40,Female,Smartphone,1 Month,409,8,5726
+2295,Basic,11,Germany,34,Female,Smart TV,1 Month,317,8,3487
+2296,Premium,10,France,37,Male,Smartphone,1 Month,399,6,3990
+2297,Basic,13,Brazil,30,Female,Laptop,1 Month,389,9,5057
+2298,Standard,12,Mexico,32,Male,Tablet,1 Month,384,9,4608
+2299,Premium,14,Spain,41,Male,Smartphone,1 Month,441,9,6174
+2300,Basic,13,Italy,42,Female,Tablet,1 Month,435,9,5655
+2301,Premium,13,Spain,40,Male,Laptop,1 Month,546,3,7098
+2302,Basic,11,Spain,30,Female,Smartphone,1 Month,515,5,5665
+2303,Standard,14,United States,43,Male,Laptop,1 Month,453,9,6342
+2304,Standard,14,Canada,31,Female,Tablet,1 Month,388,10,5432
+2305,Basic,15,United States,45,Male,Smartphone,1 Month,326,10,4890
+2306,Premium,10,United States,33,Male,Smart TV,1 Month,385,10,3850
+2307,Basic,14,Canada,41,Male,Smartphone,1 Month,414,10,5796
+2308,Standard,11,United Kingdom,37,Male,Smart TV,1 Month,381,10,4191
+2309,Premium,12,Australia,40,Female,Smartphone,1 Month,319,10,3828
+2310,Basic,10,Germany,36,Male,Tablet,1 Month,404,10,4040
+2311,Premium,14,France,28,Male,Smart TV,1 Month,373,10,5222
+2312,Basic,12,Brazil,38,Male,Smartphone,1 Month,606,3,7272
+2313,Standard,11,Mexico,36,Female,Tablet,1 Month,514,4,5654
+2314,Standard,12,Spain,47,Female,Smart TV,1 Month,575,5,6900
+2315,Basic,12,Italy,35,Female,Laptop,1 Month,453,7,5436
+2316,Premium,14,Spain,29,Female,Tablet,1 Month,422,9,5908
+2317,Basic,14,Spain,49,Female,Smart TV,1 Month,361,10,5054
+2318,Standard,11,United States,34,Male,Smart TV,1 Month,391,11,4301
+2319,Premium,13,Canada,37,Male,Smart TV,1 Month,361,11,4693
+2320,Basic,14,United States,50,Male,Smart TV,1 Month,392,10,5488
+2321,Basic,12,United States,38,Male,Smart TV,1 Month,300,11,3600
+2322,Basic,15,Canada,37,Female,Smart TV,1 Month,331,12,4965
+2323,Standard,12,United Kingdom,34,Male,Laptop,1 Month,484,7,5808
+2324,Premium,13,Australia,30,Male,Smart TV,1 Month,575,4,7475
+2325,Basic,13,Germany,35,Male,Laptop,1 Month,606,3,7878
+2326,Basic,12,France,39,Male,Tablet,1 Month,665,1,7980
+2327,Premium,10,Brazil,47,Female,Tablet,1 Month,374,10,3740
+2328,Standard,13,Mexico,40,Female,Laptop,1 Month,377,10,4901
+2329,Standard,12,Spain,33,Male,Smart TV,1 Month,347,10,4164
+2330,Basic,12,Italy,32,Female,Smartphone,1 Month,264,10,3168
+2331,Premium,13,Spain,32,Male,Smart TV,1 Month,356,10,4628
+2332,Standard,10,Spain,30,Female,Smart TV,1 Month,357,10,3570
+2333,Basic,12,United States,49,Male,Tablet,1 Month,414,9,4968
+2334,Standard,13,Canada,39,Female,Smartphone,1 Month,447,9,5811
+2335,Premium,15,United States,45,Male,Laptop,1 Month,424,8,6360
+2336,Basic,14,United States,43,Male,Smartphone,1 Month,473,8,6622
+2337,Premium,10,Canada,41,Male,Smartphone,1 Month,413,8,4130
+2338,Standard,10,United Kingdom,38,Female,Tablet,1 Month,395,10,3950
+2339,Basic,13,Australia,34,Female,Smartphone,1 Month,464,7,6032
+2340,Standard,15,Germany,38,Male,Laptop,1 Month,349,7,5235
+2341,Premium,11,France,48,Male,Tablet,1 Month,433,7,4763
+2342,Basic,11,Brazil,38,Female,Smart TV,1 Month,495,7,5445
+2343,Standard,10,Mexico,34,Female,Laptop,1 Month,465,7,4650
+2344,Premium,10,Spain,44,Female,Tablet,1 Month,351,7,3510
+2345,Basic,11,Italy,39,Male,Smartphone,1 Month,443,7,4873
+2346,Premium,10,Spain,43,Female,Smartphone,1 Month,505,7,5050
+2347,Basic,13,Spain,49,Female,Smart TV,1 Month,448,7,5824
+2348,Standard,10,United States,48,Female,Smart TV,1 Month,509,7,5090
+2349,Standard,11,Canada,47,Female,Tablet,1 Month,481,7,5291
+2350,Basic,12,United States,27,Female,Laptop,1 Month,364,7,4368
+2351,Premium,14,United States,40,Female,Smartphone,1 Month,449,7,6286
+2352,Basic,11,Canada,43,Female,Smart TV,1 Month,509,7,5599
+2353,Standard,15,United Kingdom,30,Female,Laptop,1 Month,446,7,6690
+2354,Premium,13,Australia,43,Female,Smart TV,1 Month,359,7,4667
+2355,Basic,13,Germany,49,Male,Laptop,1 Month,442,7,5746
+2356,Premium,13,France,47,Male,Smartphone,1 Month,500,7,6500
+2357,Basic,13,Brazil,33,Male,Smartphone,1 Month,469,7,6097
+2358,Standard,15,Mexico,48,Female,Smartphone,1 Month,462,4,6930
+2359,Standard,13,Spain,31,Male,Laptop,1 Month,334,12,4342
+2360,Basic,13,Italy,30,Male,Tablet,1 Month,450,8,5850
+2361,Premium,14,Spain,34,Female,Smartphone,1 Month,331,8,4634
+2362,Basic,12,Spain,37,Male,Smartphone,1 Month,331,8,3972
+2363,Standard,11,United States,44,Female,Smart TV,1 Month,442,8,4862
+2364,Premium,13,Canada,28,Female,Smart TV,1 Month,438,8,5694
+2365,Basic,11,United States,47,Male,Smartphone,1 Month,399,6,4389
+2366,Premium,11,United States,43,Male,Smart TV,1 Month,307,9,3377
+2367,Basic,12,Canada,51,Male,Tablet,1 Month,385,9,4620
+2368,Standard,14,United Kingdom,50,Male,Laptop,1 Month,414,9,5796
+2369,Standard,11,Australia,40,Female,Smartphone,1 Month,292,9,3212
+2370,Basic,11,Germany,31,Female,Laptop,1 Month,434,9,4774
+2371,Premium,15,France,29,Female,Smartphone,1 Month,576,3,8640
+2372,Basic,15,Brazil,38,Female,Tablet,1 Month,454,7,6810
+2373,Standard,14,Mexico,47,Male,Tablet,1 Month,272,10,3808
+2374,Premium,15,Spain,30,Male,Tablet,1 Month,417,10,6255
+2375,Basic,13,Italy,42,Male,Laptop,1 Month,354,10,4602
+2376,Premium,12,Spain,49,Male,Smart TV,1 Month,414,10,4968
+2377,Basic,14,Spain,50,Female,Tablet,1 Month,413,10,5782
+2378,Standard,11,United States,51,Male,Smart TV,1 Month,381,10,4191
+2379,Standard,11,Canada,47,Male,Smartphone,1 Month,317,10,3487
+2380,Basic,13,United States,36,Female,Smartphone,1 Month,406,10,5278
+2381,Premium,12,United States,30,Female,Laptop,1 Month,373,10,4476
+2382,Basic,12,Canada,34,Female,Tablet,1 Month,665,1,7980
+2383,Standard,10,United Kingdom,35,Female,Tablet,1 Month,514,5,5140
+2384,Premium,14,Australia,30,Male,Smart TV,1 Month,514,7,7196
+2385,Basic,14,Germany,30,Male,Tablet,1 Month,453,8,6342
+2386,Premium,11,France,41,Female,Smartphone,1 Month,422,10,4642
+2387,Basic,15,Brazil,39,Female,Smartphone,1 Month,330,11,4950
+2388,Standard,14,Mexico,30,Male,Tablet,1 Month,361,12,5054
+2389,Standard,12,Spain,36,Female,Smart TV,1 Month,391,11,4692
+2390,Basic,11,Italy,33,Female,Smartphone,1 Month,391,11,4301
+2391,Premium,11,Spain,35,Female,Tablet,1 Month,300,12,3300
+2392,Basic,14,Spain,46,Male,Tablet,1 Month,391,11,5474
+2393,Standard,12,United States,51,Female,Tablet,1 Month,484,7,5808
+2394,Premium,13,Canada,42,Female,Smartphone,1 Month,575,5,7475
+2395,Basic,13,United States,30,Female,Smart TV,1 Month,634,2,8242
+2396,Basic,10,United States,45,Male,Smartphone,1 Month,255,10,2550
+2397,Basic,15,Canada,27,Male,Smartphone,1 Month,374,10,5610
+2398,Standard,10,United Kingdom,41,Male,Smart TV,1 Month,378,10,3780
+2399,Premium,14,Australia,35,Male,Tablet,1 Month,349,10,4886
+2400,Basic,10,Germany,30,Male,Laptop,1 Month,269,10,2690
+2401,Basic,11,France,35,Female,Laptop,1 Month,387,10,4257
+2402,Premium,12,Brazil,47,Female,Smartphone,1 Month,546,5,6552
+2403,Standard,15,Mexico,41,Male,Laptop,1 Month,416,9,6240
+2404,Standard,12,Spain,48,Female,Tablet,1 Month,446,9,5352
+2405,Basic,12,Italy,32,Female,Smart TV,1 Month,516,6,6192
+2406,Premium,13,Spain,35,Female,Smart TV,1 Month,319,8,4147
+2407,Standard,11,Spain,31,Female,Smartphone,1 Month,435,8,4785
+2408,Basic,12,United States,45,Female,Smartphone,1 Month,322,8,3864
+2409,Standard,14,Canada,38,Female,Laptop,1 Month,609,3,8526
+2410,Premium,12,United States,34,Male,Smartphone,1 Month,521,2,6252
+2411,Basic,15,United States,37,Female,Smartphone,1 Month,637,2,9555
+2412,Premium,12,Canada,27,Female,Smart TV,1 Month,551,1,6612
+2413,Standard,13,United Kingdom,44,Female,Tablet,1 Month,464,7,6032
+2414,Basic,10,Australia,46,Male,Smart TV,1 Month,356,7,3560
+2415,Standard,14,Germany,37,Male,Smart TV,1 Month,473,7,6622
+2416,Premium,14,France,44,Male,Tablet,1 Month,359,7,5026
+2417,Basic,15,Brazil,29,Male,Smart TV,1 Month,478,7,7170
+2418,Standard,13,Mexico,28,Female,Laptop,1 Month,362,7,4706
+2419,Premium,14,Spain,50,Male,Smart TV,1 Month,479,7,6706
+2420,Basic,13,Italy,39,Male,Laptop,1 Month,362,7,4706
+2421,Premium,10,Spain,34,Female,Smart TV,1 Month,479,7,4790
+2422,Basic,14,Spain,40,Male,Smart TV,1 Month,508,7,7112
+2423,Standard,12,United States,30,Male,Laptop,1 Month,476,7,5712
+2424,Standard,14,Canada,41,Female,Laptop,1 Month,359,7,5026
+2425,Basic,12,United States,39,Male,Tablet,1 Month,443,7,5316
+2426,Premium,15,United States,51,Male,Smartphone,1 Month,502,7,7530
+2427,Basic,15,Canada,28,Female,Smartphone,1 Month,493,3,7395
+2428,Standard,12,United Kingdom,30,Female,Tablet,1 Month,402,6,4824
+2429,Premium,11,Australia,30,Female,Smartphone,1 Month,425,10,4675
+2430,Basic,10,Germany,44,Female,Tablet,1 Month,451,8,4510
+2431,Premium,12,France,29,Female,Smart TV,1 Month,333,8,3996
+2432,Basic,11,Brazil,28,Female,Tablet,1 Month,329,8,3619
+2433,Standard,10,Mexico,48,Male,Tablet,1 Month,442,8,4420
+2434,Standard,11,Spain,42,Female,Smart TV,1 Month,436,8,4796
+2435,Basic,14,Italy,39,Male,Smartphone,1 Month,399,6,5586
+2436,Premium,14,Spain,44,Female,Smart TV,1 Month,300,9,4200
+2437,Basic,11,Spain,49,Male,Smart TV,1 Month,415,9,4565
+2438,Standard,12,United States,49,Female,Smart TV,1 Month,410,9,4920
+2439,Premium,10,Canada,36,Female,Laptop,1 Month,288,9,2880
+2440,Basic,14,United States,50,Female,Laptop,1 Month,434,9,6076
+2441,Premium,10,United States,49,Female,Smartphone,1 Month,454,7,4540
+2442,Basic,11,Canada,36,Male,Smartphone,1 Month,484,8,5324
+2443,Standard,13,United Kingdom,28,Female,Laptop,1 Month,276,10,3588
+2444,Standard,15,Australia,45,Female,Smartphone,1 Month,419,10,6285
+2445,Basic,14,Germany,31,Female,Smartphone,1 Month,356,10,4984
+2446,Premium,11,France,46,Male,Tablet,1 Month,415,10,4565
+2447,Basic,14,Brazil,27,Male,Tablet,1 Month,412,10,5768
+2448,Standard,13,Mexico,43,Male,Tablet,1 Month,409,10,5317
+2449,Premium,10,Spain,51,Female,Smart TV,1 Month,315,10,3150
+2450,Basic,13,Italy,47,Female,Smartphone,1 Month,257,10,3341
+2451,Premium,15,Spain,48,Female,Tablet,1 Month,402,10,6030
+2452,Basic,14,Spain,31,Female,Tablet,1 Month,458,4,6412
+2453,Standard,15,United States,48,Female,Smartphone,1 Month,514,6,7710
+2454,Standard,10,Canada,36,Male,Smartphone,1 Month,336,8,3360
+2455,Basic,10,United States,38,Female,Tablet,1 Month,422,9,4220
+2456,Premium,13,United States,39,Male,Smartphone,1 Month,244,11,3172
+2457,Basic,11,Canada,48,Male,Tablet,1 Month,300,12,3300
+2458,Standard,12,United Kingdom,30,Female,Smart TV,1 Month,361,12,4332
+2459,Premium,12,Australia,30,Male,Smart TV,1 Month,361,12,4332
+2460,Basic,15,Germany,35,Female,Smart TV,1 Month,214,12,3210
+2461,Premium,13,France,41,Male,Laptop,1 Month,389,11,5057
+2462,Basic,11,Brazil,40,Female,Smart TV,1 Month,242,11,2662
+2463,Standard,10,Mexico,50,Male,Smart TV,1 Month,331,12,3310
+2464,Standard,12,Spain,42,Female,Smartphone,1 Month,575,5,6900
+2465,Basic,15,Italy,30,Male,Tablet,1 Month,606,3,9090
+2466,Premium,12,Spain,34,Male,Laptop,1 Month,257,10,3084
+2467,Basic,15,Spain,40,Female,Smartphone,1 Month,377,10,5655
+2468,Standard,14,United States,47,Female,Smartphone,1 Month,409,10,5726
+2469,Premium,12,Canada,36,Male,Laptop,1 Month,379,10,4548
+2470,Basic,13,United States,50,Female,Tablet,1 Month,266,10,3458
+2471,Basic,10,United States,46,Male,Smartphone,1 Month,386,10,3860
+2472,Basic,14,Canada,27,Female,Tablet,1 Month,288,9,4032
+2473,Standard,12,United Kingdom,39,Female,Laptop,1 Month,405,9,4860
+2474,Premium,10,Australia,49,Male,Smart TV,1 Month,546,6,5460
+2475,Basic,12,Germany,37,Female,Tablet,1 Month,547,5,6564
+2476,Basic,13,France,28,Male,Tablet,1 Month,318,8,4134
+2477,Premium,12,Brazil,40,Male,Laptop,1 Month,464,8,5568
+2478,Standard,10,Mexico,47,Male,Tablet,1 Month,331,8,3310
+2479,Standard,11,Spain,51,Female,Laptop,1 Month,448,8,4928
+2480,Basic,13,Italy,47,Male,Laptop,1 Month,371,7,4823
+2481,Premium,10,Spain,33,Female,Laptop,1 Month,578,5,5780
+2482,Standard,13,Spain,37,Female,Laptop,1 Month,401,6,5213
+2483,Basic,15,United States,42,Male,Laptop,1 Month,467,7,7005
+2484,Standard,11,Canada,50,Female,Smart TV,1 Month,349,7,3839
+2485,Premium,14,United States,47,Female,Tablet,1 Month,500,7,7000
+2486,Basic,10,United States,40,Female,Smartphone,1 Month,354,7,3540
+2487,Premium,11,Canada,35,Male,Smart TV,1 Month,500,7,5500
+2488,Standard,11,United Kingdom,29,Female,Smartphone,1 Month,360,7,3960
+2489,Basic,11,Australia,48,Female,Smartphone,1 Month,508,7,5588
+2490,Standard,10,Germany,35,Male,Smart TV,1 Month,363,7,3630
+2491,Premium,13,France,41,Female,Smartphone,1 Month,477,7,6201
+2492,Basic,14,Brazil,29,Female,Laptop,1 Month,506,7,7084
+2493,Standard,11,Mexico,33,Male,Smart TV,1 Month,475,7,5225
+2494,Premium,12,Spain,36,Male,Smart TV,1 Month,359,7,4308
+2495,Basic,15,Italy,43,Female,Laptop,1 Month,502,7,7530
+2496,Premium,14,Spain,28,Female,Smart TV,1 Month,500,7,7000
+2497,Basic,15,Spain,33,Female,Smart TV,1 Month,462,4,6930
+2498,Standard,12,United States,38,Male,Laptop,1 Month,310,9,3720
+2499,Standard,13,Canada,48,Female,Tablet,1 Month,364,12,4732
+2500,Basic,15,United States,35,Female,Smart TV,1 Month,481,8,7215
