@@ -9,7 +9,9 @@ Therefore, by leveraging the power of data analysis and engineering tools such a
 
 <br/><br/>
 
-![alt text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/img/netflix%20(4).gif)
+<div align="center">
+    <img width="100%" src="img/netflix (4).gif" alt="Netflix1.gif" >
+</div>
 
 <br/><br/>
 
