@@ -13,9 +13,6 @@ Therefore, by leveraging the power of data analysis and engineering tools such a
 
 <br/><br/>
 
-
-<br/><br/>
-
 ### ◘ Introduction
 The acquired dataset provides a sample Netflix user base, showcasing a plethora of monthly revenue, user subscriptions, 
 activity, and account details. Each sample represents a unique user, identified by their identification as a user ID, and includes
