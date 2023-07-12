@@ -41,6 +41,10 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
+![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/edaFlowchart.png)
+
+<br/><br/>
+
 ### ◘ Methodologies & Technologies applied
 * Diagnose and fix structural errors
 * Check and Clean data
