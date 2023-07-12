@@ -47,7 +47,7 @@ This research is classified into 2 steps:
 
 <br/>
 
-* Model Workflow
+* Model Workflow:
 ![alt text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/img/ModelFlowchart.JPG)
 
 <br/><br/>
