@@ -42,8 +42,13 @@ This research is classified into 2 steps:
 <br/><br/>
 
 ### ◘ Study Flowcharts
-* Feature Exploration: 
+* Feature Analysis & Exploration: 
 ![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/edaFlowchart.png)
+
+<br/>
+
+* Model Workflow:
+![alt text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/img/ModelFlowchart.JPG)
 
 <br/><br/>
 
