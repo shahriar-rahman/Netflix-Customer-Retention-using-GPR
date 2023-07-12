@@ -13,6 +13,10 @@ Therefore, by leveraging the power of data analysis and engineering tools such a
 
 <br/><br/>
 
+![alt text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/img/netflix%20(7).jpg)
+
+<br/><br/>
+
 ### ◘ Objective
 The primary incentive of this research is to:
 * Process dataset by analyzing its integrity, missing values, duplicated values, and so forth.
@@ -23,10 +27,6 @@ The primary incentive of this research is to:
 * Compare and contrast the chosen set of transformation algorithms.
 * Apply the concepts of GridSearchCV to reach a proper conclusion on the ideal type of variables that would ultimately boost the model's performance on the data.
 * Apply the GPR Model and compare the results for different scaling algorithms.
-
-<br/><br/>
-
-![alt text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/img/netflix%20(7).jpg)
 
 <br/><br/>
 
