@@ -3,7 +3,7 @@
 Forecasting Netflix Customer Retention based on Gaussian Process Regression.
 
 <div align="center">
-    <img width="100%" src="img/netflix (4).gif" alt="Netflix1.gif" >
+    <img width="80%" src="img/netflix (4).gif" alt="Netflix1.gif" >
 </div>
 
 ### Introduction
