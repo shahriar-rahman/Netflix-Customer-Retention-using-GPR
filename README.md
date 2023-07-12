@@ -41,6 +41,8 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
+### ◘ Study Flowcharts
+* Feature Exploration: 
 ![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/edaFlowchart.png)
 
 <br/><br/>
