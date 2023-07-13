@@ -3,7 +3,7 @@
 Forecasting Netflix Customer Retention based on Gaussian Process Regression.
 
 <div align="center">
-    <img width="80%" src="img/netflix (4).gif" alt="Netflix1.gif" >
+    <img width="65%" src="img/netflix (4).gif" alt="Netflix1.gif" >
 </div>
 
 ### Introduction
@@ -52,17 +52,164 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-### ◘ Methodologies & Technologies applied
+### ◘ Methodologies & Concepts applied
 * Diagnose and fix structural errors
 * Check and Clean data
 * Address duplicates & outliers
 * Logical feature amalgamation to construct a unique variable
 * Univariate inspection
 * Bivariate inspection
-* Feature correlations
-* Seaborn & Matplotplib visualizations
-* GridSearchCV
-* GPR
-* Saving and loading an ML model
+* Feature correlations using Multivariate Analysis
+* Distributions and Pattern Recognition using Visualization tools 
+* Model Hyperparameter analysis and tuning
+* Gaussian Process Algorithm
+* Model Fitting, Training, Saving, Loading, and Evaluation
+* Loss Evaluation and Comparison
 
 <br/><br/>
+
+### ◘ Project Organization
+------------
+    ├─-- LICENSE
+    |
+    ├─-- README.md              # The top-level README for developers using this project
+    |
+    ├─-- dataset                # Different types of data derived from the original raw dataset
+    |    └──  processed        
+    |    └──  raw
+    |    └──  scaled
+    |    └──  test_set
+    |
+    |
+    ├─-- models                 # Trained and serialized models for future model predictions  
+    |    └── gpr_minmax.pkl
+    |    └── gpr_robust.pkl
+    |    └── gpr_standard.pkl
+    |
+    |
+    ├─ graphs                    # Generated graphics and figures obtained from visualization.py
+    |
+    |
+    ├─-- img                    # Project related files
+    |
+    ├─-- requirements.txt       # The requirements file for reproducing the analysis environments
+    |                         
+    |
+    ├─-- setup.py               # makes project pip installable, so that src can be imported
+    |
+    |
+    ├─-- src                    # Source code for use in this research
+    |   └───-- __init__.py    
+    |   |
+    |   ├─-- features            # Scripts to modify the raw data into different types of features for modeling
+    |   |   └── feature_preprocessing.py
+    |   |   └── feature_exploration.py
+    |   |   └── feature_transformation.py
+    |   |
+    |   ├─-- models                # Contains py filess for inspecting hyperparameters, training, and using trained models to make predictions         
+    |   |   └─── predict_model.py
+    |   |   └─── train_model.py
+    |   |
+    |   └───-- visualization        # Construct exploratory and result oriented visualizations to identify and reaffirm patterns
+    |       └───-- visualize.py
+    |
+    ├─
+--------
+
+<br/><br/>
+
+### ◘ Libraries & Technologies utilized
+* Python 3.11
+* PyCharm IDE (2023.1)
+* pip 23.0.1
+* setuptools 65.5.1
+* pandas 2.0.0
+* scikit-learn 1.2.2
+* seaborn 0.12.2
+* matplotlib 3.7.1
+* missingno 0.5.2
+* numpy 1.24.2
+* joblib 1.2.0
+
+<br/><br/>
+
+### ◘ Module Installation (setup.py)
+1. To use the *setup.py* file in Python, the first objective is to have the *setuptools* module installed. It can be accomplished by running the following command:
+```
+pip install setuptools                                     
+```
+2. Once the setuptools module is installed, use the setup.py file to build and distribute the Python package by running the following command:
+```
+python setup.py sdist bdist_wheel
+```
+3. In order to install the my_package package, run the following command:
+```
+pip install my_package                                 
+```
+4. This will install the my_package package and any of its dependencies that are not already installed on your system. Once the package is installed, you can use it in your Python programs by importing it like any other module. For example:
+```
+import my_package                                
+```
+
+<br/><br/>
+
+### ◘ Python Library Installation (using pip)
+In order to *install* the required packages on the local machine, Open pip and run the following commands separately:
+```
+> pip install setuptools                    
+
+> pip install pandas                                                          
+
+> pip install scikit-learn                                      
+
+> pip install seaborn
+
+> pip install matplotlib
+
+> pip install missingno
+
+> pip install numpy
+
+> pip install joblib                                  
+```
+
+<br/><br/>
+
+### ◘ Supplementary Resources
+For more details, visit the following links:
+* https://pypi.org/project/setuptools/
+* https://pypi.org/project/pandas/
+* https://pypi.org/project/scikit-learn/
+* https://pypi.org/project/seaborn/
+* https://pypi.org/project/matplotlib/
+* https://pypi.org/project/missingno/
+* https://pypi.org/project/numpy/
+* https://pypi.org/project/joblib/
+
+<br/><br/>
+
+### ◘ MIT License
+Copyright (c) 2023 Shahriar Rahman
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<br/>
+
+===========================================================================
+
