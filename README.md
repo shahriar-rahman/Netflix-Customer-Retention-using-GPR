@@ -72,9 +72,9 @@ This research is classified into 2 steps:
 ------------
     ├─-- LICENSE
     |
-    ├─-- README.md              # The top-level README for developers using this project.
+    ├─-- README.md              # The top-level README for developers using this project
     |
-    ├─-- dataset       		    # Different types of data derived from the original raw dataset
+    ├─-- dataset                # Different types of data derived from the original raw dataset
     |    └──  processed        
     |    └──  raw
     |    └──  scaled
@@ -98,25 +98,22 @@ This research is classified into 2 steps:
     ├─-- setup.py               # makes project pip installable, so that src can be imported
     |
     |
-    ├─-- src                <- Source code for use in this project.
+    ├─-- src                    # Source code for use in this research
     |   └───-- __init__.py    
     |   |
-    |   ├─-- data           <- Scripts to download or generate data
-    |   |   └── make_dataset.py
+    |   ├─-- features            # Scripts to modify the raw data into different types of features for modeling
+    |   |   └── feature_preprocessing.py
+    |   |   └── feature_exploration.py
+    |   |   └── feature_transformation.py
     |   |
-    |   ├─-- features       <- Scripts to turn raw data into features for modeling
-    |   |   └── construct_features.py
-    |   |   └──  feature_analysis.py
-    |   |   └── parent_features.py
+    |   ├─-- models                # Contains py filess for inspecting hyperparameters, training, and using trained models to make predictions         
+    |   |   └─── predict_model.py
+    |   |   └─── train_model.py
     |   |
-    |   ├─-- models         <- Scripts to train models and then use trained models to make predictions         
-    |   |   └─── model_test.py
-    |   |   └─── model_train.py
-    |   |
-    |   └───-- visualization  <- Scripts to create exploratory and results oriented visualizations
+    |   └───-- visualization        # Construct exploratory and result oriented visualizations to identify and reaffirm patterns
     |       └───-- visualize.py
     |
-    ├─-- tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+    ├─
 --------
 
 <br/><br/>
