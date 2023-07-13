@@ -52,7 +52,7 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-### ◘ Methodologies & Technologies applied
+### ◘ Methodologies & Concepts applied
 * Diagnose and fix structural errors
 * Check and Clean data
 * Address duplicates & outliers
@@ -60,9 +60,25 @@ This research is classified into 2 steps:
 * Univariate inspection
 * Bivariate inspection
 * Feature correlations using Multivariate Analysis
-* Distributions and Pattern Recognition using Visualization tools.
+* Distributions and Pattern Recognition using Visualization tools 
 * Model Hyperparameter analysis and tuning
 * Gaussian Process Algorithm
 * Model Fitting, Training, Saving, Loading, and Evaluation
+* Loss Evaluation and Comparison
+
+<br/><br/>
+
+### ◘ Libraries & Technologies utilized
+* Python 3.11
+* PyCharm IDE (2023.1)
+* pip 23.0.1
+* setuptools 65.5.1
+* scikit-learn 1.2.2
+* seaborn 0.12.2
+* matplotlib 3.7.1
+* missingno 0.5.2
+* numpy 1.24.2
+* plotly 5.15.0
+* joblib 1.2.0
 
 <br/><br/>
