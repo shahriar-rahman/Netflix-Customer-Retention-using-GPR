@@ -72,30 +72,30 @@ This research is classified into 2 steps:
 ------------
     ├─-- LICENSE
     |
-    ├─-- README.md          <- The top-level README for developers using this project.
+    ├─-- README.md              # The top-level README for developers using this project.
     |
-    ├─-- data         		<- The original, immutable data dump.
+    ├─-- dataset       		    # Different types of data derived from the original raw dataset
+    |    └──  processed        
+    |    └──  raw
+    |    └──  scaled
+    |    └──  test_set
     |
     |
-    ├─-- models             <- Trained and serialized models, model predictions, or model summaries  
-    |    └── model.pkl
+    ├─-- models                 # Trained and serialized models for future model predictions  
+    |    └── gpr_minmax.pkl
+    |    └── gpr_robust.pkl
+    |    └── gpr_standard.pkl
     |
-    ├─-- notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    |                         		initials, and a short `-` delimited description
     |
-    ├─-- references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├─ graphs                    # Generated graphics and figures obtained from visualization.py
     |
-    ├─ figures            <- Generated graphics and figures obtained from visualization.py
-    |   └── ide_graphs           <- Generated using PyCharm IDE
-    |   |
-    |   └── notebook_graphs    <- Generated using Jupyter Notebooks
     |
-    ├─-- img            <- Project related files
+    ├─-- img                    # Project related files
     |
-    ├─-- requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    |                         generated with `pip freeze > requirements.txt`
+    ├─-- requirements.txt       # The requirements file for reproducing the analysis environments
+    |                         
     |
-    ├─-- setup.py           <- makes project pip installable, so that src can be imported
+    ├─-- setup.py               # makes project pip installable, so that src can be imported
     |
     |
     ├─-- src                <- Source code for use in this project.
