@@ -59,10 +59,10 @@ This research is classified into 2 steps:
 * Logical feature amalgamation to construct a unique variable
 * Univariate inspection
 * Bivariate inspection
-* Feature correlations
-* Seaborn & Matplotplib visualizations
-* GridSearchCV
-* GPR
-* Saving and loading an ML model
+* Feature correlations using Multivariate Analysis
+* Distributions and Pattern Recognition using Visualization tools.
+* Model Hyperparameter analysis and tuning
+* Gaussian Process Algorithm
+* Model Fitting, Training, Saving, Loading, and Evaluation
 
 <br/><br/>
