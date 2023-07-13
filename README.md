@@ -123,12 +123,12 @@ This research is classified into 2 steps:
 * PyCharm IDE (2023.1)
 * pip 23.0.1
 * setuptools 65.5.1
+* pandas 2.0.0
 * scikit-learn 1.2.2
 * seaborn 0.12.2
 * matplotlib 3.7.1
 * missingno 0.5.2
 * numpy 1.24.2
-* plotly 5.15.0
 * joblib 1.2.0
 
 <br/><br/>
@@ -153,18 +153,65 @@ import my_package
 
 <br/><br/>
 
+### ◘ Python Library Installation (using pip)
+In order to *install* the required packages on the local machine, Open pip and run the following commands separately:
+```
+> pip install setuptools                    
+
+> pip install pandas                                                          
+
+> pip install scikit-learn                                      
+
+> pip install seaborn
+
+> pip install matplotlib
+
+> pip install missingno
+
+> pip install numpy
+
+> pip install joblib                                  
+```
+
+<br/><br/>
+
 ### ◘ Supplementary Resources
 For more details, visit the following links:
+* https://pypi.org/project/setuptools/
 * https://pypi.org/project/pandas/
-* https://pypi.org/project/openpyxl/
-* https://pypi.org/project/selenium/
-* https://www.python.org/downloads/release/python-3110/
+* https://pypi.org/project/scikit-learn/
+* https://pypi.org/project/seaborn/
+* https://pypi.org/project/matplotlib/
+* https://pypi.org/project/missingno/
+* https://pypi.org/project/numpy/
+* https://pypi.org/project/joblib/
 
 <br/><br/>
 
 ### ◘ License
+MIT License
 
+Copyright (c) 2023 Shahriar Rahman
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-<br/><br/>
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<br/>
+
+===========================================================================
 
