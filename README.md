@@ -188,9 +188,7 @@ For more details, visit the following links:
 
 <br/><br/>
 
-### ◘ License
-MIT License
-
+### ◘ MIT License
 Copyright (c) 2023 Shahriar Rahman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
