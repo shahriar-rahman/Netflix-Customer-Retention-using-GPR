@@ -89,6 +89,15 @@ Three types of Scaling methods are conducted in order to reach peak efficiency i
 | Standard GPR | 2.30e-11 | 3.41e-06 | 0.99 |
 | MinMax GPR | 3.79e-13 | 4.59e-07 | 0.99 |
 
+
+* Test Loss
+
+| Type | RMSE | MAE | R-Squared |
+|--|--|--|---|
+| Robust GPR | 1.08e-09 | 1.20e-05 | 0.99 |
+| Standard GPR | 1.20e-09 | 1.29e-05 | 0.99 |
+| MinMax GPR | 1.89e-12 | 7.69e-07 | 0.99 |
+
 <br/><br/>
 
 ### ◘ Project Organization
