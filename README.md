@@ -80,7 +80,7 @@ Three types of Scaling methods are conducted in order to reach peak efficiency i
 
 <br/><br/>
 
-### ◘ Evaluation 
+### ◘ Model Evaluation based on the data type
 Training Loss
 
 | Type | RMSE | MAE | R-Squared |
