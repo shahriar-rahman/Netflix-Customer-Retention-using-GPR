@@ -76,7 +76,7 @@ Three types of Scaling methods are conducted in order to reach peak efficiency i
 
 <br/>
 
-![al text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/graphs/Fig_23_scaled_comparison.png)
+![al text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/graphs/Fig_23_refined.png)
 
 <br/><br/>
 
