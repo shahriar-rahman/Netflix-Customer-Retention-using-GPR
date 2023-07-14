@@ -68,6 +68,18 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
+### ◘ Feature Transformations
+Three types of Scaling methods are conducted in order to reach peak efficiency in the model's performance:
+1. Robust Scaling
+2. Standard Scaler
+3. MinMax Scaling
+
+<br/>
+
+![al text](https://github.com/shahriar-rahman/Netflix-Customer-Retention-using-GPR/blob/main/graphs/Fig_23_scaled_comparison.png)
+
+<br/><br/>
+
 ### ◘ Project Organization
 ------------
     ├─-- LICENSE
