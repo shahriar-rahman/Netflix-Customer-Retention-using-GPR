@@ -83,7 +83,7 @@ Three types of Scaling methods are conducted in order to reach peak efficiency i
 ### ◘ Model Evaluation based on the data type
 Training Loss
 
-| Type | RMSE | MAE | R-Squared |
+| **Type** | **RMSE** | **MAE** | **R-Squared** |
 |--|--|--|---|
 | Robust GPR | 1.93e-11 | 3.26e-06 | 0.99 |
 | Standard GPR | 2.30e-11 | 3.41e-06 | 0.99 |
@@ -92,7 +92,7 @@ Training Loss
 
 Test Loss
 
-| Type | RMSE | MAE | R-Squared |
+| **Type** | **RMSE** | **MAE** | **R-Squared** |
 |--|--|--|---|
 | Robust GPR | 1.08e-09 | 1.20e-05 | 0.99 |
 | Standard GPR | 1.20e-09 | 1.29e-05 | 0.99 |
