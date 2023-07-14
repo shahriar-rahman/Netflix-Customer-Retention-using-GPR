@@ -82,6 +82,7 @@ Three types of Scaling methods are conducted in order to reach peak efficiency i
 
 ### ◘ Evaluation 
 * Training Loss
+
 | Type | RMSE | MAE | R-Squared |
 |--|--|--|---|
 | Robust GPR | 1.93e-11 | 3.26e-06 | 0.99 |
