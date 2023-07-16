@@ -178,7 +178,11 @@ python setup.py sdist bdist_wheel
 ```
 pip install my_package                                 
 ```
-4. This will install the my_package package and any of its dependencies that are not already installed on your system. Once the package is installed, you can use it in your Python programs by importing it like any other module. For example:
+4. This command will install all the requirements:
+```
+pip install .                                 
+```
+5. This will install the my_package package and any of its dependencies that are not already installed on your system. Once the package is installed, you can use it in your Python programs by importing it like any other module. For example:
 ```
 import my_package                                
 ```
