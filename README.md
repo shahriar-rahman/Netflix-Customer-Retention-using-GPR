@@ -1,6 +1,6 @@
 ===========================================================================
 # Netflix Customer Retention using GPR
-Forecasting Netflix Customer Retention based on Gaussian Process Regression. This Machine Learning research is a follow-up to the exploratory data analysis [Exploratory Analysis of Netflix User Base Data](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase)
+Forecasting Netflix Customer Retention based on Gaussian Process Regression. This Machine Learning research is a follow-up to the exploratory data analysis [Exploratory Analysis of Netflix User Base Data](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase).
 
 <div align="center">
     <img width="65%" src="img/netflix (4).gif" alt="Netflix1.gif" >
